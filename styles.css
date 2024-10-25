@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#posts-container {
+    margin-bottom: 40px;
+}
+
+#comment-section {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+textarea, input {
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+button {
+    padding: 10px 20px;
+}
