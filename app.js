@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 
 function fetchComments() {
-    fetch('http://192.168.179.137:5000/get_comments')
+    fetch('https://thibeauk.pythonanywhere.com/get_comments')
         .then(response => response.json())
         .then(data => {
             let commentsContainer = document.getElementById('posts-container');
@@ -22,7 +22,7 @@ function submitComment() {
     let comment = document.getElementById('comment').value;
 
     if (username && comment) {
-        fetch('http://192.168.179.137:5000/add_comment', {
+        fetch('https://thibeauk.pythonanywhere.com/add_comment', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
