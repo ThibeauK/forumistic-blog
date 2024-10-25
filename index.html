@@ -5,12 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Blog/Wiki</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <h1>Welcome to My Blog</h1>
     <div id="posts-container">
         <!-- Posts will be dynamically injected here -->
     </div>
+
+    <div id="comments-container">
+        <h3>Comments:</h3>
+        <!-- Comments will be dynamically injected here -->
+    </div>
+
     <div id="comment-section">
         <h3>Add a Comment:</h3>
         <input type="text" id="username" placeholder="Enter a username" required><br>

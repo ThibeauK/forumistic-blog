@@ -1,13 +1,46 @@
 document.addEventListener('DOMContentLoaded', (event) => {
+    fetchPosts();
     fetchComments();
 });
 
+function fetchPosts() {
+    // GitHub repository where your Markdown posts are stored
+    const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/";
+
+    // Fetch the repository content
+    fetch(repoURL)
+        .then(response => response.json())
+        .then(data => {
+            // Filter to get only .md files
+            const markdownFiles = data.filter(file => file.name.endsWith(".md"));
+
+            markdownFiles.forEach(file => {
+                fetch(file.download_url)
+                    .then(response => response.text())
+                    .then(markdownContent => {
+                        // Use marked.js to convert Markdown to HTML
+                        const postHTML = marked.parse(markdownContent);
+
+                        // Create a div to display the post
+                        let postDiv = document.createElement('div');
+                        postDiv.className = 'post';
+                        postDiv.innerHTML = postHTML;
+
+                        // Append postDiv to the posts container
+                        document.getElementById('posts-container').appendChild(postDiv);
+                    });
+            });
+        });
+}
+
 function fetchComments() {
+    // Assuming your comments are fetched as before
     fetch('https://thibeauk.pythonanywhere.com/get_comments')
         .then(response => response.json())
         .then(data => {
-            let commentsContainer = document.getElementById('posts-container');
+            let commentsContainer = document.getElementById('comments-container');
             commentsContainer.innerHTML = ''; // Clear the container
+
             data.forEach(comment => {
                 let commentDiv = document.createElement('div');
                 commentDiv.className = 'comment';
