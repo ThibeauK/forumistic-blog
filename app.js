@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 function fetchPosts() {
     // GitHub repository where your Markdown posts are stored
-    const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/";
+    const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/posts";
 
     // Fetch the repository content
     fetch(repoURL)
