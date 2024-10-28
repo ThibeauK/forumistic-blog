@@ -4,49 +4,71 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 
 function fetchPosts() {
-    // GitHub repository where your Markdown posts are stored
-    const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/posts";
+    // GitHub repository URL for Markdown files, if applicable
+    const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/contents";
+    console.log("Fetching list of Markdown files from GitHub (contents folder)...");
 
-    // Fetch the repository content
     fetch(repoURL)
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Network response was not ok: ${response.statusText}`);
+            }
+            return response.json();
+        })
         .then(data => {
-            // Filter to get only .md files
+            console.log("GitHub API response:", data);
             const markdownFiles = data.filter(file => file.name.endsWith(".md"));
+            if (markdownFiles.length === 0) {
+                console.error("No Markdown files found in the 'contents' folder.");
+                return;
+            }
 
             markdownFiles.forEach(file => {
                 fetch(file.download_url)
-                    .then(response => response.text())
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Failed to fetch file: ${file.name} - ${response.statusText}`);
+                        }
+                        return response.text();
+                    })
                     .then(markdownContent => {
-                        // Use marked.js to convert Markdown to HTML
                         const postHTML = marked.parse(markdownContent);
-
-                        // Create a div to display the post
                         let postDiv = document.createElement('div');
                         postDiv.className = 'post';
                         postDiv.innerHTML = postHTML;
-
-                        // Append postDiv to the posts container
                         document.getElementById('posts-container').appendChild(postDiv);
+                    })
+                    .catch(error => {
+                        console.error(`Error fetching Markdown file content (${file.name}):`, error);
                     });
             });
+        })
+        .catch(error => {
+            console.error("Error fetching list of Markdown files from GitHub:", error);
         });
 }
 
 function fetchComments() {
-    // Assuming your comments are fetched as before
-    fetch('https://thibeauk.pythonanywhere.com/get_comments')
-        .then(response => response.json())
+    console.log("Fetching comments...");
+    fetch('https://ThibeauK.pythonanywhere.com/get_comments')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Network response was not ok: ${response.statusText}`);
+            }
+            return response.json();
+        })
         .then(data => {
             let commentsContainer = document.getElementById('comments-container');
-            commentsContainer.innerHTML = ''; // Clear the container
-
+            commentsContainer.innerHTML = '';
             data.forEach(comment => {
                 let commentDiv = document.createElement('div');
                 commentDiv.className = 'comment';
                 commentDiv.innerHTML = `<strong>${comment.username}</strong>: ${comment.comment}`;
                 commentsContainer.appendChild(commentDiv);
             });
+        })
+        .catch(error => {
+            console.error("Error fetching comments:", error);
         });
 }
 
@@ -55,17 +77,25 @@ function submitComment() {
     let comment = document.getElementById('comment').value;
 
     if (username && comment) {
-        fetch('https://thibeauk.pythonanywhere.com/add_comment', {
+        fetch('https://ThibeauK.pythonanywhere.com/add_comment', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({username: username, comment: comment}),
         })
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Network response was not ok: ${response.statusText}`);
+            }
+            return response.json();
+        })
         .then(data => {
             console.log(data.message);
             fetchComments(); // Refresh comments after submitting
+        })
+        .catch(error => {
+            console.error("Error submitting comment:", error);
         });
     }
 }
