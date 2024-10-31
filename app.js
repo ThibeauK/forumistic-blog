@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 function fetchPosts() {
     // GitHub repository URL for Markdown files, if applicable
-    const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/contents";
+    const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/posts";
     console.log("Fetching list of Markdown files from GitHub (contents folder)...");
 
     fetch(repoURL)
