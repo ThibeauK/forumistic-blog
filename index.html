@@ -19,11 +19,16 @@
     </div>
 
     <div id="comment-section">
-        <h3>Add a Comment:</h3>
-        <input type="text" id="username" placeholder="Enter a username" required><br>
-        <textarea id="comment" placeholder="Write your comment here" required></textarea><br>
+        <div id="reply-context-display" class="reply-context" contenteditable="false"></div>
+        <textarea id="comment" placeholder="Write your comment here..."></textarea>
+        <input type="text" id="username" placeholder="Your name">
         <button onclick="submitComment()">Submit Comment</button>
     </div>
+
+    
+    
+    
+    
 
     <script src="app.js"></script>
 </body>
