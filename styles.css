@@ -13,7 +13,7 @@ body {
     border: 1px solid #ccc;
 }
 
-#comments-container .reply-link{
+.reply-link-post, .reply-link-comment{
     margin-left: 20px;
 
 }
@@ -24,30 +24,26 @@ textarea, input {
     padding: 5px;
 }
 
-.commentposted{
-    color: red;
-}
-
 button {
     padding: 10px 20px;
 }
 
 .reply-context {
-    color: red;  /* Highlight the "replying to" part in red */
-    font-weight: bold;  /* Make it bold for emphasis */
-    margin-bottom: 5px;  /* Add some spacing below */
+    font-style: italic;
+    -webkit-text-stroke: 0.5px; 
+    margin-bottom: 5px;
 }
 
 .main-comment {
-    color: black;  /* Default color for the main comment text */
-    font-style: normal;  /* Set the style of the actual comment */
+    font-style: normal;
 }
 
 .reply-link {
-    text-decoration: underline;  /* To make the link recognizable */
-    color: blue;  /* Default link color */
-    cursor: pointer;
+    text-decoration: underline;
+    color: blue;
+    margin-left: 0 !important;
 }
+
 
 
 

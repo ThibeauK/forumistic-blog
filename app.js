@@ -32,34 +32,24 @@ function fetchPosts() {
                     })
                     .then(markdownContent => {
                         const postHTML = marked.parse(markdownContent);
-                        
-                        // Create a container div for the post
+
                         let postDiv = document.createElement('div');
                         postDiv.className = 'post';
-                        
-                        // Add a unique ID to each post based on its filename (without .md)
-                        const postId = file.name.replace('.md', '');
-                        postDiv.id = `post-${postId}`;  // Use backticks here
 
-                        // Set the post content
+                        const postId = file.name.replace('.md', '');
+                        postDiv.id = `post-${postId}`; 
                         postDiv.innerHTML = postHTML;
 
-                        // Create a Reply link for each post
+ 
                         let replyLink = document.createElement('a');
                         replyLink.href = "#comment-section";
-                        replyLink.textContent = "Reply";
-                        replyLink.className = 'reply-link';
+                        replyLink.textContent = "⎇ Reply";
+                        replyLink.className = 'reply-link-post';
                         replyLink.onclick = function() {
                             handleReply(file.name);
                         };
 
-                        // Add margin to the reply link to create whitespace
-                        replyLink.style.marginLeft = "20px";
-
-                        // Append the reply link to the post content
                         postDiv.appendChild(replyLink);
-                        
-                        // Append the complete post to the posts container
                         document.getElementById('posts-container').appendChild(postDiv);
                     })
                     .catch(error => {
@@ -84,13 +74,12 @@ function fetchComments() {
         })
         .then(data => {
             let commentsContainer = document.getElementById('comments-container');
-            commentsContainer.innerHTML = ''; // Clear the container before adding new comments
+            commentsContainer.innerHTML = ''; 
 
             data.forEach((comment, index) => {
                 let commentDiv = document.createElement('div');
                 commentDiv.className = 'comment';
-                
-                // Extract reply context if available
+
                 let fullComment = comment.comment;
                 let replyContext = '';
                 let mainComment = fullComment;
@@ -103,23 +92,22 @@ function fetchComments() {
                     }
                 }
 
-                // Create a span for the reply context if available
                 let replyContextHTML = '';
                 if (replyContext) {
-                    replyContextHTML = `<span class="reply-context" id="reply-context-${index}">${replyContext}</span> `;
+                    let replyTarget = replyContext.replace('Replying to Comment from ', '').trim();
+                    replyContextHTML = `<span class="reply-context" id="reply-context-${index}">Replying to <a href="#post-${replyTarget}" class="reply-link">${replyTarget}</a></span> `;
                 }
 
-                // Set the innerHTML with the reply context and main comment
+
+                let mainCommentHTML = `<span id="main-comment-${index}">${mainComment}</span>`;
                 commentDiv.innerHTML = `
-                    <strong>${comment.username}</strong>: ${replyContextHTML}${mainComment}
+                    <strong>${comment.username}</strong>: ${replyContextHTML}${mainCommentHTML}
                 `;
 
-                // Create a Reply link for each comment
                 let replyLink = document.createElement('a');
                 replyLink.href = "#comment-section";
-                replyLink.textContent = "Reply";
-                replyLink.className = 'reply-link';
-                replyLink.style.marginLeft = "20px"; // Add some spacing for clarity
+                replyLink.textContent = "⎇ Reply";
+                replyLink.className = 'reply-link-comment';
                 replyLink.onclick = function() {
                     handleReply(`Comment from ${comment.username}`);
                 };
@@ -133,10 +121,9 @@ function fetchComments() {
         });
 }
 
-function handleReply(replyToPostName) {
-    console.log("handleReply called with:", replyToPostName); // Debug log
 
-    // Scroll to the comment form
+
+function handleReply(replyToPostName) {
     let formElement = document.getElementById('comment-section');
     if (formElement) {
         formElement.scrollIntoView({ behavior: 'smooth' });
@@ -144,38 +131,50 @@ function handleReply(replyToPostName) {
         console.error("Form element not found for ID: comment-section");
     }
 
-    // Create a clickable link to the original post/comment
     const postId = replyToPostName.replace('.md', '');
-    const replyLink = `<a href="#post-${postId}">${replyToPostName.replace('.md', '')}</a>`;
+    const replyLinkHTML = `<a href="#post-${postId}" class="reply-link">${replyToPostName.replace('.md', '')}</a>`;
 
-    // Prefill the comment text area with the reply text including the link
+    let replyContextDisplay = document.getElementById('reply-context-display');
+    if (replyContextDisplay) {
+        replyContextDisplay.innerHTML = `Replying to: ${replyLinkHTML}`;
+        replyContextDisplay.style.display = 'block'; 
+    } else {
+        console.error("Reply context display element not found for ID: reply-context-display");
+    }
+
+    let hiddenReplyContext = document.getElementById('hidden-reply-context');
+    if (hiddenReplyContext) {
+        hiddenReplyContext.value = `Replying to Comment from ${replyToPostName.replace('.md', '')}`;
+    } else {
+        console.error("Hidden reply context input element not found for ID: hidden-reply-context");
+    }
+
     let commentInput = document.getElementById('comment');
     if (commentInput) {
-        // Wrap the reply context in a span for styling
-        commentInput.value = `Replying to <span class="reply-context" id="reply-context">${replyLink}</span> - `;
+        commentInput.value = ''; 
         commentInput.focus();
     } else {
         console.error("Comment input element not found for ID: comment");
     }
 }
 
-
-
-
 function submitComment() {
     let username = document.getElementById('username').value;
     let commentInput = document.getElementById('comment');
-    let comment = commentInput.value;
+    let mainComment = commentInput.value;
+    let replyContext = document.getElementById('hidden-reply-context').value;
+
+    let combinedComment = replyContext ? `${replyContext} - ${mainComment}` : mainComment;
+
     let frm = document.getElementById('comment-section');
 
-    if (username && comment) {
-        // Store the comment in the correct format
+    if (username && mainComment) {
         fetch('https://ThibeauK.pythonanywhere.com/add_comment', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({username: username, comment: comment}),
+            body: JSON.stringify({ username: username, comment: combinedComment }),
         })
         .then(response => {
             if (!response.ok) {
@@ -185,8 +184,12 @@ function submitComment() {
         })
         .then(data => {
             console.log(data.message);
-            fetchComments(); // Fetch comments after adding a new one
-            frm.reset(); // Clear the form after submitting
+            fetchComments();
+            frm.reset(); 
+            let replyContextDisplay = document.getElementById('reply-context-display');
+            replyContextDisplay.innerHTML = '';
+            replyContextDisplay.style.display = 'none';
+            document.getElementById('hidden-reply-context').value = ''; 
         })
         .catch(error => {
             console.error("Error submitting comment:", error);

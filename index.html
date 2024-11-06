@@ -10,20 +10,20 @@
 <body>
     <h1>Welcome to My Blog</h1>
     <div id="posts-container">
-        <!-- Posts will be dynamically injected here -->
     </div>
 
     <div id="comments-container">
         <h3>Comments:</h3>
-        <!-- Comments will be dynamically injected here -->
     </div>
 
-    <div id="comment-section">
-        <div id="reply-context-display" class="reply-context" contenteditable="false"></div>
+    <form id="comment-section">
+        <div id="reply-context-display" class="reply-context" contenteditable="false"></div> <!-- Display reply context -->
         <textarea id="comment" placeholder="Write your comment here..."></textarea>
         <input type="text" id="username" placeholder="Your name">
+        <input type="hidden" id="hidden-reply-context"> <!-- Hidden input to store reply context -->
         <button onclick="submitComment()">Submit Comment</button>
-    </div>
+    </form>
+    
 
     
     
