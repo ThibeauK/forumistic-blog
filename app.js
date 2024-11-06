@@ -1,6 +1,10 @@
 document.addEventListener('DOMContentLoaded', (event) => {
     fetchPosts();
     fetchComments();
+    
+    const d = new Date();
+    document.getElementById("time").innerHTML = d;
+
 });
 
 function fetchPosts() {
@@ -163,9 +167,7 @@ function submitComment() {
     let commentInput = document.getElementById('comment');
     let mainComment = commentInput.value;
     let replyContext = document.getElementById('hidden-reply-context').value;
-
     let combinedComment = replyContext ? `${replyContext} - ${mainComment}` : mainComment;
-
     let frm = document.getElementById('comment-section');
 
     if (username && mainComment) {
