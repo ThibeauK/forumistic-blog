@@ -1,28 +1,34 @@
+@font-face { font-family: Anonymous; src: url('fonts/anonymous-pro.regular.ttf');}
+
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
     background-color: black;
-    color: yellow;
+    color:rgb(9, 255, 0);
     font-family: 'Courier New';
+}
+
+#time{
+    color: rgb(79, 53, 243);
 }
 
 a{
     font-style: italic;
-    color: yellow;
+    color:rgb(67, 45, 211);
 }
 
 a:hover{
     text-shadow: 
-    1px 1px 0.28px yellow, 0 0 0.28px yellow, 
-    0 0 0.28px yellow, 0 0 0.28px yellow, 
-    1px 1px 0.28px yellow, 0 0 0.28px yellow;
+    1px 1px 0.28px rgb(67, 45, 211), 0 0 0.28px rgb(67, 45, 211), 
+    0 0 0.28px rgb(67, 45, 211), 0 0 0.28px rgb(67, 45, 211), 
+    1px 1px 0.28px rgb(67, 45, 211), 0 0 0.28px rgb(67, 45, 211);
 }
 
 #title{
     text-align: center;
-    border: 1px solid yellow;
+    border: 1px solid rgb(9, 255, 0);
     padding: 0.2em;
-    line-height: 1em;
+    line-height: 0.5em;
 
 }
 
@@ -38,10 +44,18 @@ a:hover{
 
 #posts-container {
     margin-bottom: 40px;
-    flex-shrink: 6;
-    width: max-content;
-    overflow-wrap: break-word;
-    font-family: garamond !important;
+    width: 90vw;
+    overflow-wrap: break-word;;
+}
+
+#comments-container{
+    padding-top: 22px;
+    font-family: Anonymous !important;
+    color: grey
+}
+
+#comments-container strong{
+    color: rgb(9, 255, 0);
 }
 
 #comments-container .comment{
@@ -51,7 +65,7 @@ a:hover{
 #comment-section {
     margin-top: 20px;
     padding: 1em;
-    border: 1px solid yellow;
+    border: 1px solid rgb(9, 255, 0);
 }
 
 #comment-section input, textarea{
@@ -89,8 +103,7 @@ button {
     text-decoration: underline;
     margin-left: 0 !important;
 }
-
-@media only screen and (max-width:1000px) {
+@media only screen and (max-width: 1100px) {
     #posts-container {
         width: 70vw;
     }
