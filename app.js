@@ -19,12 +19,24 @@ function fetchPosts() {
         })
         .then(data => {
             console.log("GitHub API response:", data);
-            const markdownFiles = data.filter(file => file.name.endsWith(".md"));
+
+            // Filter out only markdown files
+            let markdownFiles = data.filter(file => file.name.endsWith(".md"));
+
+            // Sort the markdown files by filename in descending order
+            // Assuming the files are named in a sequence like "post1.md", "post2.md", etc.
+            markdownFiles.sort((a, b) => {
+                let aNumber = parseInt(a.name.match(/\d+/));
+                let bNumber = parseInt(b.name.match(/\d+/));
+                return bNumber - aNumber; // Sort from highest to lowest (descending)
+            });
+
             if (markdownFiles.length === 0) {
                 console.error("No Markdown files found in the 'contents' folder.");
                 return;
             }
 
+            // Fetch and render each file in sorted order
             markdownFiles.forEach((file, index) => {
                 fetch(file.download_url)
                     .then(response => {
@@ -43,7 +55,7 @@ function fetchPosts() {
                         postDiv.id = `post-${postId}`; 
                         postDiv.innerHTML = postHTML;
 
-                        // Create Reply Link
+                        // Create a Reply link for each post
                         let replyLink = document.createElement('a');
                         replyLink.href = "#comment-section";
                         replyLink.textContent = "⎇ Reply";
@@ -64,6 +76,7 @@ function fetchPosts() {
             console.error("Error fetching list of Markdown files from GitHub:", error);
         });
 }
+
 
 function fetchComments() {
     console.log("Fetching comments...");
