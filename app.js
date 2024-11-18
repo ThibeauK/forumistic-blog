@@ -1,5 +1,8 @@
 document.addEventListener('DOMContentLoaded', (event) => {
     initializePage();
+
+    const d = new Date();
+    document.getElementById("time").innerHTML = d;
 });
 
 function initializePage() {
