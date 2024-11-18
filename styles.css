@@ -44,7 +44,7 @@ a:hover{
 
 #posts-container {
     margin-bottom: 40px;
-    width: 90vw;
+    width: 68vw;
     overflow-wrap: break-word;;
 }
 
@@ -59,6 +59,7 @@ a:hover{
 
 #comments-container{
     padding-top: 22px;
+    width: 28vw;
     font-family: Anonymous !important;
     color: grey
 }

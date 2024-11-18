@@ -1,16 +1,39 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    fetchPosts();
-    fetchComments();
-    
-    const d = new Date();
-    document.getElementById("time").innerHTML = d;
+    initializePage();
 });
+
+function initializePage() {
+    // Adding a loading state to ensure everything loads before interaction
+    showLoadingState();
+    Promise.all([fetchPosts(), fetchComments()])
+        .then(() => {
+            hideLoadingState();
+        })
+        .catch(error => {
+            console.error("Initialization error:", error);
+            hideLoadingState();
+        });
+}
+
+function showLoadingState() {
+    let loadingElement = document.getElementById('loading-state');
+    if (loadingElement) {
+        loadingElement.style.display = 'block';
+    }
+}
+
+function hideLoadingState() {
+    let loadingElement = document.getElementById('loading-state');
+    if (loadingElement) {
+        loadingElement.style.display = 'none';
+    }
+}
 
 function fetchPosts() {
     const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/posts";
     console.log("Fetching list of Markdown files from GitHub (contents folder)...");
 
-    fetch(repoURL)
+    return fetch(repoURL)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`Network response was not ok: ${response.statusText}`);
@@ -20,15 +43,13 @@ function fetchPosts() {
         .then(data => {
             console.log("GitHub API response:", data);
 
-            // Filter out only markdown files
             let markdownFiles = data.filter(file => file.name.endsWith(".md"));
 
-            // Sort the markdown files by filename in descending order
-            // Assuming the files are named in a sequence like "post1.md", "post2.md", etc.
+            // Sort files in descending order (latest first)
             markdownFiles.sort((a, b) => {
                 let aNumber = parseInt(a.name.match(/\d+/));
                 let bNumber = parseInt(b.name.match(/\d+/));
-                return bNumber - aNumber; // Sort from highest to lowest (descending)
+                return bNumber - aNumber;
             });
 
             if (markdownFiles.length === 0) {
@@ -36,51 +57,52 @@ function fetchPosts() {
                 return;
             }
 
-            // Fetch and render each file in sorted order
-            markdownFiles.forEach((file, index) => {
-                fetch(file.download_url)
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error(`Failed to fetch file: ${file.name} - ${response.statusText}`);
-                        }
-                        return response.text();
-                    })
-                    .then(markdownContent => {
-                        const postHTML = marked.parse(markdownContent);
-
-                        let postDiv = document.createElement('div');
-                        postDiv.className = 'post';
-
-                        const postId = file.name.replace('.md', '');
-                        postDiv.id = `post-${postId}`; 
-                        postDiv.innerHTML = postHTML;
-
-                        // Create a Reply link for each post
-                        let replyLink = document.createElement('a');
-                        replyLink.href = "#comment-section";
-                        replyLink.textContent = "⎇ Reply";
-                        replyLink.className = 'reply-link-post';
-                        replyLink.onclick = function() {
-                            handleReply(file.name);
-                        };
-
-                        postDiv.appendChild(replyLink);
-                        document.getElementById('posts-container').appendChild(postDiv);
-                    })
-                    .catch(error => {
-                        console.error(`Error fetching Markdown file content (${file.name}):`, error);
-                    });
-            });
+            // Use Promise.all to ensure all posts are fetched and rendered before finishing
+            return Promise.all(markdownFiles.map(file => fetchAndRenderPost(file)));
         })
         .catch(error => {
             console.error("Error fetching list of Markdown files from GitHub:", error);
         });
 }
 
+function fetchAndRenderPost(file) {
+    return fetch(file.download_url)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Failed to fetch file: ${file.name} - ${response.statusText}`);
+            }
+            return response.text();
+        })
+        .then(markdownContent => {
+            const postHTML = marked.parse(markdownContent);
+
+            let postDiv = document.createElement('div');
+            postDiv.className = 'post';
+
+            const postId = file.name.replace('.md', '');
+            postDiv.id = `post-${postId}`;
+            postDiv.innerHTML = postHTML;
+
+            // Create a Reply link for each post
+            let replyLink = document.createElement('a');
+            replyLink.href = "#comment-section";
+            replyLink.textContent = "⎇ Reply";
+            replyLink.className = 'reply-link-post';
+            replyLink.onclick = function () {
+                handleReply(file.name);
+            };
+
+            postDiv.appendChild(replyLink);
+            document.getElementById('posts-container').appendChild(postDiv);
+        })
+        .catch(error => {
+            console.error(`Error fetching Markdown file content (${file.name}):`, error);
+        });
+}
 
 function fetchComments() {
     console.log("Fetching comments...");
-    fetch('https://ThibeauK.pythonanywhere.com/get_comments')
+    return fetch('https://ThibeauK.pythonanywhere.com/get_comments')
         .then(response => {
             if (!response.ok) {
                 throw new Error(`Network response was not ok: ${response.statusText}`);
@@ -89,7 +111,7 @@ function fetchComments() {
         })
         .then(data => {
             let commentsContainer = document.getElementById('comments-container');
-            commentsContainer.innerHTML = ''; 
+            commentsContainer.innerHTML = '';
 
             data.forEach((comment, index) => {
                 let commentDiv = document.createElement('div');
@@ -118,12 +140,11 @@ function fetchComments() {
                     <strong>${comment.username}</strong>: ${replyContextHTML}${mainCommentHTML}
                 `;
 
-                // Create Reply Link for each comment
                 let replyLink = document.createElement('a');
                 replyLink.href = "#comment-section";
                 replyLink.textContent = "⎇ Reply";
                 replyLink.className = 'reply-link-comment';
-                replyLink.onclick = function() {
+                replyLink.onclick = function () {
                     handleReply(`Comment from ${comment.username}`);
                 };
 
@@ -152,7 +173,7 @@ function handleReply(replyToPostName) {
     let replyContextDisplay = document.getElementById('reply-context-display');
     if (replyContextDisplay) {
         replyContextDisplay.innerHTML = `Replying to: ${replyLinkHTML}`;
-        replyContextDisplay.style.display = 'block'; 
+        replyContextDisplay.style.display = 'block';
     } else {
         console.error("Reply context display element not found for ID: reply-context-display");
     }
@@ -168,7 +189,7 @@ function handleReply(replyToPostName) {
     // Clear the textarea and focus on it for new comment
     let commentInput = document.getElementById('comment');
     if (commentInput) {
-        commentInput.value = ''; 
+        commentInput.value = '';
         commentInput.focus();
     } else {
         console.error("Comment input element not found for ID: comment");
@@ -178,16 +199,14 @@ function handleReply(replyToPostName) {
 function submitComment() {
     let username = document.getElementById('username').value.trim();
     let commentInput = document.getElementById('comment');
-    let mainComment = commentInput.value.trim(); // Trim to remove accidental spaces
+    let mainComment = commentInput.value.trim();
     let replyContext = document.getElementById('hidden-reply-context').value.trim();
 
-    // Check if there's any content to reply to
     let combinedComment = replyContext ? `${replyContext} - ${mainComment}` : mainComment;
 
     let frm = document.getElementById('comment-section');
 
     if (username && mainComment) {
-        // Store the comment correctly
         fetch('https://ThibeauK.pythonanywhere.com/add_comment', {
             method: 'POST',
             headers: {
@@ -203,20 +222,10 @@ function submitComment() {
         })
         .then(data => {
             console.log(data.message);
-            fetchComments(); // Refresh comments after adding a new one
-            frm.reset(); // Clear the form after submitting
-
-            // Reset reply context for new comments
-            let replyContextDisplay = document.getElementById('reply-context-display');
-            if (replyContextDisplay) {
-                replyContextDisplay.style.display = 'none';
-                replyContextDisplay.innerHTML = '';
-            }
-
-            let hiddenReplyContext = document.getElementById('hidden-reply-context');
-            if (hiddenReplyContext) {
-                hiddenReplyContext.value = '';
-            }
+            fetchComments();
+            frm.reset();
+            document.getElementById('reply-context-display').style.display = 'none';
+            document.getElementById('hidden-reply-context').value = '';
         })
         .catch(error => {
             console.error("Error submitting comment:", error);
