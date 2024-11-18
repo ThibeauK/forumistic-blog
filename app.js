@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 
 function initializePage() {
-    // Adding a loading state to ensure everything loads before interaction
     showLoadingState();
     Promise.all([fetchPosts(), fetchComments()])
         .then(() => {
@@ -33,7 +32,7 @@ function fetchPosts() {
     const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/posts";
     console.log("Fetching list of Markdown files from GitHub (contents folder)...");
 
-    return fetch(repoURL)
+    fetch(repoURL)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`Network response was not ok: ${response.statusText}`);
@@ -43,22 +42,16 @@ function fetchPosts() {
         .then(data => {
             console.log("GitHub API response:", data);
 
-            let markdownFiles = data.filter(file => file.name.endsWith(".md"));
-
-            // Sort files in descending order (latest first)
-            markdownFiles.sort((a, b) => {
-                let aNumber = parseInt(a.name.match(/\d+/));
-                let bNumber = parseInt(b.name.match(/\d+/));
-                return bNumber - aNumber;
-            });
+            let markdownFiles = data.filter(file => file.name.endsWith(".md")).reverse();
 
             if (markdownFiles.length === 0) {
                 console.error("No Markdown files found in the 'contents' folder.");
                 return;
             }
 
-            // Use Promise.all to ensure all posts are fetched and rendered before finishing
-            return Promise.all(markdownFiles.map(file => fetchAndRenderPost(file)));
+            markdownFiles.reduce((promise, file) => {
+                return promise.then(() => fetchAndRenderPost(file));
+            }, Promise.resolve());
         })
         .catch(error => {
             console.error("Error fetching list of Markdown files from GitHub:", error);
@@ -83,7 +76,6 @@ function fetchAndRenderPost(file) {
             postDiv.id = `post-${postId}`;
             postDiv.innerHTML = postHTML;
 
-            // Create a Reply link for each post
             let replyLink = document.createElement('a');
             replyLink.href = "#comment-section";
             replyLink.textContent = "⎇ Reply";
@@ -99,6 +91,7 @@ function fetchAndRenderPost(file) {
             console.error(`Error fetching Markdown file content (${file.name}):`, error);
         });
 }
+
 
 function fetchComments() {
     console.log("Fetching comments...");
@@ -165,11 +158,9 @@ function handleReply(replyToPostName) {
         console.error("Form element not found for ID: comment-section");
     }
 
-    // Create clickable link for the reply context
     const postId = replyToPostName.replace('.md', '');
     const replyLinkHTML = `<a href="#post-${postId}" class="reply-link">${replyToPostName.replace('.md', '')}</a>`;
 
-    // Display the reply context above the comment box
     let replyContextDisplay = document.getElementById('reply-context-display');
     if (replyContextDisplay) {
         replyContextDisplay.innerHTML = `Replying to: ${replyLinkHTML}`;
@@ -178,7 +169,6 @@ function handleReply(replyToPostName) {
         console.error("Reply context display element not found for ID: reply-context-display");
     }
 
-    // Set the hidden reply context input value
     let hiddenReplyContext = document.getElementById('hidden-reply-context');
     if (hiddenReplyContext) {
         hiddenReplyContext.value = `Replying to Comment from ${replyToPostName.replace('.md', '')}`;
@@ -186,7 +176,6 @@ function handleReply(replyToPostName) {
         console.error("Hidden reply context input element not found for ID: hidden-reply-context");
     }
 
-    // Clear the textarea and focus on it for new comment
     let commentInput = document.getElementById('comment');
     if (commentInput) {
         commentInput.value = '';
