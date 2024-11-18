@@ -1,6 +1,4 @@
-#Replying tips and tricks. 
-
-
+# Replying; Tips & Tricks.
 Hey everybody ( •̤ᴗ• )੭⁾⁾ 
 
 
