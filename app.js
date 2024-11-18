@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
     
     const d = new Date();
     document.getElementById("time").innerHTML = d;
-
 });
 
 function fetchPosts() {
@@ -44,7 +43,7 @@ function fetchPosts() {
                         postDiv.id = `post-${postId}`; 
                         postDiv.innerHTML = postHTML;
 
- 
+                        // Create Reply Link
                         let replyLink = document.createElement('a');
                         replyLink.href = "#comment-section";
                         replyLink.textContent = "⎇ Reply";
@@ -57,7 +56,7 @@ function fetchPosts() {
                         document.getElementById('posts-container').appendChild(postDiv);
                     })
                     .catch(error => {
-                        console.error(`Error fetching Markdown file content (${file.name}):`, error);  // Use backticks here
+                        console.error(`Error fetching Markdown file content (${file.name}):`, error);
                     });
             });
         })
@@ -65,7 +64,6 @@ function fetchPosts() {
             console.error("Error fetching list of Markdown files from GitHub:", error);
         });
 }
-
 
 function fetchComments() {
     console.log("Fetching comments...");
@@ -102,12 +100,12 @@ function fetchComments() {
                     replyContextHTML = `<span class="reply-context" id="reply-context-${index}">Replying to <a href="#post-${replyTarget}" class="reply-link">${replyTarget}</a></span> `;
                 }
 
-
                 let mainCommentHTML = `<span id="main-comment-${index}">${mainComment}</span>`;
                 commentDiv.innerHTML = `
                     <strong>${comment.username}</strong>: ${replyContextHTML}${mainCommentHTML}
                 `;
 
+                // Create Reply Link for each comment
                 let replyLink = document.createElement('a');
                 replyLink.href = "#comment-section";
                 replyLink.textContent = "⎇ Reply";
@@ -125,8 +123,6 @@ function fetchComments() {
         });
 }
 
-
-
 function handleReply(replyToPostName) {
     let formElement = document.getElementById('comment-section');
     if (formElement) {
@@ -135,9 +131,11 @@ function handleReply(replyToPostName) {
         console.error("Form element not found for ID: comment-section");
     }
 
+    // Create clickable link for the reply context
     const postId = replyToPostName.replace('.md', '');
     const replyLinkHTML = `<a href="#post-${postId}" class="reply-link">${replyToPostName.replace('.md', '')}</a>`;
 
+    // Display the reply context above the comment box
     let replyContextDisplay = document.getElementById('reply-context-display');
     if (replyContextDisplay) {
         replyContextDisplay.innerHTML = `Replying to: ${replyLinkHTML}`;
@@ -146,6 +144,7 @@ function handleReply(replyToPostName) {
         console.error("Reply context display element not found for ID: reply-context-display");
     }
 
+    // Set the hidden reply context input value
     let hiddenReplyContext = document.getElementById('hidden-reply-context');
     if (hiddenReplyContext) {
         hiddenReplyContext.value = `Replying to Comment from ${replyToPostName.replace('.md', '')}`;
@@ -153,6 +152,7 @@ function handleReply(replyToPostName) {
         console.error("Hidden reply context input element not found for ID: hidden-reply-context");
     }
 
+    // Clear the textarea and focus on it for new comment
     let commentInput = document.getElementById('comment');
     if (commentInput) {
         commentInput.value = ''; 
@@ -163,14 +163,18 @@ function handleReply(replyToPostName) {
 }
 
 function submitComment() {
-    let username = document.getElementById('username').value;
+    let username = document.getElementById('username').value.trim();
     let commentInput = document.getElementById('comment');
-    let mainComment = commentInput.value;
-    let replyContext = document.getElementById('hidden-reply-context').value;
+    let mainComment = commentInput.value.trim(); // Trim to remove accidental spaces
+    let replyContext = document.getElementById('hidden-reply-context').value.trim();
+
+    // Check if there's any content to reply to
     let combinedComment = replyContext ? `${replyContext} - ${mainComment}` : mainComment;
+
     let frm = document.getElementById('comment-section');
 
     if (username && mainComment) {
+        // Store the comment correctly
         fetch('https://ThibeauK.pythonanywhere.com/add_comment', {
             method: 'POST',
             headers: {
@@ -186,16 +190,25 @@ function submitComment() {
         })
         .then(data => {
             console.log(data.message);
-            fetchComments();
-            frm.reset(); 
+            fetchComments(); // Refresh comments after adding a new one
+            frm.reset(); // Clear the form after submitting
+
+            // Reset reply context for new comments
             let replyContextDisplay = document.getElementById('reply-context-display');
-            replyContextDisplay.innerHTML = '';
-            replyContextDisplay.style.display = 'none';
-            document.getElementById('hidden-reply-context').value = ''; 
+            if (replyContextDisplay) {
+                replyContextDisplay.style.display = 'none';
+                replyContextDisplay.innerHTML = '';
+            }
+
+            let hiddenReplyContext = document.getElementById('hidden-reply-context');
+            if (hiddenReplyContext) {
+                hiddenReplyContext.value = '';
+            }
         })
         .catch(error => {
             console.error("Error submitting comment:", error);
         });
+    } else {
+        alert("Please provide both a username and a comment.");
     }
 }
-
