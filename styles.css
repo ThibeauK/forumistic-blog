@@ -6,6 +6,7 @@ body {
     background-color: black;
     color:rgb(9, 255, 0);
     font-family: 'Courier New';
+    overflow-x: hidden;
 }
 
 #time{
@@ -45,7 +46,7 @@ a:hover{
 #posts-container {
     margin-bottom: 40px;
     width: 68vw;
-    overflow-wrap: break-word;;
+    overflow-wrap: break-word;
 }
 
 #posts-container h1{
@@ -61,7 +62,8 @@ a:hover{
     padding-top: 22px;
     width: 28vw;
     font-family: Anonymous !important;
-    color: grey
+    color: grey;
+    overflow-wrap: break-word;
 }
 
 #comments-container strong{
