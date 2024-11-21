@@ -7,6 +7,8 @@ body {
     color:rgb(9, 255, 0);
     font-family: Anonymous;
     overflow-x: hidden;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
 
 #time{
