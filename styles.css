@@ -5,7 +5,7 @@ body {
     margin: 20px;
     background-color: black;
     color:rgb(9, 255, 0);
-    font-family: 'Courier New';
+    font-family: Anonymous;
     overflow-x: hidden;
 }
 
@@ -56,12 +56,12 @@ a:hover{
 
 #posts-container .post{
     margin-bottom: 3em;
+
 }
 
 #comments-container{
     padding-top: 22px;
     width: 28vw;
-    font-family: Anonymous !important;
     color: grey;
     overflow-wrap: break-word;
 }
@@ -82,6 +82,16 @@ a:hover{
 
 #comment-section input, textarea{
     width: 99% !important;
+}
+
+#bibliography{
+    text-align: center;
+    color: rgb(79, 53, 243);
+    margin-top: 40px;
+}ul{
+    list-style-type: none;
+    margin-left: -40px;
+    
 }
 
 .reply-link-post, .reply-link-comment{
@@ -115,9 +125,14 @@ button {
     text-decoration: underline;
     margin-left: 0 !important;
 }
+
 @media only screen and (max-width: 1100px) {
     #posts-container {
-        width: 70vw;
+        width: 61vw;
+    }
+
+    #comments-container{
+        width: 30vw;
     }
 }
 
@@ -127,6 +142,10 @@ button {
     }
 
     #posts-container {
+        width: 93vw;
+    }
+
+    #comments-container{
         width: 93vw;
     }
 }
