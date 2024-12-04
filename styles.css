@@ -1,35 +1,31 @@
-@font-face { font-family: Anonymous; src: url('fonts/anonymous-pro.regular.ttf');}
-
 body {
-    font-family: Arial, sans-serif;
     margin: 20px;
     background-color: black;
-    color:rgb(9, 255, 0);
-    font-family: Anonymous;
-    overflow-x: hidden;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    color: #00FF00;
+    font-family: monospace;
+    font-size: 15px;
+    overflow-x: hidden !important;
 }
 
 #time{
-    color: rgb(79, 53, 243);
+    color: #5555FF;
 }
 
 a{
     font-style: italic;
-    color:rgb(67, 45, 211);
+    color:#5555FF;
 }
 
 a:hover{
     text-shadow: 
-    1px 1px 0.28px rgb(67, 45, 211), 0 0 0.28px rgb(67, 45, 211), 
-    0 0 0.28px rgb(67, 45, 211), 0 0 0.28px rgb(67, 45, 211), 
-    1px 1px 0.28px rgb(67, 45, 211), 0 0 0.28px rgb(67, 45, 211);
+    1px 1px 0.28px #5555FF, 0 0 0.28px #5555FF, 
+    0 0 0.28px #5555FF, 0 0 0.28px #5555FF, 
+    1px 1px 0.28px #5555FF, 0 0 0.28px #5555FF;
 }
 
 #title{
     text-align: center;
-    border: 1px solid rgb(9, 255, 0);
+    border: 1px solid #00FF00;
     padding: 0.2em;
     line-height: 0.5em;
     font-size: 15px;
@@ -69,7 +65,7 @@ a:hover{
 }
 
 #comments-container strong{
-    color: rgb(9, 255, 0);
+    color: #00FF00;
 }
 
 #comments-container .comment{
@@ -79,7 +75,7 @@ a:hover{
 #comment-section {
     margin-top: 20px;
     padding: 1em;
-    border: 1px solid rgb(9, 255, 0);
+    border: 1px solid #00FF00;
 }
 
 #comment-section input, textarea{
@@ -99,8 +95,6 @@ a:hover{
 .reply-link-post, .reply-link-comment{
     margin-left: 20px;
     text-decoration:overline;
-    font-family: 'Courier New' !important;
-
 }
 
 textarea, input {

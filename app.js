@@ -32,7 +32,7 @@ function hideLoadingState() {
 }
 
 function fetchPosts() {
-    const repoURL = "https://api.github.com/repos/ThibeauK/thesis-wiki/contents/posts";
+    const repoURL = "https://api.github.com/repos/ThibeauK/forumistic-blog/contents/posts";
     console.log("Fetching list of Markdown files from GitHub (contents folder)...");
 
     fetch(repoURL)
