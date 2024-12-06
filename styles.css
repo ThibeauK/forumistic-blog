@@ -76,6 +76,7 @@ a:hover{
     margin-top: 20px;
     padding: 1em;
     border: 1px solid #00FF00;
+    padding-right: 2vw;
 }
 
 #comment-section input, textarea{
@@ -143,15 +144,18 @@ button {
 
     #posts-container {
         width: 96vw;
-    }h1, p{
-        padding-right: 1vw;
+    }h1, p {
+        padding-right: 4.2vw;
+    }
+
+    .comment{
+        padding-right: 3vw;
     }
 
     #comments-container{
         width: 96vw;
-    }div, span{
-        padding-right: 3vw;
-    }
+    } 
+
 }
 
 
