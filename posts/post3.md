@@ -17,7 +17,7 @@ Rule 2: Regarding greetings, try to use informal ones
 Rule 3: This is the body of the forum reply. Make meaningful conversation. Responding to a post gives you the ability to expand the conversation  
 
 
-Rule 4. You can close your forum post with a useful expression + the nickname/name of the person you are replying to and your own name or nickname. This part is sometimes omitted in real forum posts. Nevertheless, I recommend you include it. 
+Rule 4: You can close your forum post with a useful expression + the nickname/name of the person you are replying to and your own name or nickname. This part is sometimes omitted in real forum posts. Nevertheless, I recommend you include it. 
 
 		e.g. Have a nice day, bohemian!
 				Rob 
