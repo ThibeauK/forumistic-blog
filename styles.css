@@ -145,11 +145,11 @@ button {
     #posts-container {
         width: 96vw;
     }h1, p {
-        padding-right: 4.2vw;
+        padding-right: 5vw;
     }
 
     .comment{
-        padding-right: 3vw;
+        padding-right: 5vw;
     }
 
     #comments-container{
