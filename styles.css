@@ -136,17 +136,21 @@ button {
     #wrapper{
         overflow-x: hidden;
     }
-    
+
     #container {
         display: inline-block;
     }
 
     #posts-container {
-        width: 93vw;
+        width: 96vw;
+    }h1, p{
+        padding-right: 1vw;
     }
 
     #comments-container{
-        width: 93vw;
+        width: 96vw;
+    }div, span{
+        padding-right: 3vw;
     }
 }
 
