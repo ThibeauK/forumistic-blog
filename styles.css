@@ -35,6 +35,12 @@ a:hover{
     text-decoration: underline !important;
 }
 
+#intro{
+text-align: left;
+line-height: 1.2em;
+padding: 0.5em 2em;
+}
+
 #container{ 
     display: flex;
     justify-content: center;
