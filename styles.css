@@ -5,6 +5,7 @@ body {
     font-family: monospace;
     font-size: 15px;
     overflow-x: hidden !important;
+    overflow-wrap: break-word;
 }
 
 #time{
@@ -33,6 +34,7 @@ a:hover{
 
 #title h1{
     text-decoration: underline !important;
+    line-height: 1.2em;
 }
 
 #intro{
