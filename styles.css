@@ -5,7 +5,6 @@ body {
     font-family: monospace;
     font-size: 15px;
     overflow-x: hidden !important;
-    overflow-wrap: break-word;
 }
 
 #time{
@@ -95,6 +94,7 @@ padding: 0.5em 2em;
     text-align: center;
     color: rgb(79, 53, 243);
     margin-top: 40px;
+    overflow-wrap: break-word;
 }ul{
     list-style-type: none;
     margin-left: -40px;
