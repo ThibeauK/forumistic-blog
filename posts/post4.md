@@ -2,8 +2,8 @@
 
 
 
-https://designingfriction.com is a text written by artist Luna Maurer, Roel Wouters and co author Alexandra Barancová. It speaks on elements that appears when 
-designing with digital tools. Rather one element that dissapears. Friction. Due to all-encompassing actions like the swipe, left click, right click, zoom etc. all being used 
+https://designingfriction.com is a text written by artist Luna Maurer, Roel Wouters and co author Alexandra Barancová. It speaks on one element that disappears when 
+designing with digital tools. Friction. Due to all-encompassing actions like the swipe, left click, right click, zoom etc. that are being used 
 for the same function. These new technological devices are feature-rich but there forms stay identical. Sleek frictionless slabs (horizontal or vertical) loosing their autonomy.
 The website proposes to embrace this friction again. 'With friction we get immersed, we get creative.' It visualizes what 'designing friction' could entail: discomfort, time delay, engagement of the body, 
 non positive. The phrase 'Do something strange.' enclosing their anti-smooth manifesto. 
