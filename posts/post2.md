@@ -1,2 +1,29 @@
-# References talk Sara and Julie 1
-putting these references on here so i dont forget ->  https://raphaelbastide.com/ete/,https://raoulaudouin.fr/, https://www.pbernhard.com/, http://www.wiki.evaweinmayr.com/index.php/Main_Page, https://www.jossepyl.com/ (specfically keyboard masterproject), https://solar.lowtechmagazine.com/2021/12/the-printed-website-volume-iii-and-more/, https://catalogus.hogent.be/catalog?f%5Blibrary_facet%5D%5B%5D=KASK&per_page=200&q=cybernetics&search_field=all_fields%20#content, https://duckduckgo.com/?q=anne-mie+van+kerckhoven&t=newext&atb=v453-2&iax=images&ia=images (cybernetics) 
+# Replying; Tips & Tricks.
+Hey everybody ( •̤ᴗ• )੭⁾⁾ 
+
+
+I have found this great blog post online giving some tips on how to reply to stuff like blog posts. 
+
+I thought it could come in handy for some users.
+
+
+Rule 1: Start writing Posted by+ nickname + on date + time, unless you are given that information or part of that information.  
+
+e.g. Posted by thehapytraveller on 23th Oct, 2018 18:00pm
+
+Rule 2: Regarding greetings, try to use informal ones 
+
+
+Rule 3: This is the body of the forum reply. Make meaningful conversation. Responding to a post gives you the ability to expand the conversation  
+
+
+Rule 4: You can close your forum post with a useful expression + the nickname/name of the person you are replying to and your own name or nickname. This part is sometimes omitted in real forum posts. Nevertheless, I recommend you include it. 
+
+e.g. Have a nice day, bohemian!
+		Bob 
+
+
+Rule 5: Use informal language, but precise. 
+
+
+Rule 6: Use short paragraphs and spaces between each paragraph.  
