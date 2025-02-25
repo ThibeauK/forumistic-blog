@@ -192,9 +192,14 @@ function submitComment() {
     let username = document.getElementById('username').value.trim();
     let commentInput = document.getElementById('comment');
     let mainComment = commentInput.value.trim();
-    let replyContext = document.getElementById('hidden-reply-context').value.trim();
+    let replyContextElement = document.getElementById('hidden-reply-context');
+    let replyContext = replyContextElement ? replyContextElement.value.trim() : "";
+    let combinedComment = mainComment;
 
-    let combinedComment = replyContext ? `${replyContext} - ${mainComment}` : mainComment;
+if (replyContext && replyContext !== "") {
+    combinedComment = `${replyContext} - ${mainComment}`;
+}
+
 
     let frm = document.getElementById('comment-section');
 
