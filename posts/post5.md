@@ -36,9 +36,9 @@ Hacking is not a specific act. It could embody anything relating to the explorat
 
 
 Philosophy of most hardware hackers:
-.Do something with a piece of hardware that has never been done before.
-.Create something extraordinary.
-.Harm nobody in the process.
+- Do something with a piece of hardware that has never been done before.
+- Create something extraordinary.
+- Harm nobody in the process.
 
 
 
