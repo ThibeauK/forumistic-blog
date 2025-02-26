@@ -4,7 +4,6 @@ I've found this blog post giving tips on how to reply. I thought it could come i
 
 
 Tip 1: Start writing Posted by+ nickname + on date + time, unless you are given that information or part of that information.  
-
 e.g. Posted by thehapytraveller on 23th Oct, 2018 18:00pm
 
 Tip 2: Regarding greetings, try to use informal ones 
@@ -14,7 +13,6 @@ Tip 3: This is the body of the forum reply. Make meaningful conversation. Respon
 
 
 Tip 4: You can close your forum post with a useful expression + the nickname/name of the person you are replying to and your own name or nickname. This part is sometimes omitted in real forum posts. Nevertheless, I recommend you include it. 
-
 e.g. Have a nice day, bohemian!
 		Bob 
 
