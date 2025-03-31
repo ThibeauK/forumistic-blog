@@ -11,5 +11,5 @@ non positive. The phrase *'Do something strange.'* enclosing their anti-smooth m
 
 
 As a graphic designer I plea for these frictional machines. This loathing I feel against our new smooth technology is what energizes my research. All-encompassing devices don't create interesting forms. They struggle.
-In the same vein of a kid combining all the paints expecting a beautifull rainbow. Instead creating a brown stane. A technological device with a smaller toolbox could more simply express their purpose.
+In the same vein of a kid combining all the paints expecting a beautifull rainbow. Instead creating a brown stain. A technological device with a smaller toolbox could more simply express their purpose.
 The question becoming not why but how a machine could succeed in parading its internal function as an external aesthetic.
