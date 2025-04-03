@@ -34,10 +34,29 @@ The first task is to re-solder the batteries. Currently all 8 are wired parallel
 
 Lithium ion batteries are prone to hazardous conditions like overcharging, deep discharge and overheating. Therefor a battery protection board is an essential component to safeguard the battery cells and ensure proper charging. Specific electronic conditions require specific boards. This project required an 8A BMS HX-2S-D2.
 
-&#x20;&boxdr;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxdl;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&sol;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&sol;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x20;&boxv;&#x20;&#x52;&#x41;&#x53;&#x50;&#x42;&#x45;&#x52;&#x52;&#x59;&#x20;&#x50;&#x49;&#x20;&boxv;&#x20;&#x20;&#x20;&boxdr;&boxh;&boxh;&boxh;&boxdl;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x20;&boxv;&#x20;&#x33;&#x42;&plus;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&lt;&#x2d;&#x53;&#x57;&#x49;&#x54;&#x43;&#x48;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&boxvr;&boxh;&boxhd;&boxh;&boxvl;&#x20;&#x20;&#x20;&#x20;&#x20;&lpar;&#x6f;&#x70;&#x74;&#x69;&#x6f;&#x6e;&#x61;&#x6c;&rpar;&#x20;&NewLine;&#x20;&boxur;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&#x47;&#x4e;&#x44;&boxh;&#x35;&#x56;&boxh;&boxul;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&boxv;&#x20;&boxv;&#x20;&#x20;&#x20;&boxdr;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxdl;&#x20;&NewLine;&boxdr;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxdl;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&boxv;&#x20;&boxv;&#x20;&#x20;&#x2d;&#x4f;&#x55;&#x54;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxhd;&boxhd;&NewLine;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x56;&#x4f;&#x55;&#x54;&#x20;&boxul;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&boxv;&#x20;&boxv;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x4d;&#x54;&#x33;&#x36;&#x30;&#x38;&#x20;&#x20;&boxv;&boxv;&NewLine;&boxv;&#x20;&#x53;&#x38;&#x56;&#x39;&#x46;&#x35;&#x20;&#x20;&#x47;&#x4e;&#x44;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&boxv;&#x20;&boxur;&boxh;&#x20;&plus;&#x4f;&#x55;&#x54;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxhu;&boxhu;&NewLine;&boxv;&#x20;&#x35;&#x56;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x56;&#x49;&#x4e;&#x20;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxul;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&boxur;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxul;&#x20;&NewLine;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x45;&#x4e;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&boxur;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxul;&#x20;&#x20;&#x20;&#x20;&boxdr;&boxh;&#x50;&#x2d;&#x50;&plus;&boxh;&boxh;&#x42;&#x4d;&boxh;&boxdl;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x57;&#x49;&#x52;&#x45;&#x20;&#x43;&#x4f;&#x4e;&#x4e;&#x45;&#x43;&#x54;&#x49;&#x4e;&#x47;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x41;&#x4c;&#x4c;&#x20;&#x50;&#x4f;&#x53;&#x54;&#x49;&#x56;&#x45;&#x53;&#x20;&#x20;&#x20;&#x20;&#x20;&boxv;&#x20;&#x20;&#x38;&#x41;&#x20;&#x42;&#x4d;&#x53;&#x20;&#x20;&boxv;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&verbar;&#x20;&#x48;&#x58;&#x2d;&#x32;&#x53;&#x2d;&#x44;&#x32;&#x20;&verbar;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&NewLine;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&verbar;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&verbar;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;&#x20;
+```
+ ┌──────────────┐      /                 
+ │              │     /                  
+ │ RASPBERRY PI │   ┌───┐                
+ │ 3B+          │   │   │    <-SWITCH    
+ │              │   ├─┬─┤     (optional) 
+ └───────GND─5V─┘                        
+              │     │ │ │   ┌──────────┐ 
+┌───────────┐ │     │ │ │  -OUT        ┬┬
+│        VOUT ┘     │ │ │   │  MT3608  ││
+│ S8V9F5  GND       │ │ └─ +OUT        ┴┴
+│ 5V      VIN ──────┘ │     └──────────┘ 
+│          EN         │                  
+└───────────┘    ┌─P-P+──BM─┐            
+                 │          │            
+WIRE CONNECTING  │          │            
+ALL POSTIVES     │  8A BMS  │            
+                 | HX-2S-D2 |            
+                 |          |            
 
 REWIRING BATTERIES (2S)                  
 + CONNECTING TO BMS
+```
 
 PROPORTIONS OF DIAGRAMS DO NOT COINCIDE 
 WITH PHYSICAL COMPONENTS. 
@@ -127,7 +146,9 @@ This tutorial is not an exclusive approach for producing a sustainable internal 
 
 
 
+
 Sources: 
+
 https://www.sciencedirect.com/science/article/pii/S2950357424000271 
 
 https://lithiumhub.com/series-vs-parallel/ 
