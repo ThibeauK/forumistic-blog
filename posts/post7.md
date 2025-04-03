@@ -35,27 +35,21 @@ The first task is to re-solder the batteries. Currently all 8 are wired parallel
 Lithium ion batteries are prone to hazardous conditions like overcharging, deep discharge and overheating. Therefor a battery protection board is an essential component to safeguard the battery cells and ensure proper charging. Specific electronic conditions require specific boards. This project required an 8A BMS HX-2S-D2.
 
 ```
- ┌──────────────┐      /                 
- │              │     /                  
- │ RASPBERRY PI │   ┌───┐                
- │ 3B+          │   │   │    <-SWITCH    
- │              │   ├─┬─┤     (optional) 
- └───────GND─5V─┘                        
-              │     │ │ │   ┌──────────┐ 
-┌───────────┐ │     │ │ │  -OUT        ┬┬
-│        VOUT ┘     │ │ │   │  MT3608  ││
-│ S8V9F5  GND       │ │ └─ +OUT        ┴┴
-│ 5V      VIN ──────┘ │     └──────────┘ 
-│          EN         │                  
-└───────────┘    ┌─P-P+──BM─┐            
-                 │          │            
-WIRE CONNECTING  │          │            
-ALL POSTIVES     │  8A BMS  │            
-                 | HX-2S-D2 |            
-                 |          |            
-
+         ┌────────────┐                  
+┌────── B+            BM ─────────┐      
+│        │ 8A BMS     │           │      
+│        │   HX-2S-D2 P-          │      
+│   ┌── B-            P+          │      
+│   │    └────────────┘           │      
+│   └───────────────────────────┐ │      
+│  ┌─────────┐     ┌─────────┐  │ │      
+│  │ BATTERY │     │ BATTERY │  │ │      
+└─ + series1 - ─┬─ + series2 - ─┘ │      
+   │  3.6 V  │  │  │  3.6 V  │    │      
+   └─────────┘  │  └─────────┘    │      
+                └─────────────────┘      
 REWIRING BATTERIES (2S)                  
-+ CONNECTING TO BMS
++ CONNECTING TO BMS                      
 ```
 
 PROPORTIONS OF DIAGRAMS DO NOT COINCIDE 
