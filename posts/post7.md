@@ -144,15 +144,10 @@ This tutorial is not an exclusive approach for producing a sustainable internal 
 Sources: 
 
 https://www.sciencedirect.com/science/article/pii/S2950357424000271 
-
 https://lithiumhub.com/series-vs-parallel/ 
-
 https://www.ufinebattery.com/blog/learn-about-lithium-battery-protection-circuit/ 
-
 https://www.instructables.com/DC-DC-Boost-Converter-MT3608/ 
-
 https://www.pololu.com/product/2123 
-
 https://raspberrytips.com/raspberry-pi-gpio-pins/#required-hardware 
 
 
