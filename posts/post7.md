@@ -99,31 +99,31 @@ GROUND(NEGATIVE) │  8A BMS  │
                                          
 1. Connect all cables to the negative terminal (P-) of the battery protection board.
  
-1/2. Contact from Raspberry Pi 3B+ to GND pin is accomplished by soldering a female pin connecter to the end of your wire in combination with a one pin connecter. The allocation of the GPIO pin function depends to the specific device. (Look up micro processors data-sheet)
+2. Contact from Raspberry Pi 3B+ to GND pin is accomplished by soldering a female pin connecter to the end of your wire in combination with a one pin connecter. The allocation of the GPIO pin function depends to the specific device. (Look up micro processors data-sheet)
 
 
 Including a switch is optional. However it is an important component to reduce the loss of electronic discharge. The user gains the option to use the tool portable or stationary. The latter implying the usage of an external corded power source. 
 
 
 ```
- ┌──────────────┐          /                
- │              │         /                 
- │ RASPBERRY PI │       ┌───┐               
- │ 3B+          │       │   │<-SWITCH       
- │              │       ├─┬─┤ (optional)    
- └───────GND─5V─┘                           
-              │         │ │ │               
-┌───────────┐ │         │ │ │               
-│        VOUT ┘         │ │ │  ┌──────────┐ 
-│ S8V9F5  GND           │ │ │ -OUT        ┬┬
-│ 5V      VIN ──────────┘ │ │  │  MT3608  ││
-│          EN             │ └ +OUT        ┴┴
-└───────────┘    ┌─BM──P-P+─┐  └──────────┘ 
-                 │          │               
-WIRE CONNECTING  │          │               
-ALL POSTIVES     │  8A BMS  │               
-                 | HX-2S-D2 |               
-                 |          |           
+ ┌──────────────┐      /                 
+ │              │     /                  
+ │ RASPBERRY PI │   ┌───┐                
+ │ 3B+          │   │   │    <-SWITCH    
+ │              │   ├─┬─┤     (optional) 
+ └───────GND─5V─┘                        
+              │     │ │ │   ┌──────────┐ 
+┌───────────┐ │     │ │ │  -OUT        ┬┬
+│        VOUT ┘     │ │ │   │  MT3608  ││
+│ S8V9F5  GND       │ │ └─ +OUT        ┴┴
+│ 5V      VIN ──────┘ │     └──────────┘ 
+│          EN         │                  
+└───────────┘    ┌─P-P+──BM─┐            
+                 │          │            
+WIRE CONNECTING  │          │            
+ALL POSTIVES     │  8A BMS  │            
+                 | HX-2S-D2 |            
+                 |          |            
 ```                
 
 1. Connect the P+ terminal of the BMS to the middle (OFF) switch contact point. 
