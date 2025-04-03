@@ -34,7 +34,7 @@ The first task is to re-solder the batteries. Currently all 8 are wired parallel
 
 Lithium ion batteries are prone to hazardous conditions like overcharging, deep discharge and overheating. Therefor a battery protection board is an essential component to safeguard the battery cells and ensure proper charging. Specific electronic conditions require specific boards. This project required an 8A BMS HX-2S-D2.
 
-
+`
          ┌────────────┐                  
 ┌────── B+            BM ─────────┐      
 │        │ 8A BMS     │           │      
@@ -48,7 +48,8 @@ Lithium ion batteries are prone to hazardous conditions like overcharging, deep 
    │  3.6 V  │  │  │  3.6 V  │    │      
    └─────────┘  │  └─────────┘    │      
                 └─────────────────┘      
-         
+`
+
 REWIRING BATTERIES (2S)                  
 + CONNECTING TO BMS
 
