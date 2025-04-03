@@ -48,12 +48,13 @@ Lithium ion batteries are prone to hazardous conditions like overcharging, deep 
    │  3.6 V  │  │  │  3.6 V  │    │      
    └─────────┘  │  └─────────┘    │      
                 └─────────────────┘      
+         
 REWIRING BATTERIES (2S)                  
 + CONNECTING TO BMS
 
-PROPORTIONS OF DIAGRAMS DO NOT COINCIDE    
+PROPORTIONS OF DIAGRAMS DO NOT COINCIDE 
 WITH PHYSICAL COMPONENTS. 
-Items are reduced or enlarged in favor      
+Items are reduced or enlarged in favor 
 for aesthetical representation.
 
                                                               
@@ -101,6 +102,10 @@ GROUND(NEGATIVE) │  8A BMS  │
 1/2 Contact from Raspberry Pi 3B+ to GND pin is accomplished by soldering a female pin connecter to the end of your wire in combination with a one pin connecter. The allocation of the GPIO pin function depends to the specific device. (Look up micro processors data-sheet)
 
 
+Including a switch is optional. However it is an important component to reduce the loss of electronic discharge. The user gains the option to use the tool portable or stationary. The latter implying the usage of an external corded power source. 
+
+
+
  ┌──────────────┐          /                
  │              │         /                 
  │ RASPBERRY PI │       ┌───┐               
@@ -118,16 +123,8 @@ GROUND(NEGATIVE) │  8A BMS  │
 WIRE CONNECTING  │          │               
 ALL POSTIVES     │  8A BMS  │               
                  | HX-2S-D2 |               
-                 |          |               
-
-
-Including a switch is optional. However it is an important component to reduce the loss of electronic discharge. The user gains the option to use the tool portable or stationary. The latter implying the usage of an external corded power source. 
-
-
-
-                
-
-
+                 |          |           
+                 
 
 1 Connect the P+ terminal of the BMS to the middle (OFF) switch contact point. 
 
