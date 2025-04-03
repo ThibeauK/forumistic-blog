@@ -64,15 +64,15 @@ Items are reduced or enlarged in favor
 for aesthetical representation.
 
                                                               
-1 Connect the negative terminal of one battery to the positive terminal of the next. 
+1. Connect the negative terminal of one battery to the positive terminal of the next. 
 
-2 Continue to connect them until all the batteries are connected in a line (The series). 
+2. Continue to connect them until all the batteries are connected in a line (The series). 
 
-3 Now, wire the positive terminal of the first battery in the series to the positive terminal on your protection board. 
+3. Now, wire the positive terminal of the first battery in the series to the positive terminal on your protection board. 
 
-4 Connect the negative terminal of the last battery in the series to the negative terminal on your protection board. 
+4. Connect the negative terminal of the last battery in the series to the negative terminal on your protection board. 
 
-5 Lastly solder the connection between first and second series to BM terminal on the protective board. 
+5. Lastly solder the connection between first and second series to BM terminal on the protective board. 
 
 
 
@@ -82,7 +82,7 @@ Making the device capable of recharging demands a component with a high voltage 
 
 A 7.2 voltage output is too large for the single board microprocessor operating the electronic computing tool. It becomes essential to reduce the electronic discharge. Avoiding a potential shortening, the S8V9F5 converts the battery voltage to a stable 5V for the Raspberry Pi 3B.
 
-
+```
  ┌──────────────┐      /                 
  │              │     /                  
  │ RASPBERRY PI │   ┌───┐                
@@ -101,17 +101,17 @@ WIRE CONNECTING  │          │
 GROUND(NEGATIVE) │  8A BMS  │            
                  | HX-2S-D2 |            
                  |          |            
-
+```
                                          
-1 Connect all cables to the negative terminal (P-) of the battery protection board.
+1. Connect all cables to the negative terminal (P-) of the battery protection board.
  
-1/2 Contact from Raspberry Pi 3B+ to GND pin is accomplished by soldering a female pin connecter to the end of your wire in combination with a one pin connecter. The allocation of the GPIO pin function depends to the specific device. (Look up micro processors data-sheet)
+1/2. Contact from Raspberry Pi 3B+ to GND pin is accomplished by soldering a female pin connecter to the end of your wire in combination with a one pin connecter. The allocation of the GPIO pin function depends to the specific device. (Look up micro processors data-sheet)
 
 
 Including a switch is optional. However it is an important component to reduce the loss of electronic discharge. The user gains the option to use the tool portable or stationary. The latter implying the usage of an external corded power source. 
 
 
-
+```
  ┌──────────────┐          /                
  │              │         /                 
  │ RASPBERRY PI │       ┌───┐               
@@ -130,15 +130,15 @@ WIRE CONNECTING  │          │
 ALL POSTIVES     │  8A BMS  │               
                  | HX-2S-D2 |               
                  |          |           
-                 
+```                
 
-1 Connect the P+ terminal of the BMS to the middle (OFF) switch contact point. 
+1. Connect the P+ terminal of the BMS to the middle (OFF) switch contact point. 
 
-2 Now, wire the positive terminal of the MT3608 to the switches right (ON) contact point. 
+2. Now, wire the positive terminal of the MT3608 to the switches right (ON) contact point. 
 
-3 Solder the VIN (Voltage In) of the S8V945 terminal to the last contact point of the switch (ON). The alignment of ON / OFF depends on the switches positions before soldering. 
+3. Solder the VIN (Voltage In) of the S8V945 terminal to the last contact point of the switch (ON). The alignment of ON / OFF depends on the switches positions before soldering. 
 
-4 Lastly connect the VOUT (Voltage out) of the same component to the 5V GPIO pin on the Raspberry PI. Same additional Pi information as above. (WIRE CONNECTING GROUND) 
+4. Lastly connect the VOUT (Voltage out) of the same component to the 5V GPIO pin on the Raspberry PI. Same additional Pi information as above. (WIRE CONNECTING GROUND) 
 
 
 
