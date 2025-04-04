@@ -24,7 +24,7 @@ Components used:
 
 
 
-*This list does not include link to external stores. The consumer has a duty to be conscious when purchasing electronic supplies. The cheapest options are likely the most harmful. Try and outsource from local repositories or obtain them from regional web-stores.* 
+*This list does not include links to external stores. The consumer has a duty to be conscious when purchasing electronic supplies. Try and outsource from local repositories or obtain them from regional web-stores.* 
 
 
 
