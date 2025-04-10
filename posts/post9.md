@@ -2,7 +2,9 @@
 
 
 
-*'Faster memory and better screens facilitated real-time interactivity turning the computer into a device with which one played - a welcome contrast to the early days of computing, when programmers had to manually feed their instructions via punch cards and then wait hours or days for the result.    - Tina Rivers Ryan'*
+*'Faster memory and better screens facilitated real-time interactivity turning the computer into a device with which one played - a welcome contrast to the early days of computing, when programmers had to manually feed their instructions via punch cards and then wait hours or days for the result.*    
+
+*-Tina Rivers Ryan'*
 
 
 
