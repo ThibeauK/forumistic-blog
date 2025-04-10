@@ -1,6 +1,6 @@
 # Replying; Tips & Tricks.
 Hey everybody ( •̤ᴗ• )੭⁾⁾ 
-I've found this blog post giving tips on how to reply. I thought it could come in handy for some readers.
+I found this blog post giving tips on how to reply. Maybe it could come in handy for some readers.
 
 
 1. Start writing Posted by+ nickname + on date + time, unless you are given that information or part of that information.  
