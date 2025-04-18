@@ -1,4 +1,4 @@
-# Artisan to hacker
+# Artisan 2 hacker
 Defining technological hacking through a past-post lens visualises its similarities with graphic design. In <a href=#post-post4>post4</a> Ursula illustrates technology as the human interference with our surrounding world. In <a href=#post-post6>post6</a> Joe Grand contextualises hack as the act of evolving the ordinary into a personal art object. This combined terminology establishes contemporary graphic design. Sourcing has become our foundation. Analog tools replaced by the act of copy pasting. Designers altering their digital environment to materialise an artistic practice. Embodying their transformation from artisan to hacker.
 
 
