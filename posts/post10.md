@@ -1,0 +1,10 @@
+# Artisan to hacker
+Defining technological hacking through a past-post lens visualises its similarities with graphic design. In <a href=#post-post4> post4 </a> Ursula illustrates technology as the human interference with our surrounding world. In <a href=#post-post6>post6</a> Joe Grand contextualises hack as the act of evolving the ordinary into a personal art object. This combined terminology establishes contemporary graphic design. Sourcing has become our foundation. Analog tools replaced by the act of copy pasting. Designers altering their digital environment to materialise an artistic practice. Embodying their transformation from artisan to hacker.
+
+
+
+These hacker-designers sense their non-capitalist purpose depleting. The awakening of electronic computational tools have increased consumer-based functions. Our practice’s conceptual core ever more hidden behind layers of digital specialisation. The academic designer has situated themselves at a critical opposition. Finding their purpose in the exploration of their own craft. Comparable to hardware hackers, they gather information concealed by pre-established constructs.
+
+    
+
+*'Digital skills development is seen as a solution to high demand for professionals who know *'how to code.'* This narrative is rarely accompanied by reflections on how new technologies could reinforce social inequity or how their adoption can take place only if it is connected to a social change.'* Doctor Serena Cangiano invites this criticality to transpire against contemporary design tools. Academic contexts fail to educate designers on their computational devices. Mechanical research framed as a geeky hobby. Not a designers necessity. A critical technological awareness avoids *'haptic fallacy'*. The belief that electronic object are immaterial simply because we cannot reach out and touch them. This imbalanced relation facilitates conceptual design frictions. Technological equilibrium becomes obtainable through the investigation of our personal electronic tools. Leaving behind previous sleek machines and embracing the imperfections established through messy examination.
