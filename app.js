@@ -45,7 +45,14 @@ function fetchPosts() {
         .then(data => {
             console.log("GitHub API response:", data);
 
-            let markdownFiles = data.filter(file => file.name.endsWith(".md")).reverse();
+            let markdownFiles = data
+                .filter(file => file.name.endsWith(".md"))
+                .sort((a, b) => {
+                const numA = parseInt(a.name.match(/\d+/));
+                const numB = parseInt(b.name.match(/\d+/));
+                return numB - numA; 
+        });
+
 
             if (markdownFiles.length === 0) {
                 console.error("No Markdown files found in the 'contents' folder.");
