@@ -2,11 +2,11 @@
 
 
 
-Current electronic devices primarily make use of lithium-ion batteries as an energy source. These components have serious environmental hazards and threaten the sustainability of human life. Their extensive usage leads to an enormous amounts being discarded in landmines. A batteries life span depends from the magnitude of the device. Nonetheless most of them are still viable for reuse. 
+Current electronic devices primarily make use of lithium-ion batteries as an energy source. These components have serious environmental hazards and threaten the sustainability of human life. Their extensive usage leads to enormous amounts of electronic waste. A batteries life span depends on the magnitude of the device. Nonetheless, most of them are still viable for reuse. 
 
 
 
-During the creation of my electronic computing tool it become apparent that there was a personal necessity to make it a portable rechargeable device. Recognising the harmful nature of lithium ion batteries I gravitated towards an unused 20000 mAh powerbank. Previously perceived as a defective gadget. Its internal parts made up of 8 18650 3.6V 9.0Wh lithium-ion batteries and a control circuit which regulates the flow op electricity. After breaching the outer shell it became apparent that its internal circuitry was faulty. Outputting only 3.6V instead of the 5V current small devices consume. The creation of a sustainable internal battery would be feasible through the modification of its electronic discharge.
+During the creation of my graphic computing tool it became apparent that there was a personal necessity to make it portable and rechargeable. Recognizing the harmful nature of lithium ion batteries I gravitated towards an unused 20000 mAh powerbank. Previously perceived as a defective gadget. Its internal parts made up of 8 18650 3.6V 9.0Wh lithium-ion batteries and a control circuit which regulates the flow op electricity. After breaching the outer shell it became apparent that its internal circuitry was faulty. Outputting only 3.6V instead of the 5V current small devices consume. The creation of a sustainable internal battery would be feasible through the modification of its electronic discharge.
 
 
 
