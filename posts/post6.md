@@ -2,7 +2,7 @@
 
 
 
-*'Hardware Hacking: have fun while voiding your warranty'* is a book written by hacker-writer Joe Grand and Andrew *'bunnie'* Huang (foreword). Mostly populated with technological tutorials, explaining how to hack/ modify certain electronically devices. Literary interesting parts include the foreword and introduction. These illustrate hacker culture. Bunnie transfigures *'hack'* as *'An incredible good and perhaps time consuming piece of work that produces exactly what is needed... A desire to play with and understand technology, a modern manifestation of exploration and passion'* 
+*'Hardware Hacking: have fun while voiding your warranty'* is a book written by hacker-writer Joe Grand and Andrew *'bunnie'* Huang (foreword). Mostly populated with technological tutorials, explaining how to hack/modify certain electronically devices. Literary interesting parts include the foreword and introduction. These illustrate hacker culture. Bunnie transfigures *'hack'* as *'An incredible good and perhaps time consuming piece of work that produces exactly what is needed... A desire to play with and understand technology, a modern manifestation of exploration and passion'* 
 
 
 
@@ -12,7 +12,7 @@ As an early participant he perceived the evolution of electronic devices’ cons
 in their fresh white silkscreen against the matte epoxy bodies of chips. What I saw instead was a closed book… 
 any hope of a deeper level of understanding or hardware exploration seemed to be dashed.'*
 His reaction to the new IBM PC-AT motherboard was a personal schok to read. Growing up in 2010, 
-technology always possessed certain magical aura. Only to be read by the wise. Even in my current research 
+technology always possessed certain magical aura. Only to be read by the wise. Even in my current research, 
 it feels like an impossible task to transcribe a motherboard. Instead I learn what each components function is,
 not how it was created. You could see Andrew as a technological archaeologist. 
 Presenting us with ancient mechanical outlooks. Telling stories of old, wherein companies 
