@@ -17,7 +17,7 @@ During the early development of this page multiple aliases were used: forum-wiki
 
 
 
-*Ownership, authors
+*Ownership, authors*
 
 *The blog is owned by an individual. It can have a single author or multiple contributors. These contributors are found in the comment section. Forums are owned by administrator/s who may moderate content. Multiple authors contribute to their own or others’ discussion threads.* 
 
