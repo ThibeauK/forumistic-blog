@@ -2,7 +2,7 @@
 
 
 
-Dao-engineering proves the usefulness of diverse technological reasoning. Brazil’s cultural practices visualises electronics unsustainable habits. The thesis *'Gambiarra: repair culture'* frames the creation of *'MetaReciclagem'* . Previously quoted in <a href=“#post-post12”>post 12</a>, co-founder Felipe Fonseca illustrates the networks origins and disapproval of Western entrepreneurial habits. In 2002, the group of electronics hobbyists primarily discussed ideals. Eventually leading to the creation of the Brazilian collective. Their practice originated as the exploration of discarded computational machines. Altering their internal functioning with the assistance of open source software. Evolving into a loose network sustaining technological methodologies. Advocating for critical appropriation of technologies on behalf of socialistic change. 
+Dao-engineering proves the usefulness of diverse technological reasoning. Brazil’s cultural practices visualises electronics unsustainable habits. The thesis *'Gambiarra: repair culture'* frames the creation of *'MetaReciclagem'* . Previously quoted in <a href="#post-post12">post 12</a>, co-founder Felipe Fonseca illustrates the networks origins and disapproval of Western entrepreneurial habits. In 2002, the group of electronics hobbyists primarily discussed ideals. Eventually leading to the creation of the Brazilian collective. Their practice originated as the exploration of discarded computational machines. Altering their internal functioning with the assistance of open source software. Evolving into a loose network sustaining technological methodologies. Advocating for critical appropriation of technologies on behalf of socialistic change. 
 
 
 
