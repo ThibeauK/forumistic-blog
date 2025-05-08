@@ -118,8 +118,8 @@ padding: 0.5em 2em;
 
 .postNumber {
     margin-left: 20px;
-    color: #55F;
     text-decoration: overline;
+    margin-bottom: 2px; 
 }
 
 textarea, input {
