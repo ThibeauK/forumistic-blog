@@ -92,11 +92,11 @@ function fetchAndRenderPost(file) {
             replyLink.className = 'reply-link-post';
             replyLink.onclick = function () {
                 handleReply(file.name);
+            };
 
             let postNumber = document.createElement('p');
             postNumber.href = "#post-number";
             postNumber.textContent = ` ${postId} `;
-            };
             
             postDiv.appendChild(replyLink);
             postDiv.appendChild(postNumber);
