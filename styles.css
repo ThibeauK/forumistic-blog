@@ -63,6 +63,13 @@ padding: 0.5em 2em;
     text-decoration: underline;
 }
 
+#postNumber {
+    margin-top: 2px;
+    margin-left: 20px;
+    color: #55F;
+    text-decoration: overline;
+}
+
 #posts-container .post{
     margin-bottom: 3em;
 
