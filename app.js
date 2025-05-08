@@ -88,7 +88,7 @@ function fetchAndRenderPost(file) {
 
             let replyLink = document.createElement('a');
             replyLink.href = "#comment-section";
-            replyLink.textContent = "⎇ Reply " +" " + `post-${postId}`;
+            replyLink.textContent = "⎇ Reply " + '</a>' + " " +'<a style="text-decoration: none;>' + `${postId}` + '</a>';
             replyLink.className = 'reply-link-post';
             replyLink.onclick = function () {
                 handleReply(file.name);
