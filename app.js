@@ -88,13 +88,18 @@ function fetchAndRenderPost(file) {
 
             let replyLink = document.createElement('a');
             replyLink.href = "#comment-section";
-            replyLink.textContent = "⎇ Reply " + '</a>' + " " +'<a style="text-decoration: none;>' + `${postId}` + '</a>';
+            replyLink.textContent = "⎇ Reply ";
             replyLink.className = 'reply-link-post';
             replyLink.onclick = function () {
                 handleReply(file.name);
-            };
 
+            let postNumber = document.createElement('p');
+            postNumber.href = "#post-number";
+            postNumber.textContent = ` ${postId} `;
+            };
+            
             postDiv.appendChild(replyLink);
+            postDiv.appendChild(postNumber);
             document.getElementById('posts-container').appendChild(postDiv);
         })
         .catch(error => {
