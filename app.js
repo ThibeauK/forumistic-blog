@@ -97,9 +97,10 @@ function fetchAndRenderPost(file) {
             let postNumber = document.createElement('p');
             postNumber.href = "#post-number";
             postNumber.textContent = ` ${postId} `;
-            
-            postDiv.appendChild(replyLink);
+            postNumber.className = 'postNumber';
+
             postDiv.appendChild(postNumber);
+            postDiv.appendChild(replyLink);
             document.getElementById('posts-container').appendChild(postDiv);
         })
         .catch(error => {
