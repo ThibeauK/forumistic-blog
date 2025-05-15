@@ -1,8 +1,11 @@
 # Dao-engineering 
 
 
+Transcending Western technology facilitates the discovery of critical practices such as Dao-engineering. A technological principle based upon Chinese religio-philosophical traditions. One blog post fails to summarise Daoist life teachings. The following paragraphs highlights their critical relation with the machine. 
 
-Transcending Western technology facilitates the discovery of critical practices such as Dao-engineering. A single blog post fails to summarise Chinese Daoist life teachings. Therefore, the following paragraphs highlights their critical relation with the machine. ‘A Dao of technology?’ written by Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic believes. Exemplified by the usage of technology in their society. Nearly all Chinese households employed labor-saving-devices. Yet, these did not enable an irregular equilibrium. Technological instability is produced by the ethics of engineering, not machines.
+
+
+‘A Dao of technology?’ by Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises researchers inability to comprehend Daoism’s technological concerns. Chinese households employed labor-saving devices. Their perception of technological instability found in the ethics of engineering, not the machine itself. 
 
 
 
@@ -26,7 +29,7 @@ Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline 
 
 
 
-The old man embodies questions around machine-necessity. Finding embarrassment in their usage. Fundamentally, we need to distinguishing technologies enforcement as essential or an act of comfortability. Mechanical tactics substitute artificial structures of know reliability. Comparable to computational devices enforcing the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilities the creation of restless minds. Digital designers reliance on computational machines confesses their detachment from the art of dao . *'Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.'*
+The old man embodies questions around machine necessity. Finding embarrassment in the usage of labor-saving devices. Fundamentally, we need to distinguishing technologies enforcement as essential or an act of comfortability. Mechanical tactics substitute artificial structures of known reliability. Comparable to computational devices enforcing the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilities the creation of restless minds. Digital designers reliance on computational machines confesses their detachment from the art of dao. *'Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.'*
 
 
 
