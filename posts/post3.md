@@ -2,7 +2,7 @@
 
 
 
-During the early development of this page multiple aliases were used: forum-wiki, thesis-forum, blog-wiki. Unclear of their respective meaning, I used them as an entry point into my research. The first step after the websites creation was to define it. The page https://www.teaching.unsw.edu.au/assessment-blog-wiki-or-forum-which-should-you-use <a href="https://www.teaching.unsw.edu.au/assessment-blog-wiki-or-forum-which-should-you-use" target=“_blank”>[2]</a> compares the forum, blog and wiki. It’s clear that the term wiki does not fit the created framework. Classification becomes a comparison between blog and forum. 
+During the early development of this page multiple aliases were used: forum-wiki, thesis-forum, blog-wiki. Unclear of their respective meaning, I used them as an entry point into my research. The first step after the websites creation was to define it. The page https://www.teaching.unsw.edu.au/assessment-blog-wiki-or-forum-which-should-you-use compares the forum, blog and wiki. It’s clear that the term wiki does not fit the created framework. Classification becomes a comparison between blog and forum. 
 
 
 
