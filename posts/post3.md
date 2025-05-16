@@ -25,6 +25,10 @@ During the early development of this page multiple aliases were used: forum-wiki
 *Timeline*
 
 *The chronological order of the blog posts and comments is important for following an emerging narrative or keeping posts in the context of changing circumstances. (Such as external events) A chronological order of posting to the forum, or chronologically within a thread, which makes it easier to follow the conversation.*
-
+<a href="https://www.teaching.unsw.edu.au/assessment-blog-wiki-or-forum-which-should-you-use" target="_blank">[2]</a>
 
 I don’t want this site's only purpose to be a reflection of my ideals, research. I intend to work towards an outcome that encompasses both my interests and that of the user. Its main narrative comes from the #posts-container using the chronological ruleset of the blog. The comment section creating a new post-chronology, reading can be done by clicking *'replying to…'*  A place both as an extension and opposition for one specific context. It invites you to reply with interesting references but it also urges other perspectives to be included. Conclusively I dismissed the personal urge to put this web-based research into a one termed box. This webpage is by definition a blog. But in comparison to that of the forum, elements of the latter peak through. Ending its classification in a blog with forumistic tendencies.
+
+---
+
+[2] https://www.teaching.unsw.edu.au/assessment-blog-wiki-or-forum-which-should-you-use
