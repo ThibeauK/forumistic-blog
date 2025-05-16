@@ -1,6 +1,6 @@
 # Replying; Tips & Tricks.
 Hey everybody ( •̤ᴗ• )੭⁾⁾ 
-I found this blog post <a href="https://blogsaverroes.juntadeandalucia.es/roadtoenglishc1/2020/02/18/writing-a-forum-post-useful-tips/">[1]</a> giving tips on how to reply. Maybe it could come in handy for some readers.
+I found this blog post <a href="https://blogsaverroes.juntadeandalucia.es/roadtoenglishc1/2020/02/18/writing-a-forum-post-useful-tips/" target="_blank">[1]</a> giving tips on how to reply. Maybe it could come in handy for some readers.
 
 
 1. Start writing Posted by+ nickname + on date + time, unless you are given that information or part of that information.  
