@@ -12,6 +12,6 @@ The designer has used computing tools since the late 19th century. Analog device
 
 ___
 
-[6] <a href="https://archive.org/details/graphicdesignnew00eski/page/n9/mode/2up" target=“_blank”> A New History, Stephen J. Eskilson, 2007</a>
-[7] <a href="https://www.berghahnbooks.com/downloads/intros/OldenzielCycling_intro.pdf" target=“_blank”> How Old Technologies Became Sustainable: an introduction, Ruth Oldenziel and Helmuth Trischler, 2015 </a>
-[8] https://nl.ifixit.com/News/64072/apples-self-repair-program-manages-to-make-macbooks-seem-less-repairable
+[6] <a href="https://archive.org/details/graphicdesignnew00eski/page/n9/mode/2up" target=“_blank”> A New History, Stephen J. Eskilson, 2007</a> <br>
+[7] <a href="https://www.berghahnbooks.com/downloads/intros/OldenzielCycling_intro.pdf" target=“_blank”> How Old Technologies Became Sustainable: an introduction, Ruth Oldenziel and Helmuth Trischler, 2015 </a> <br>
+[8] https://nl.ifixit.com/News/64072/apples-self-repair-program-manages-to-make-macbooks-seem-less-repairable 
