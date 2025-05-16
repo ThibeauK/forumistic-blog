@@ -33,7 +33,7 @@ The old man embodies questions around machine-necessity. Finding embarrassment i
 
 
 
-Obtaining water without the usage of technology is a feasible task. Yet, Zigong’s follower proclaimed that the machines utilisation improves irrigation. The old man questions the tools comfortability. Stating that their usage implies the presence of consumerist tactics. Equivalent to graphic design’s entrepreneurial habits upholding the exploitation of computational machines. Hardware hacking breaks pre-established comfortability. Evidently, disconnecting the user from capitalistic structures. 
+Obtaining water without the usage of technology is a feasible task. Yet, Zigong’s follower proclaimed that the machine's utilisation improves irrigation. The old man questions the tool's comfortability. Stating that their usage implies the presence of consumerist tactics. Equivalent to graphic design’s entrepreneurial habits upholding the exploitation of computational machines. Hardware hacking breaks pre-established comfortability. Evidently, disconnecting the user from capitalistic structures. 
 
 
 
