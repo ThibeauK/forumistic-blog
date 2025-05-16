@@ -19,7 +19,7 @@ Developing critical comprehension of ones hardware usage, visualises the disconn
 *Years went by. He used the unfinished stairway.* 
 
 
-*What’s an unfinished stairway?'* <a href="href=https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/" target=“_blank”>[20]</a>
+*What’s an unfinished stairway?'* <a href="https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/" target=“_blank”>[20]</a>
 
 
 Questioning our computational needs as designers removes us from the inevitable technological advancing loop. It invites us to reshape the sleek all-en composing tools facilitating our artistic practice. Our digital methodology is not universal. Yet, virtually all Western graphic designers exclusively rely on proprietary MAC-OS machines. The creation of designer-specific computers fosters a greater technological comprehension. Facilitating a digital space to propose critical questions and practices.  
