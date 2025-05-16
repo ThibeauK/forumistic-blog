@@ -5,7 +5,7 @@ Transcending Western technology facilitates the discovery of critical practices 
 
 
 
-In ‘A Dao of technology?’ <a href="https://link.springer.com/content/pdf/10.1007/s11712-010-9158-1.pdf?pdf=button" target="_blank"> [22] </a>, Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises researchers inability to comprehend Daoism’s technological concerns. Chinese households employed labor-saving devices. Their perception of technological instability found in the ethics of engineering, not the machine itself. 
+In ‘A Dao of technology?’ <a href="https://link.springer.com/content/pdf/10.1007/s11712-010-9158-1.pdf?pdf=button" target="_blank"> [22] </a> by Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researchers inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
 
 
 
@@ -29,7 +29,7 @@ Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline 
 
 
 
-The old man embodies questions around machine necessity. Finding embarrassment in the usage of labor-saving devices. Fundamentally, we need to distinguishing technologies enforcement as essential or an act of comfortability. Mechanical tactics substitute artificial structures of known reliability. Comparable to computational devices enforcing the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilities the creation of restless minds. Digital designers reliance on computational machines confesses their detachment from the art of dao. *'Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.'*
+The old man embodies questions around machine-necessity. Finding embarrassment in the usage of irrigational tools As designers we need to distinguishing computational technology enforcement as essential or an act of comfortability. Mechanical tactics have substituted artificial structures of know reliability. Computational devices enforce the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilities the creation of restless minds. Digital designers reliance on computational machines confesses their detachment from the art of dao . *’Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.’*
 
 
 
