@@ -25,7 +25,7 @@ Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline 
 
 
 
-*Zigong blushed with chagrin, looked down, and made no reply.* 
+*Zigong blushed with chagrin, looked down, and made no reply.* <br>
 <a href="https://www.26reads.com/library/92138-zhuangzi/12" target="_blank">[23]</a>
 
 
