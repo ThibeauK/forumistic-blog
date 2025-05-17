@@ -5,7 +5,7 @@ Transcending Western technology facilitates the discovery of critical practices 
 
 
 
-In ‘A Dao of technology?’ <a href="https://link.springer.com/content/pdf/10.1007/s11712-010-9158-1.pdf?pdf=button" target="_blank"> [22] </a> by Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researchers inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
+In ‘A Dao of technology?’ <a href="https://link.springer.com/content/pdf/10.1007/s11712-010-9158-1.pdf?pdf=button" target="_blank">[22]</a>, Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researchers inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
 
 
 
