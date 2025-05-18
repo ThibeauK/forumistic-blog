@@ -9,7 +9,7 @@ Conceptually, personalised portability blends itself with science-fiction. It en
 
 
 
-Fictional cyberpunk aesthetics intrigued me, fascinated by their reflection of internal functions as external embellishments. Browsing YouTube for engineering tutorials showcased hobbyist inventing personalised portable devices. These cyberdeck projects displayed attachments to computerised consumers. Forums referred amazon affiliate links. Promoting the appropriation of small components to sustain electronic fantasies. Minimalist computing emerged as a byproduct, not a computational goal. Visualising the movement lack of sustainable technological reflection.
+Fictional cyberpunk aesthetics intrigued me, fascinated by their reflection of internal functions as external embellishments. Browsing YouTube for engineering tutorials showcased hobbyist inventing personalised portable devices. These cyberdeck projects displayed attachments to computerised consumers. Forums referred amazon affiliate links, promoting the appropriation of small components to sustain electronic fantasies. Minimalist computing emerged as a byproduct, not a computational goal. Visualising the movement lack of sustainable technological reflection.
 
 --- 
 
