@@ -3,7 +3,7 @@ Exploring one's computing machine is a terrifying practice. Digital producers be
 
 
 
-Developing critical comprehension of ones hardware usage, visualises the disconnect between electronic tool and artistic functions. Our creative practice does not demand such overly powerful computing devices. Consumers must reshape their personal graphic tools. Minimising the imbalance between their desires and one standardised technology. Minimal computing proposes designers to rethink their computational needs. <a href=https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/> *'The User, the Leaner, and the machines We Make'* </a> written by Alex Gil aims to comprehend hardware creation build upon *'the architectures of necessity'*. A term conceptualised by designer Ernesto Oroza. Clarified through a personal narrative: 
+Developing critical comprehension of ones hardware usage, visualises the disconnect between electronic tool and artistic functions. Our creative practice does not demand such overly powerful computing devices. Consumers must reshape their personal graphic tools. Minimising the imbalance between their desires and one standardised technology. Minimal computing proposes designers to rethink their computational needs. <a href=https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/> *'The User, the Leaner, and the machines We Make'*</a> <a href="https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/" target=“_blank”>[20]</a> written by Alex Gil aims to comprehend hardware creation build upon *'the architectures of necessity'*. A term conceptualised by designer Ernesto Oroza. Clarified through a personal narrative: 
 
 
 
