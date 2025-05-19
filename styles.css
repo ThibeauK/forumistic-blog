@@ -168,6 +168,7 @@ button {
 
     #container {
         display: inline-block;
+        overflow-x: hidden;
     }
 
     #posts-container {
