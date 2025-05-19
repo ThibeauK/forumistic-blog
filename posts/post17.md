@@ -39,7 +39,41 @@ Determining the computer's shape was difficult. I was unable to envision a hyper
 
 
 First, sketch the dimensions of your device. I used old cardboard to design a speculative model. 
-
+```
+                     SWITCH                            
+         ┌───┐        ┌─/─┐            ┌───┐           
+         │   │        │ ─ └────────────┘   │           
+         └───┘        └────────────────────┘           
+   ┌───┐ ┌───┐        ┌────────────────────┐┌───┐      
+   │┌─┐│ │   │        │                    ││┌┐CHARGING
+3B+││ ││ │   └────────┘                    ││└┘PORT    
+INPUTS││ │                                 ││   │      
+   │└─┘│ │                                 ││   │      
+   │   │ │                                 ││   │      
+   │   │ │                                 ││   │      
+   │   │ │                                 ││   │      
+   │   │ │                                 ││   │      
+   └───┘ └─────────────────────────────────┘└───┘      
+         ┌─────────────────────────────────┐           
+         │     ┌─────────────────────┐     │           
+         └─────┘                     └─────┘           
+               ┌─────────────────────┐                 
+         ──────┴─────────────────────┴──────           
+         ┌─────────────────────────────────┐           
+         │ ┌─────────────────────────────┐ │           
+         │ │                             │ │           
+         │ │  reutilised keyboard frame  │ │           
+   ┌───┐ │ │           (XENTA)           │ │    3B+    
+   │   │ │ │                             │ │    INPUTS 
+   └───┘ │ └─────────────────────────────┘ │ ┌────────┐
+   ┌───┐ │                    ┌────────┐   │ │  ┌────┐│
+   │   │ │                    │        │   │ │  └────┘│
+   └───┘ └────────────────────┘        └───┘ └────────┘
+         ────┬────────────┬────                        
+             └────────────┘                            
+    SHAPING DEVICE                                     
+    TO COMPONENTS                                             
+```
 
 
 1. Shape to personal desire. 
@@ -54,7 +88,35 @@ An ideal consistency that no longer warps when held but is malleable with enough
 
 
 Roller guides refrain you from flattening the clay too much and prevents uneven manipulation. I employed commercial wooden guides but any same sized tall object works. 
-
+```
+    ┌ ─┬┐                                              
+   ┌┘ ─┘┴┐        ┌───────┐                            
+   │─┬ ┌──┐  ──►  │       │                            
+  ─└───└ ─┘       └───────┘                            
+  CLAY            RECTANGLE                            
+  ┌────────────────────────────┐                       
+  │ ┌┐       ┌────────────┐ ┌┐ │                       
+  │ ││ ┌─────┘            │ ││ │                       
+  │ ││ │                  │ ││ │                       
+  │ ││ │                  │ ││ │                       
+  │ ││ │                  │ ││ │                       
+  │ ││ │                  │ ││ │                       
+  │ G│ │                 ┌┘ │G │                       
+  │ U│ │                 │  │U │                       
+  │ I│ │                 │  │I │                       
+  │ D│ │                 │  │D │                       
+  │ E│ │                 └┐ │E │                       
+  │ ││ │                  │ ││ │                       
+  │ ││ │                  │ ││ │                       
+  │ ││ │                  │ ││ │                       
+  │ ││ │                  │ ││ │                       
+  │ ││ │                  │ ││ │                       
+  │ ││ └─────────┐        │ ││ │                       
+  │ └┘           └────────┘ └┘ │                       
+  └────────────────────────────┘                       
+  ROLLING CLAY                                         
+  TO LEATHER DRY                          
+```
 
 
 1. Release air bubbles by shaping clay into firm rectangle.
@@ -82,7 +144,45 @@ Roller guides refrain you from flattening the clay too much and prevents uneven 
 
 
 Manipulating clay freehandedly creates unpredictable shapes. This inconsistency is unusable for computational designs wherein sizing is specified to internal hardware. The cardboard speculative model forms a foreseeable structure. Utilising its negative space as a stencil. 
-
+```
+   ┌─────────────────────────────────────────────┐     
+   │        ┌───┐        ┌───┐            ┌───┐  │     
+   │        │   │        │   └────────────┘   │  │     
+   │        └───┘        └────────────────────┘  │     
+   │  ┌───┐ ┌───┐        ┌────────────────────┐  │     
+   │  │┌─┐│ │   │        │                    │  │     
+   │  ││ ││ │   └────────┘                    │  │     
+   │  ││ ││ │                                 │  │     
+   │  │└─┘│ │                                 │  │     
+   │  │   │ │                                 │  │     
+   │  │   │ │                                 │  │     
+   │  │   │ │                                 │  │     
+   │  │   │ │                                 │  │     
+   │  └───┘ └─────────────────────────────────┘  │     
+   │        ┌─────────────────────────────────┐  │     
+   │        │     ┌─────────────────────┐     │  │     
+   │        └─────┘                     └─────┘  │     
+   │              ┌─────────────────────┐        │     
+   │        ──────┴─────────────────────┴──────  │     
+   │  ┌───┐ ┌─────────────────────────────────┐  │     
+   │  │┌┐ │ │ ┌─────────────────────────────┐ │  │     
+   │  │└┘ │ │ │                             │ │  │     
+   │  │   │ │ │                             │ │  │     
+   │  │   │ │ │                             │ │  │     
+   │  │   │ │ │                             │ │  │     
+   │  │   │ │ └─────────────────────────────┘ │  │     
+   │  │   │ │                    ┌────────┐   │  │     
+   │  │   │ │                    │        │   │  │     
+   │  └───┘ └────────────────────┘        └───┘  │     
+   │        ────┬────────────┬────               │     
+   │            └────────────┘       ┌────────┐  │     
+   │                     ┌───┐ ┌───┐ │  ┌────┐│  │     
+   │                     │   │ │   │ │  └────┘│  │     
+   │                     └───┘ └───┘ └────────┘  │     
+   └─────────────────────────────────────────────┘     
+   USING CARDBOARD STENCIL                             
+   TO CUT CLAY           
+```
 
 
 1. Place cardboard stencil on clay slab. 
@@ -92,7 +192,20 @@ Manipulating clay freehandedly creates unpredictable shapes. This inconsistency 
 
 
 Modelling a three dimensional shell proposes the employment of multiple clay parts. Individual walls are still separated from the large foundational slab. Water gives clay its adhesive ability, enabling the creation of an unified object. <a href="https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/" target="_blank">[31]</a>
-
+```
+   ┌─┐   ┌───┐        ┌────────────────────┐           
+   │\│   │\  │        │                    │           
+  B│\│   │\  └────────┘                    │           
+  O│\│   │\                                │           
+  T│\├─►─┤\                                │           
+  T│\│   │\                                │           
+  O│\│   │\                                │           
+  M│\│   │\                                │           
+   │\│   │\                                │           
+   └─┘   └─────────────────────────────────┘           
+  GLUE COMPONENT                                       
+  TO BOARD     
+```
 
 
 1. Apply parallel scratches to both component\'92s contact point. 
