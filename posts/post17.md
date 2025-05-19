@@ -6,29 +6,29 @@ One critique I appointed against contemporary clamshell devices was their sleek 
 
 
 
-In addition to computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak their unsustainable hardware. Practices such as *'feminist hardware: making printed circuit boards with natural clay'* [28] and *'https://simplifier.neocities.org/materials'* [29] employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
+In addition to computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak their unsustainable hardware. Practices such as *'feminist hardware: making printed circuit boards with natural clay'* <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank">[28]</a> and *'Simplifier'* <a href="https://simplifier.neocities.org/materials " target="_blank">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
 
 
 
 Materials used: 
 
 
-- clay 
+-    clay 
 
 
-- tap water 
+-    tap water 
 
 
-- trashed cardboard 
+-    trashed cardboard 
 
 
-- clingfilm 
+-    clingfilm 
 
 
-- roller guides 
+-    roller guides 
 
 
-- slab roller 
+-    slab roller 
 
 
 
@@ -49,7 +49,7 @@ First, sketch the dimensions of your device. I used old cardboard to design a sp
 
 
 Molding damp clay makes it difficult to shape sturdy structures like walls. Controlling the material Is easier in a leather dry state.
-An ideal consistency that no longer warps when held but is malleable with enough effort. [30] A flat clay slab allows it to reach this dehydrated condition. Thickness of slab is based on manifested device. (In this instance I used a thickness of 0.7cm) 
+An ideal consistency that no longer warps when held but is malleable with enough effort. <a href="https://thepotterywheel.com/make-a-clay-slab/" target="_blank">[30]</a> A flat clay slab allows it to reach this dehydrated condition. Thickness of slab is based on manifested device. (In this instance I used a thickness of 0.7cm) 
 
 
 
@@ -91,7 +91,7 @@ Manipulating clay freehandedly creates unpredictable shapes. This inconsistency 
 2. Cut out structures. (Cut straight down so wall edges are not crooked.) 
 
 
-Modelling a three dimensional shell proposes the employment of multiple clay parts. Individual walls are still separated from the large foundational slab. Water gives clay its adhesive ability, enabling the creation of an unified object. 
+Modelling a three dimensional shell proposes the employment of multiple clay parts. Individual walls are still separated from the large foundational slab. Water gives clay its adhesive ability, enabling the creation of an unified object. <a href="https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/" target="_blank">[31]</a>
 
 
 
@@ -108,8 +108,10 @@ Modelling a three dimensional shell proposes the employment of multiple clay par
 
 
 I want to underline my personal hypocrisy in this practical inquiry. The computational device is an artistic endeavour developed to visualise and critique technology's employment. Its figurative form must reflect experimentation and investigation. The user should be capable of observing the machine's inner-workings. Distancing myself from plastic and metal enabled me to design with natural materials. Sadly, transparent clay is nonexistent. Along with a desire to foster a sticky, anti-sleek device I decided on using transparent silicone to finalise the computer's form. 
+
 ---
-[28] https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/ 
-[29] https://simplifier.neocities.org/materials[30] https://thepotterywheel.com/make-a-clay-slab/
-[31] https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/
+[28] <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank"> https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/ </a> <br>
+[29] <a href="https://simplifier.neocities.org/materials " target="_blank"> https://simplifier.neocities.org/materials </a> <br>
+[30] <a href="https://thepotterywheel.com/make-a-clay-slab/" target="_blank"> https://thepotterywheel.com/make-a-clay-slab/ </a> <br>
+[31] <a href="https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/" target="_blank"> https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/
  
