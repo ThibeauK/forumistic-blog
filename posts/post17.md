@@ -74,7 +74,7 @@ INPUTS││ │                                 ││   │
     SHAPING DEVICE                                     
     TO COMPONENTS                                             
 ```
-
+PROPORTIONS OF DIAGRAMS DO NOT COINCIDE WITH PHYSICAL COMPONENTS.  Items are reduced or enlarged in favor for aesthetical representation.
 
 1. Shape to personal desire. 
 
