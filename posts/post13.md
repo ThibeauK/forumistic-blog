@@ -1,8 +1,11 @@
 # Dao-engineering 
 
 
+Transcending Western technology facilitates the discovery of critical practices such as Dao-engineering. A technological principle based upon Chinese religio-philosophical traditions. One blog post fails to summarise Daoist life teachings. The following paragraphs highlights their critical relation with the machine. 
 
-Transcending Western technology facilitates the discovery of critical practices such as Dao-engineering. A single blog post fails to summarise Chinese Daoist life teachings. Therefore, the following paragraphs highlights their critical relation with the machine. ‘A Dao of technology?’ written by Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic believes. Exemplified by the usage of technology in their society. Nearly all Chinese households employed labor-saving-devices. Yet, these did not enable an irregular equilibrium. Technological instability is produced by the ethics of engineering, not machines.
+
+
+In ‘A Dao of technology?’ <a href="https://link.springer.com/content/pdf/10.1007/s11712-010-9158-1.pdf?pdf=button" target="_blank">[22]</a>, Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researchers inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
 
 
 
@@ -22,15 +25,16 @@ Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline 
 
 
 
-*Zigong blushed with chagrin, looked down, and made no reply.*    
+*Zigong blushed with chagrin, looked down, and made no reply.* <br>
+<a href="https://www.26reads.com/library/92138-zhuangzi/12" target="_blank">[23]</a>
 
 
 
-The old man embodies questions around machine-necessity. Finding embarrassment in their usage. Fundamentally, we need to distinguishing technologies enforcement as essential or an act of comfortability. Mechanical tactics substitute artificial structures of know reliability. Comparable to computational devices enforcing the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilities the creation of restless minds. Digital designers reliance on computational machines confesses their detachment from the art of dao . *'Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.'*
+The old man embodies questions around machine-necessity. Finding embarrassment in the usage of irrigational tools. As designers we need to distinguishing computational technology's enforcement as essential or an act of comfortability. Mechanical tactics have substituted artificial structures of known reliability. Computational devices enforce the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilities the creation of restless minds. Digital designers' reliance on computational machines confesses their detachment from the art of dao. *’Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.’*
 
 
 
-Obtaining water without the usage of technology is a feasible task. Yet, Zigong’s follower proclaimed that the machines utilisation improves irrigation. The old man questions the tools comfortability. Stating that their usage implies the presence of consumerist tactics. Equivalent to graphic design’s entrepreneurial habits upholding the exploitation of computational machines. Hardware hacking breaks pre-established comfortability. Evidently, disconnecting the user from capitalistic structures. 
+Obtaining water without the usage of technology is a feasible task. Yet, Zigong’s follower proclaimed that the machine's utilisation improves irrigation. The old man questions the tool's comfortability. Stating that their usage implies the presence of consumerist tactics. Equivalent to graphic design’s entrepreneurial habits upholding the exploitation of computational machines. Hardware hacking breaks pre-established comfortability. Evidently, disconnecting the user from capitalistic structures. 
 
 
 
@@ -38,5 +42,9 @@ Obtaining water without the usage of technology is a feasible task. Yet, Zigong�
 
 
 
-*'Wu wei effectiveness comes into view as a principle that is not specifically Chinese; it belongs to the world history of techniques and design, having been discerned early and independently in the autochthonous traditions of world art and technology. Design works best when it does not seem to be working at all, and it does not seem tho be working when it seems to work like nature, despite obvious artifice. The best designed artificers never look like nature. Everyone can plainly see that they are artefacts.'* 
- 
+*'Wu wei effectiveness comes into view as a principle that is not specifically Chinese; it belongs to the world history of techniques and design, having been discerned early and independently in the autochthonous traditions of world art and technology. Design works best when it does not seem to be working at all, and it does not seem to be working when it seems to work like nature, despite obvious artifice. The best designed artificers never look like nature. Everyone can plainly see that they are artefacts.'* 
+
+ ---
+
+[22] <a href="https://link.springer.com/content/pdf/10.1007/s11712-010-9158-1.pdf?pdf=button" target=“_blank”> A dao of technology?, Barry Allen, 51-160, 2010</a> <br>
+[23] <a href="https://www.26reads.com/library/92138-zhuangzi/12"> Zhuangzi: chapter 12, Zhuang Zhou, 476-221 BC </a>

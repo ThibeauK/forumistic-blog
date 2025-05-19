@@ -11,6 +11,10 @@ em{
     color: #5555FF;
 }
 
+hr{
+    color: #00FF00;
+}
+
 #time{
     color: #5555FF;
 }
@@ -105,9 +109,21 @@ padding: 0.5em 2em;
     
 }
 
-.reply-link-post, .reply-link-comment{
+.reply-link-post{
+    margin-top: 2px;
     margin-left: 20px;
     text-decoration:overline;
+}
+
+.reply-link-comment{
+    margin-left: 20px;
+    text-decoration:overline;
+}
+
+.postNumber {
+    margin-left: 20px;
+    text-decoration: overline;
+    margin-bottom: 2px; 
 }
 
 textarea, input {

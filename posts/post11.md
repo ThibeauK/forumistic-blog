@@ -1,9 +1,9 @@
 # What's an unfinished stairway?
-Exploring ones computing machine is a terrifying practice. Digital producers bear an internal fear of damaging their electronic tools. The destruction of their personal device leads to the destruction of their artistic practice. Technological anxiety is bestowed in many of us. Instituted by corporations producing unhackable devices. Constructing an unsustainable loop of consumers obtaining *'technological advancements'*. Yet the physical examination of ones device causes the user to establish critical technological awareness. Visualising the users conceptual opposition to the computing manufacturers. Reclaiming the establishments hardware facilitates a sustainable digital practice. The designer positions themself as a hardware gatherer. Electornic fruits utilised in the assembly of a personal computional graphic machine. 
+Exploring one's computing machine is a terrifying practice. Digital producers bear a fear to damage their electronic tools. The destruction of their personal device leads to the destruction of their practice. Technological anxiety is bestowed in many of us, instituted by corporations producing unhackable devices. Constructing an unsustainable loop of consumers obtaining *'technological advancements'*. Yet the physical examination of ones device causes the user to establish critical technological awareness. Position yourself as a hardware gatherer, scouring for electronic fruits to assemble a personal computational machine
 
 
 
-Developing critical comprehension of ones hardware usage, visualizes the disconnect between electronic tool and artistic functions. Our creative practice does not demand such overly powerful computing devices. Consumers must reshape their personal graphic tools. Minimising the imbalance between their desires and one standardised technology. Minimal computing proposes designers to rethink their computational needs. <a href=https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/> *'The User, the Leaner, and the machines We Make'* </a> written by Alex Gil aims to comprehend hardware creation build upon *'the architectures of necessity'*. A term conceptualised by designer Ernesto Oroza. Clarified through a personal narrative: 
+Developing critical comprehension of ones hardware usage, visualises the disconnect between electronic tool and artistic functions. Our creative practice does not demand such overly powerful computing devices. Consumers must reshape their personal graphic tools. Minimising the imbalance between their desires and one standardised technology. Minimal computing proposes designers to rethink their computational needs. <a href=https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/> *'The User, the Leaner, and the machines We Make'*</a> <a href="https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/" target=“_blank”>[20]</a> written by Alex Gil aims to comprehend hardware creation build upon *'the architectures of necessity'*. A term conceptualised by designer Ernesto Oroza. Clarified through a personal narrative: 
 
 
 
@@ -19,8 +19,8 @@ Developing critical comprehension of ones hardware usage, visualizes the disconn
 *Years went by. He used the unfinished stairway.* 
 
 
-*What’s an unfinished stairway?'*
-
+*What’s an unfinished stairway?'* <br>
+<a href="https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/" target=“_blank”>[20]</a>
 
 
 Questioning our computational needs as designers removes us from the inevitable technological advancing loop. It invites us to reshape the sleek all-en composing tools facilitating our artistic practice. Our digital methodology is not universal. Yet, virtually all Western graphic designers exclusively rely on proprietary MAC-OS machines. The creation of designer-specific computers fosters a greater technological comprehension. Facilitating a digital space to propose critical questions and practices.  
