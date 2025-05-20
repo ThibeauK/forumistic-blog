@@ -230,6 +230,6 @@ Developing an object with transparent silicone requires a mold, implying reprodu
 [28] <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank"> https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/ </a> <br>
 [29] <a href="https://simplifier.neocities.org/materials " target="_blank"> https://simplifier.neocities.org/materials </a> <br>
 [30] <a href="https://thepotterywheel.com/make-a-clay-slab/" target="_blank"> https://thepotterywheel.com/make-a-clay-slab/ </a> <br>
-[31] <a href="https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/" target="_blank"> https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/ <br>
+[31] <a href="https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/" target="_blank"> https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/ </a> <br>
 [32] <a href="https://www.greenmatch.co.uk/blog/is-silicone-bad-for-the-environment" target="_blank">https://www.greenmatch.co.uk/blog/is-silicone-bad-for-the-environment</a>
  
