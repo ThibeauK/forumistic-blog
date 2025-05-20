@@ -208,7 +208,7 @@ Modelling a three dimensional shell proposes the employment of multiple clay par
 ```
 
 
-1. Apply parallel scratches to both component\'92s contact point. 
+1. Apply parallel scratches to both component's contact point. 
 
 
 2. Moisturise connection spot with water. 
