@@ -82,7 +82,7 @@ PROPORTIONS OF DIAGRAMS DO NOT COINCIDE WITH PHYSICAL COMPONENTS.  Items are r
 
 
 
-Molding damp clay makes it difficult to shape sturdy structures like walls. Controlling the material Is easier in a leather dry state.
+Molding damp clay makes it difficult to shape sturdy structures like walls. Controlling the material is easier in a leather dry state.
 An ideal consistency that no longer warps when held but is malleable with enough effort. <a href="https://thepotterywheel.com/make-a-clay-slab/" target="_blank">[30]</a> A flat clay slab allows it to reach this dehydrated condition. Thickness of slab is based on manifested device. (In this instance I used a thickness of 0.7cm) 
 
 
@@ -222,9 +222,14 @@ Modelling a three dimensional shell proposes the employment of multiple clay par
 
 I want to underline my personal hypocrisy in this practical inquiry. The computational device is an artistic endeavour developed to visualise and critique technology's employment. Its figurative form must reflect experimentation and investigation. The user should be capable of observing the machine's inner-workings. Distancing myself from plastic and metal enabled me to design with natural materials. Sadly, transparent clay is nonexistent. Along with a desire to foster a sticky, anti-sleek device I decided on using transparent silicone to finalise the computer's form. 
 
+
+
+Developing an object with transparent silicone requires a mold, implying reproductive properties. A hollow sticky cast replaces the previous natural object, broken during its transformation. Silicone's production is not environmentally benign. <a href="https://www.greenmatch.co.uk/blog/is-silicone-bad-for-the-environment" target="_blank">[32]</a> My practical decision rests on the replicating nature of the see-through material. And its ability to capture the clay’s hands-on appearance. 
+
 ---
 [28] <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank"> https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/ </a> <br>
 [29] <a href="https://simplifier.neocities.org/materials " target="_blank"> https://simplifier.neocities.org/materials </a> <br>
 [30] <a href="https://thepotterywheel.com/make-a-clay-slab/" target="_blank"> https://thepotterywheel.com/make-a-clay-slab/ </a> <br>
 [31] <a href="https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/" target="_blank"> https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/
+[32] <a href="https://www.greenmatch.co.uk/blog/is-silicone-bad-for-the-environment" target="_blank">https://www.greenmatch.co.uk/blog/is-silicone-bad-for-the-environment</a>
  
