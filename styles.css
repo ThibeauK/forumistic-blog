@@ -9,10 +9,17 @@ body {
 
 em{
     color: #5555FF;
+    background-color: #5555FF;
+    border-color: #5555FF;
 }
 
 hr{
     color: #00FF00;
+}
+
+strong{
+    font-weight: normal;
+    text-decoration: underline; 
 }
 
 #time{
