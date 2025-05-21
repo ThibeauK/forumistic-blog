@@ -9,12 +9,12 @@ body {
 
 em{
     color: #5555FF;
-    background-color: #5555FF;
-    border-color: #5555FF;
 }
 
 hr{
     color: #00FF00;
+    background-color: #00FF00;
+    border-color: #00FF00; 
 }
 
 strong{
