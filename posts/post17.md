@@ -2,11 +2,11 @@
 
 
 
-One critique I appointed against contemporary clamshell devices was their sleek aesthetics. These represent false promises of limitless innovation. Highlighting computational technology's inability to shape-shift into distinct functional forms. Practicing DIY computerised customisation breaks designer's connection with consumerist engineering. The re-glorification of hands-on traditions coupled with salvaged hardware materialises sustainable devices critical of their own technological nature.
+One critique I appointed against contemporary clamshell devices was their sleek aesthetics. These represent false promises of limitless innovation. Highlighting computational technology's inability to shape-shift into distinct functional forms. Practicing DIY computerised customisation breaks designer's connection with consumerist engineering. The re-glorification of hands-on traditions coupled with the use of salvaged hardware, materialises sustainable devices critical of their own technological nature.
 
 
 
-In addition to computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak their unsustainable hardware. Practices such as *'feminist hardware: making printed circuit boards with natural clay'* <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank">[28]</a> and *'Simplifier'* <a href="https://simplifier.neocities.org/materials " target="_blank">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
+In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *'feminist hardware: making printed circuit boards with natural clay'* <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank">[28]</a> and *'Simplifier'* <a href="https://simplifier.neocities.org/materials " target="_blank">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
 
 
 
@@ -34,11 +34,11 @@ Materials used:
 
 
 
-Determining the computer's shape was difficult. I was unable to envision a hyper stylised device. Yet, I  pictured a framework detached from minimalist sleekness, ultimately shaping the device around its internal components. Producing a rectangular machine reminiscent of early computational wedges. 
+Determining the computer's shape was difficult. I was unable to envision a hyper stylised device. I  pictured a framework detached from minimalist sleekness, ultimately shaping the device around its internal components. Producing a rectangular machine reminiscent of early computational wedges <a href="#posts-post15"> [post15] </a>. 
 
 
 
-First, sketch the dimensions of your device. I used old cardboard to design a speculative model. 
+First, sketch the dimensions of your device. I used salvaged cardboard to design a speculative model. 
 ```
                      SWITCH                            
          ┌───┐        ┌─/─┐            ┌───┐           
@@ -137,13 +137,13 @@ Roller guides refrain you from flattening the clay too much and prevents uneven 
 6. Wrap clay slab in clingfilm. (To achieve leather dry state let the object rest for one day.) 
 
 
-7. Open up clay film package when the time arrises. (Dry until specific humid is reached.) 
+7. Open up clay film package when the time arrises. (Dry until specific dampness is reached.) 
 
 
 
 
 
-Manipulating clay freehandedly creates unpredictable shapes. This inconsistency is unusable for computational designs wherein sizing is specified to internal hardware. The cardboard speculative model forms a foreseeable structure. Utilising its negative space as a stencil. 
+Manipulating clay creates unpredictable shapes. This inconsistency is unusable for computational designs where size is specified to internal hardware. The cardboard speculative model forms a foresecast structure, utilising its negative space as a stencil. 
 ```
    ┌─────────────────────────────────────────────┐     
    │        ┌───┐        ┌───┐            ┌───┐  │     
