@@ -1,5 +1,5 @@
 # What's an unfinished stairway?
-Exploring one's computing machine is a terrifying practice. Digital producers bear a fear to damage their electronic tools. The destruction of their personal device leads to the destruction of their practice. Technological anxiety is bestowed in many of us, instituted by corporations producing unhackable devices. Constructing an unsustainable loop of consumers obtaining **technological advancements**. Yet the physical examination of ones device causes the user to establish critical technological awareness. Position yourself as a hardware gatherer, scouring for electronic fruits to assemble a personal computational machine
+Exploring one's computing machine is a terrifying practice. Digital producers bear a fear to damage their electronic tools. The destruction of their personal device leads to the destruction of their practice. Technological anxiety is bestowed in many of us, instituted by corporations producing unhackable devices. Constructing an unsustainable loop of consumers obtaining **technological advancements**. Yet the physical examination of ones device causes the user to establish critical technological awareness. Position yourself as a hardware gatherer, scouring for electronic fruits to assemble a personal computational machine.
 
 
 
