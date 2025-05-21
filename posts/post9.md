@@ -15,7 +15,7 @@ April Greiman was among the earliest artists to accept the new digital tool as a
 
 
 
-Graphic design has transformed in relation to computer hardware. Digital designs reflect human's rapid technological advancements. Works have turned themselves against the experimental art from before. Untranscribable machines have replaced the past hackable devices. Contemporary artists are stuck in an endless loop of cleanliness embodied by their sleek devices. Becoming ever more clueless off their function. 
+Graphic design has transformed in relation to computer hardware. Digital works reflect Western societes' addiction to technological advancements. Hackable machines have evolved into untranscribable devices. Works have turned themselves against the previous experimental art. Technology developed contemporary designers, stuck in an endless loop of cleanliness. Becoming ever more clueless off their function. 
 
 
 
