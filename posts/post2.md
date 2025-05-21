@@ -21,12 +21,13 @@ e.g. Have a nice day, bohemian!*
 
 
 *6. Use short paragraphs and spaces between each paragraph.*
+<br>
+<a href="https://blogsaverroes.juntadeandalucia.es/roadtoenglishc1/2020/02/18/writing-a-forum-post-useful-tips/" target="_blank">[1]</a>
+
 
 *7. (My Tip) If you want to open the research through aiding links. Comment them like this.* 
 *`<a href="LINK"> LINK AGAIN </a>`*
 *This process makes the link clickable.*
-<br>
-<a href="https://blogsaverroes.juntadeandalucia.es/roadtoenglishc1/2020/02/18/writing-a-forum-post-useful-tips/" target="_blank">[1]</a>
 
 ---
 
