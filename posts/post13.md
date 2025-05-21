@@ -1,7 +1,7 @@
 # Dao-engineering 
 
 
-Transcending Western technology facilitates the discovery of critical practices such as Dao-engineering. A technological principle based upon Chinese religio-philosophical traditions. One blog post fails to summarise Daoist life teachings. The following paragraphs highlights their critical relation with the machine. 
+Transcending Western technology facilitates the discovery of critical practices such as Dao-engineering. A technological principle based upon Chinese religio-philosophical traditions. One blog post fails to summarise Daoist life teachings. The following paragraphs highlight their critical relation with the machine. 
 
 
 
