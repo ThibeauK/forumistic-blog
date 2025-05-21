@@ -6,11 +6,11 @@ Dao-engineering proves the usefulness of diverse technological reasoning. Brazil
 
 
 
-Their actions are rooted in Brazilian ideals such as gambiarra. *Gambiarra refers to all kinds of improvised solutions to concrete problems that appear when one doesn’t have access to the proper tools, materials, parts or specific knowledge to perform a given task. It is all about repairing or re-purposing objects that seemed to be little use but end up acquiring new value of tactic, applied creativity.* Ideals of **everyday innovation** fuel their repurposing actions. Opposite to Western practices sustaining uneven distribution and the enclosure of technological knowledge. This imbalance visualises the distinction between electronic necessity and Western curiosity. Brimming with commercial designers-to-be forging plastic prototypes. 
+Their actions are rooted in Brazilian ideals such as gambiarra. *Gambiarra refers to all kinds of improvised solutions to concrete problems that appear when one doesn’t have access to the proper tools, materials, parts or specific knowledge to perform a given task. It is all about repairing or re-purposing objects that seemed to be little use but end up acquiring new value of tactic, applied creativity.* Ideals of **everyday innovation** fuel their repurposing actions. Opposite to Western practices maintaining uneven distribution and the enclosure of technological knowledge. This imbalance visualises the distinction between electronic necessity and Western curiosity. Brimming with commercial designers-to-be forging plastic prototypes. 
 
 
 
-Felipe Fonseca senses the dissapearance of hackers longing to be electronic carpenters. Replaced by entrepreneurial geeks praising their Google Drive spreadsheets. Propagandist behaviour sustains the central role of commercial operation. Visible in the usage of proprietary operating systems found on maker space machines. *Prototypes are to an extent the opposition of the Brazilian gambiarra. These are not an object on their own, rather a rehearsal of a finalised product. Waiting to be mass produced. Implying their wasteful nature.*
+Felipe Fonseca senses the dissapearance of hackers longing to be electronic carpenters. Replaced by entrepreneurial geeks praising their Google Drive spreadsheets. This behaviour supports the central role of commercial operations. Visible in the usage of proprietary operating systems found on maker space machines. *Prototypes are to an extent the opposition of the Brazilian gambiarra. These are not an object on their own, rather a rehearsal of a finalised product. Waiting to be mass produced. Implying their wasteful nature.*
 
 
 
