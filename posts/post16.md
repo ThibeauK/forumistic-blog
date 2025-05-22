@@ -15,6 +15,6 @@ Forumistic.blog roots itself in permacomputing principles. Inspired by their env
 Permacomputing acknowledges a double-edged sword present in technological criticality. One forged by the same systems of production and consumption it seeks to reprimand. Electronic criticism is unable to escape modern tools, facilitating the creation of computational alternatives. It emphasises this research's mechanical paradox. Simultaneous theoretical and practical exploration made it unattainable to critique modern devices without the usage of one. Forever binding this critical technological inquiry to my late 2015 MacBook. 
 
 ---
-[25] <a href="https://permacomputingasapracticefordigitalgraphicdesign.com/#item2" target="_blank">https://permacomputingasapracticefordigitalgraphicdesign.com/#item2</a> <br>
+[25] <a href="https://permacomputingasapracticefordigitalgraphicdesign.com" target="_blank">Permacomputing as a practice for digital Graphic Design, Hannah Gmeiner, 2024</a> <br>
 [26] <a href="https://monoskop.org/Permacomputing_Aesthetics " target="_blank">Permacomputing aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture, Aymeric Mansoux, Brendan Howell, Dušan Barok, and Ville-Matias Heikkilä, 2023 </a> <br>
 [27] <a href="http://viznut.fi/texts-en/permacomputing.html" target="_blank">Permacomputing, Ville-Matias Heikkilä, 2020</a> 
