@@ -136,7 +136,7 @@ ALL POSTIVES     │  8A BMS  │
 
 
 
-This tutorial is not an exclusive approach for producing a sustainable internal battery. Most components  used are in support of the specific hardware found in my discarded powerbank. Consider this when approaching my project for personal use. Modifying lithium ion batteries have significant safety concerns. RE-USE AT OWN RISK (more info: https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/)
+This tutorial is not an exclusive approach for producing a sustainable power source. Most components used are in support of the specific hardware found in my discarded powerbank. Consider this when approaching this project for personal use. Modifying lithium ion batteries has significant safety concerns. RE-USE AT OWN RISK (more info: https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/)
 
 ---
 
