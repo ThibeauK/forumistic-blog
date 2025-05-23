@@ -5,7 +5,7 @@ Transcending Western technology facilitates the discovery of critical practices 
 
 
 
-In ‘A Dao of technology?’ <a href="https://link.springer.com/content/pdf/10.1007/s11712-010-9158-1.pdf?pdf=button" target="_blank">[22]</a>, Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researchers inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
+In ‘A Dao of technology?’ <a href="#bibliography">[22]</a>, Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researchers inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
 
 
 
@@ -26,7 +26,7 @@ Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline 
 
 
 *Zigong blushed with chagrin, looked down, and made no reply.* <br>
-<a href="https://www.26reads.com/library/92138-zhuangzi/12" target="_blank">[23]</a>
+<a href="#bibliography">[23]</a>
 
 
 
@@ -43,8 +43,3 @@ Obtaining water without the usage of technology is a feasible task. Yet, Zigong�
 
 
 *Wu wei effectiveness comes into view as a principle that is not specifically Chinese; it belongs to the world history of techniques and design, having been discerned early and independently in the autochthonous traditions of world art and technology. Design works best when it does not seem to be working at all, and it does not seem to be working when it seems to work like nature, despite obvious artifice. The best designed artificers never look like nature. Everyone can plainly see that they are artefacts.* 
-
- ---
-
-[22] <a href="https://link.springer.com/content/pdf/10.1007/s11712-010-9158-1.pdf?pdf=button" target=“_blank”> A dao of technology?, Barry Allen, 51-160, 2010</a> <br>
-[23] <a href="https://www.26reads.com/library/92138-zhuangzi/12"> Zhuangzi: chapter 12, Zhuang Zhou, 476-221 BC </a>
