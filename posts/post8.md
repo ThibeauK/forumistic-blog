@@ -2,7 +2,7 @@
 
 
 
-Current electronic devices primarily make use of lithium-ion batteries as an energy source. These components have serious environmental hazards and threaten the sustainability of human life. <a href="https://www.sciencedirect.com/science/article/pii/S2950357424000271" target=“_blank”>[9]</a> Their extensive usage leads to enormous amounts of electronic waste. A batteries life span depends on the magnitude of the device. Nonetheless, most of them are still viable for reuse. 
+Current electronic devices primarily make use of lithium-ion batteries as an energy source. These components have serious environmental hazards and threaten the sustainability of human life. <a href="#bibliography">[9]</a> Their extensive usage leads to enormous amounts of electronic waste. A batteries life span depends on the magnitude of the device. Nonetheless, most of them are still viable for reuse. 
 
 
 
@@ -28,11 +28,11 @@ Components used:
 
 
 
-The first task is to re-solder the batteries. Currently all 8 are wired parallel, outputting a voltage of 3.6V. To gain a higher discharge we need to reposition them in a series of 2. <a href="https://lithiumhub.com/series-vs-parallel/" target=“_blank”>[10]</a> Duplicating the amount of voltage. The capacity of the batteries remains unchanged. 
+The first task is to re-solder the batteries. Currently all 8 are wired parallel, outputting a voltage of 3.6V. To gain a higher discharge we need to reposition them in a series of 2. <a href="#bibliography">[10]</a> Duplicating the amount of voltage. The capacity of the batteries remains unchanged. 
 
 
 
-Lithium ion batteries are prone to hazardous conditions like overcharging, deep discharge and overheating. Therefor a battery protection board is an essential component to safeguard the battery cells and ensure proper charging. <a href="https://www.ufinebattery.com/blog/learn-about-lithium-battery-protection-circuit/" target=“_blank”>[11]</a> Specific electronic conditions require specific boards. This project required an 8A BMS HX-2S-D2.
+Lithium ion batteries are prone to hazardous conditions like overcharging, deep discharge and overheating. Therefor a battery protection board is an essential component to safeguard the battery cells and ensure proper charging. <a href="#bibliography">[11]</a> Specific electronic conditions require specific boards. This project required an 8A BMS HX-2S-D2.
 
 ```
          ┌────────────┐                  
@@ -70,11 +70,11 @@ for aesthetical representation.
 
 
 
-Making the device capable of recharging demands a component with a high voltage intake. Common power supplies use an output of 5V. The MT3608 converter module <a href="https://www.instructables.com/DC-DC-Boost-Converter-MT3608/" target=“_blank”>[12]</a> boosts the 5V to 9V/12V for charging. Don’t forget to adjust the trimmer with a tiny screwdriver until the voltage is set to the desired output. (In this instance 7.2V.)
+Making the device capable of recharging demands a component with a high voltage intake. Common power supplies use an output of 5V. The MT3608 converter module <a href="#bibliography">[12]</a> boosts the 5V to 9V/12V for charging. Don’t forget to adjust the trimmer with a tiny screwdriver until the voltage is set to the desired output. (In this instance 7.2V.)
 
 
 
-A 7.2 voltage output is too large for the single board microprocessor operating the electronic computing tool. It becomes essential to reduce the electronic discharge. Avoiding a potential shortening, the S8V9F5 <a href="https://www.pololu.com/product/2123" target=“_blank”>[13]</a> converts the battery voltage to a stable 5V for the Raspberry Pi 3B.
+A 7.2 voltage output is too large for the single board microprocessor operating the electronic computing tool. It becomes essential to reduce the electronic discharge. Avoiding a potential shortening, the S8V9F5 <a href="#bibliography">[13]</a> converts the battery voltage to a stable 5V for the Raspberry Pi 3B.
 
 ```
  ┌──────────────┐      /                 
@@ -99,7 +99,7 @@ GROUND(NEGATIVE) │  8A BMS  │
                                          
 1. Connect all cables to the negative terminal (P-) of the battery protection board.
  
-2. Contact from Raspberry Pi 3B+ to GND pin is accomplished by soldering a female pin connecter to the end of your wire in combination with a one pin connecter. The allocation of the GPIO pin function depends to the specific device. (Look up micro processors data-sheet <a href="https://raspberrytips.com/raspberry-pi-gpio-pins/#required-hardware " target=“_blank”>[14]</a>)
+2. Contact from Raspberry Pi 3B+ to GND pin is accomplished by soldering a female pin connecter to the end of your wire in combination with a one pin connecter. The allocation of the GPIO pin function depends to the specific device. (Look up micro processors data-sheet <a href="#bibliography">[14]</a>)
 
 
 Including a switch is optional. However it is an important component to reduce the loss of electronic discharge. The user gains the option to use the tool portable or stationary. The latter implying the usage of an external corded power source. 
@@ -136,16 +136,8 @@ ALL POSTIVES     │  8A BMS  │
 
 
 
-This tutorial is not an exclusive approach for producing a sustainable power source. Most components used are in support of the specific hardware found in my discarded powerbank. Consider this when approaching this project for personal use. Modifying lithium ion batteries has significant safety concerns. RE-USE AT OWN RISK (more info: https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/)
+This tutorial is not an exclusive approach for producing a sustainable power source. Most components used are in support of the specific hardware found in my discarded powerbank. Consider this when approaching this project for personal use. Modifying lithium ion batteries has significant safety concerns. RE-USE AT OWN RISK (more info: <a href="https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/" target="_blank">https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/</a>)
 
----
-
-[9] https://www.sciencedirect.com/science/article/pii/S2950357424000271 <br>
-[10] https://lithiumhub.com/series-vs-parallel/ <br>
-[11] https://www.ufinebattery.com/blog/learn-about-lithium-battery-protection-circuit/ <br>
-[12] https://www.instructables.com/DC-DC-Boost-Converter-MT3608/ <br>
-[13] https://www.pololu.com/product/2123 <br>
-[14] https://raspberrytips.com/raspberry-pi-gpio-pins/#required-hardware 
 
 
 
