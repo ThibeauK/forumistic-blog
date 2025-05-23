@@ -2,6 +2,7 @@
 
 
 
+<p><a href="#image-bibliography">[I]</a><img src="images/post4-1"></p>
 Defining technology in our current innovation addicted society is an important task. In *A rant about technology* <a href="https://www.ursulakleguin.com/a-rant-about-technology" target=“_blank”>[3]</a> Ursula K. Le Guin frames it as the active human interference with the material world. Further elaborating that *We have been decentralised by a hundred and fifty years of ceaselessly expanding technical prowess that we think nothing less complex and showy than a computer or a jet bomber deserves to be called technology.* Grasping this is an important task to use futuristic terminology. I will elaborate more about the digital devices that Le Guin illustrates in the latter of her sentence, the computer. This electronic machine has been the biggest technological factor in sculpting my personality. It has been my source of entertainment, a designing toolbox, an online hub for friends, etc. On my fifth birthday my uncle gave me my first computer. A plastic kid friendly clamshell laptop. A device created for children to apprehend the machine destined to forever have a presence in their life. Getting familiar with its internal layout and external navigational components. 
 
 
