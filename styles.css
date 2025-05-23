@@ -105,7 +105,7 @@ padding: 0.5em 2em;
     width: 99% !important;
 }
 
-#bibliography + #image-bibliography{
+#bibliography, #image-bibliography{
     color: rgb(79, 53, 243);
     margin-top: 40px;
     overflow-wrap: break-word;
