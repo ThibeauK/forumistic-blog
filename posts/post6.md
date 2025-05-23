@@ -42,7 +42,7 @@ Hacking is not a specific act. It could embody anything relating to the explorat
 
 
 
-<p><a href="#image-bibliography">[II]</a><img src="images/post5-2.jpg"></p>
+<p><a href="#image-bibliography">[III]</a><img src="images/post5-2.jpg"></p>
 In the beginning of this research I envisioned myself taking apart motherboards. 
 Reusing their parts for my new machines. Instead I stumbled upon the world of single board computers 
 such as the raspberry Pi. A perfect instrument for creating single purpose tools due to their high performance 
