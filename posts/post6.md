@@ -2,7 +2,7 @@
 
 
 
-*Hardware Hacking: have fun while voiding your warranty* <a href="" target=“_blank”>[5]</a> is a book written by hacker-writer Joe Grand and Andrew 'bunnie' Huang (foreword). Mostly populated with technological tutorials, explaining how to hack/modify certain electronically devices. Literary interesting parts include the foreword and introduction. These illustrate hacker culture. Bunnie transfigures *hack* as *An incredible good and perhaps time consuming piece of work that produces exactly what is needed... A desire to play with and understand technology, a modern manifestation of exploration and passion* 
+*Hardware Hacking: have fun while voiding your warranty* <a href="#bibliography">[5]</a> is a book written by hacker-writer Joe Grand and Andrew 'bunnie' Huang (foreword). Mostly populated with technological tutorials, explaining how to hack/modify certain electronically devices. Literary interesting parts include the foreword and introduction. These illustrate hacker culture. Bunnie transfigures *hack* as *An incredible good and perhaps time consuming piece of work that produces exactly what is needed... A desire to play with and understand technology, a modern manifestation of exploration and passion* 
 
 
 <p><a href="#image-bibliography">[II]</a><img src="images/post5-1.jpg"></p>
@@ -51,6 +51,3 @@ I felt like a kid stacking blocks instead of a c00l hacker ripping apart machine
 Grands contextualisation of hacking is what gave me my new found confidence. 
 Reassuring me to not feel like a n00b in this vast technological field. 
  
-___
-
-[5] <a href="https://repo.zenk-security.com/Magazine%20E-book/EN-Hardware%20Hacking%20-%20Have%20Fun%20While%20Voiding%20Your%20Warranty%20(2004).pdf" target=“_blank”> Hardware Hacking: have fun while voiding your warranty, Joe Grand, 2004</a>
