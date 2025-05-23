@@ -6,7 +6,8 @@ One critique I appointed against contemporary clamshell devices was their sleek 
 
 
 <p><a href="#image-bibliography">[XIV]</a><img src="images/post18-1.jpg"></p>
-In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank">[28]</a> and *Simplifier* <a href="https://simplifier.neocities.org/materials " target="_blank">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
+
+In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="#bibliography">[28]</a> and *Simplifier* <a href="#bibliography">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
 
 
 
@@ -34,6 +35,7 @@ Materials used:
 
 
 <p><a href="#image-bibliography">[XV]</a><img src="images/post18-2.jpg"></p>
+
 Determining the computer's shape was difficult. I was unable to envision a hyper stylised device. I  pictured a framework detached from minimalist sleekness, ultimately shaping the device around its internal components. Producing a rectangular machine reminiscent of early computational wedges <a href="#posts-post15">[post15]</a> . 
 
 
@@ -83,7 +85,7 @@ PROPORTIONS OF DIAGRAMS DO NOT COINCIDE WITH PHYSICAL COMPONENTS.  Items are r
 
 
 Molding damp clay makes it difficult to shape sturdy structures like walls. Controlling the material is easier in a leather dry state.
-An ideal consistency that no longer warps when held but is malleable with enough effort. <a href="https://thepotterywheel.com/make-a-clay-slab/" target="_blank">[30]</a> A flat clay slab allows it to reach this dehydrated condition. Thickness of slab is based on manifested device. (In this instance I used a thickness of 0.7cm) 
+An ideal consistency that no longer warps when held but is malleable with enough effort. <a href="#bibliography">[30]</a> A flat clay slab allows it to reach this dehydrated condition. Thickness of slab is based on manifested device. (In this instance I used a thickness of 0.7cm) 
 
 
 
@@ -191,7 +193,7 @@ Manipulating clay creates unpredictable shapes. This inconsistency is unusable f
 2. Cut out structures. (Cut straight down so wall edges are not crooked.) 
 
 
-Modelling a three dimensional shell proposes the employment of multiple clay parts. Individual walls are still separated from the large foundational slab. Water gives clay its adhesive ability, enabling the creation of an unified object. <a href="https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/" target="_blank">[31]</a>
+Modelling a three dimensional shell proposes the employment of multiple clay parts. Individual walls are still separated from the large foundational slab. Water gives clay its adhesive ability, enabling the creation of an unified object. <a href="#bibliography">[31]</a>
 ```
    ┌─┐   ┌───┐        ┌────────────────────┐           
    │\│   │\  │        │                    │           
@@ -224,4 +226,4 @@ I want to underline my personal hypocrisy in this practical inquiry. The computa
 
 
 
-Developing an object with transparent silicone requires a mold, implying reproductive properties. A hollow sticky cast replaces the previous natural object, broken during its transformation. Silicone's production is not environmentally benign. <a href="https://www.greenmatch.co.uk/blog/is-silicone-bad-for-the-environment" target="_blank">[32]</a> My practical decision rests on the replicating nature of the see-through material. And its ability to capture the clay’s hands-on appearance. 
+Developing an object with transparent silicone requires a mold, implying reproductive properties. A hollow sticky cast replaces the previous natural object, broken during its transformation. Silicone's production is not environmentally benign. <a href="#bibliography">[32]</a> My practical decision rests on the replicating nature of the see-through material. And its ability to capture the clay’s hands-on appearance. 
