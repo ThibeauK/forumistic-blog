@@ -5,7 +5,7 @@
 *Hardware Hacking: have fun while voiding your warranty* <a href="" target=“_blank”>[5]</a> is a book written by hacker-writer Joe Grand and Andrew 'bunnie' Huang (foreword). Mostly populated with technological tutorials, explaining how to hack/modify certain electronically devices. Literary interesting parts include the foreword and introduction. These illustrate hacker culture. Bunnie transfigures *hack* as *An incredible good and perhaps time consuming piece of work that produces exactly what is needed... A desire to play with and understand technology, a modern manifestation of exploration and passion* 
 
 
-
+<p><a href="#image-bibliography">[II]</a><img src="images/post5-1.jpg"></p>
 Andrew Huang is emblematic of the hardware culture and its origin. 
 As an early participant he perceived the evolution of electronic devices’ construction.
 *I was hoping to be able to read it like a book, with all the logic gates’ part numbers gleaming 
@@ -42,7 +42,7 @@ Hacking is not a specific act. It could embody anything relating to the explorat
 
 
 
-
+<p><a href="#image-bibliography">[II]</a><img src="images/post5-2.jpg"></p>
 In the beginning of this research I envisioned myself taking apart motherboards. 
 Reusing their parts for my new machines. Instead I stumbled upon the world of single board computers 
 such as the raspberry Pi. A perfect instrument for creating single purpose tools due to their high performance 
