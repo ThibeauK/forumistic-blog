@@ -6,7 +6,7 @@ One critique I appointed against contemporary clamshell devices was their sleek 
 
 
 
-In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *feminist hardware: making printed circuit boards with natural clay* <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank">[28]</a> and *Simplifier* <a href="https://simplifier.neocities.org/materials " target="_blank">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
+In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank">[28]</a> and *Simplifier* <a href="https://simplifier.neocities.org/materials " target="_blank">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
 
 
 
