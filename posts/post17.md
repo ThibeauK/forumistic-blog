@@ -227,9 +227,5 @@ I want to underline my personal hypocrisy in this practical inquiry. The computa
 Developing an object with transparent silicone requires a mold, implying reproductive properties. A hollow sticky cast replaces the previous natural object, broken during its transformation. Silicone's production is not environmentally benign. <a href="https://www.greenmatch.co.uk/blog/is-silicone-bad-for-the-environment" target="_blank">[32]</a> My practical decision rests on the replicating nature of the see-through material. And its ability to capture the clay’s hands-on appearance. 
 
 ---
-[28] <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank"> Feminist Hardware: Making Printed Circuit Boards with Natural Clay, Patrícia J. Reis and Stefanie Wuschitz, 2023</a> <br>
-[29] <a href="https://simplifier.neocities.org/materials" target="_blank">Concept Of Materials, Simplifier, 2020</a> <br>
-[30] <a href="https://thepotterywheel.com/make-a-clay-slab/" target="_blank">How to Make a Clay Slab – 4 Easy Ways to Roll Clay Evenly, Lesley, 2022 </a> <br>
-[31] <a href="https://cursist-courses.com/en/how-do-you-attach-different-clay-components-to-each-other/" target="_blank">How do you attach different clay components to each other?, Nele Ostyn, 2023 </a> <br>
-[32] <a href="https://www.greenmatch.co.uk/blog/is-silicone-bad-for-the-environment" target="_blank">From Sand to Shelf: Is Silicone Eco-Friendly?, Inemesit Ukpanah, 2024</a>
+<img src="images/post17-1.jpg">
  
