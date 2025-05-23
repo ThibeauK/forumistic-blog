@@ -5,7 +5,7 @@
 One critique I appointed against contemporary clamshell devices was their sleek aesthetics. These represent false promises of limitless innovation. Highlighting computational technology's inability to shape-shift into distinct functional forms. Practicing DIY computerised customisation breaks designer's connection with consumerist engineering. The re-glorification of hands-on traditions coupled with the use of salvaged hardware, materialises sustainable devices critical of their own technological nature.
 
 
-
+<p><a href="#image-bibliography">[XIV]</a><img src="images/post18-1.jpg"></p>
 In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="https://hangar.org/en/agenda-hangar/feminist-hardware-making-printed-circuit-boards-with-natural-clay/" target="_blank">[28]</a> and *Simplifier* <a href="https://simplifier.neocities.org/materials " target="_blank">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
 
 
@@ -33,7 +33,7 @@ Materials used:
 
 
 
-
+<p><a href="#image-bibliography">[XV]</a><img src="images/post18-2.jpg"></p>
 Determining the computer's shape was difficult. I was unable to envision a hyper stylised device. I  pictured a framework detached from minimalist sleekness, ultimately shaping the device around its internal components. Producing a rectangular machine reminiscent of early computational wedges <a href="#posts-post15">[post15]</a> . 
 
 
