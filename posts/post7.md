@@ -8,6 +8,6 @@ Researching the origins of graphic design and the computer becomes an essential 
 
 *-Ruth Oldenziel & Helmuth Trishler*  <a href="#bibliography">[7]</a>
 
-<p><a href="#image-bibliography">[IV]</a><img src="images/post7-1.jpg"> <a href="#image-bibliography"> [V]</a><img src="images/post7-2.jpg"> <a href="#image-bibliography"> [VI]</a><img src="images/post7-3.jpg"></p>
+<p><a href="#image-bibliography">[IV]<img src="images/post7-1.jpg"></a> <a href="#image-bibliography"> [V]<img src="images/post7-2.jpg"></a> <a href="#image-bibliography"> [VI]<img src="images/post7-3.jpg"></a></p>
 
 The designer has used computing tools since the late 19th century. Analog devices like Linotype and phototypesetting machines precede current electronic computers. Their usage did not only produce a specific aesthetic reminiscent of the instrument. They also facilitated a kinship with their user. Workers understood their personal Linotype machines. They knew which specific **sizzle** would signal a molten metal spew. Enabling them to evade a physical burn. Contemporary graphic designers fail to understand their tool. With very generation, electronic devices progressively conceal their internal hardware. Examplified by current generation MacBooks which infuse their battery to the upper part of the case. *A battery replacement has transformed into a removal of every component.* <a href="#bibliography">[8]</a> 
