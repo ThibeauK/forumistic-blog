@@ -5,7 +5,7 @@
 *Hardware Hacking: have fun while voiding your warranty* <a href="#bibliography">[5]</a> is a book written by hacker-writer Joe Grand and Andrew 'bunnie' Huang (foreword). Mostly populated with technological tutorials, explaining how to hack/modify certain electronically devices. Literary interesting parts include the foreword and introduction. These illustrate hacker culture. Bunnie transfigures *hack* as *An incredible good and perhaps time consuming piece of work that produces exactly what is needed... A desire to play with and understand technology, a modern manifestation of exploration and passion* 
 
 
-<p><a href="#image-bibliography">[II]</a><img src="images/post6-1.jpg"></p>
+<p><a href="#image-bibliography">[II]<img src="images/post6-1.jpg"></a></p>
 
 Andrew Huang is emblematic of the hardware culture and its origin. 
 As an early participant he perceived the evolution of electronic devices’ construction.
