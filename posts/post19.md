@@ -10,7 +10,7 @@ This website embraces multiple narratives. Digital exploration is feasible throu
 
 
 
-I want to propose one last narration. A notion that highlights the inquiry’s influence on personal computational development. **Forumistic.blog**’s physical vessel materialises critical technological research. <a href="#post-post3">[post3]</a> and <a href="#post-post11">[post11]</a> stimulated the development of this single-purpose device. Fostering skeptical reflections on computational necessity established a minimalist machine. Its functionality includes: writing, publishing and digital research. The latter has transformed into a slow practice. Thoughtful key presses has replaces rapid typing. The digital publishing was executed through the device’s console. Commands enabled me to post technological research sustained upon minimalist hardware. The website’s design reflects this technical methodology. 
+I want to propose one last narration. A notion that highlights the inquiry’s influence on personal computational development. **Forumistic.blog**’s physical vessel materialises critical technological research. <a href="#post-post3">[post3]</a> and <a href="#post-post11">[post11]</a> stimulated the development of this single-purpose device. Fostering skeptical reflections on computational necessity established a minimalist machine. Its functionality includes: writing, publishing and digital research. The latter has transformed into a slow practice. Thoughtful key presses has replaces rapid typing. Digital publishing was executed through the device’s console. Commands enabled me to post technological research sustained upon minimalist hardware. The website’s design reflects this technical methodology. 
 
 
 
@@ -18,4 +18,4 @@ I want to propose one last narration. A notion that highlights the inquiry’s i
 
 
 
-This technological research is not a technical manifesto. It is practical and digital manifestation of an attempt to understand computing technology. I do not condemn the reader of using systemised computers. Nor do I despise contemporary machines. **Forumistic.blog** and its computational vessel are a critical expression against current engineering structures. Its goal is to make the reader aware of their personal technological history <a href="#post-post4">[post4]</a>. Assisting them to foster sustainable digital practices.  
+This technological research is not a technical manifesto. It is a practical and digital manifestation of an attempt to understand computing technology. I do not condemn the reader of using systemised computers. Nor do I despise contemporary machines. **Forumistic.blog** and its computational vessel are a critical expression against current engineering structures. Its goal is to make the reader aware of their personal technological history <a href="#post-post4">[post4]</a>. Assisting them to foster sustainable digital practices.  
