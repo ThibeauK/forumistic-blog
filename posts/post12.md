@@ -39,10 +39,39 @@ Try and outsource from local repositories or obtain them from regional web-store
 
 Salvaging hidden components is unattainable without systemised hardware, illustrating technologies attachment to commercial manufacturers. LCD driver boards are electronic circuits able to convert input signals. Also controlling the timing and voltage levels to ensure proper display operation. <a href=“#bilbliography”>[21]</a> Controller boards are display panel specific. Look up **LCD controller board + model number** (Found on explanatory label.) to purchase appropriate component. <a href=“#bilbliography”>[22]</a>
 
+```
+ ┌┬─────────────LVDS────┬┐           
+ │└────────────┬INPUT┬──┘│           
+ │└ ─ ─ ─ ─ ─ ─└┬┬┬┬┬┘─ ┘│           
+ │              ││││└────┴────┐      
+ │              │││└─────────┐│      
+ │  BACK OF     ││└─────────┐││      
+ │  LCD DISPLAY └┴───────┬─┐│││      
+ │                       │ ││││      
+ │                       │ ││││L     
+ └───────────────────────┘ ││││V     
+                           ││││D     
+                ┌──────────┘│││S     
+     ┌^─┐ ┌─────┼──────┐    │││      
+     │ o│ │            │    │││      
+     │  │ │         O──┼────┘││      
+     │ o│ │         U──┼─────┘│      
+     │  │ │         T──┼──────┘      
+     │ o│ │ LCD        │             
+   ┌─┼ o│ │ CONTROLLER │             
+   │┌┼  │ │ BOARD      │             
+   │││ o│ │            │             
+   ││└──┘ └───────┼┼───┘             
+   │└─────────────┘│                 
+   └───────────────┘                 
+CONNECTING DISPLAY                   
+TO B101AW03 V1 (CB)               
+```
 
-                
-PROPORTIONS OF DIAGRAMS DO NOT COINCIDE WITH PHYSICAL COMPONENTS.  Items are reduced or enlarged in favor for aesthetical representation.
-
+PROPORTIONS OF DIAGRAMS DO NOT COINCIDE 
+WITH PHYSICAL COMPONENTS. 
+Items are reduced or enlarged in favor 
+for aesthetical representation.
 
 
 1. Plug LVDS cable into LCD display panel.
@@ -97,8 +126,27 @@ USB cables are internally separated into four electrical tubings: power positive
 
 The standard voltage for USB cables is 5V, most camera module boards run on 3.6V. Two 1N4001 diodes reduce the cable’s electronic discharge from 5V to 3.6V. Neglecting these components could destroy the camera module board. 
 
+```
+      USB                            
+     ┌───┐                           
+    +5V  ┼──DIODE1─►───DIODE2─►─────┐
+  +DATA  ┼─────────────────────────┐│
+  -DATA  ┼─────────────────────────┤│
+   -GND  ┼────────────────────────┐x│
+     └───┘                        │x│
+                      EXTRA WIRE─┐│x│
+  ─ ─────────────────┐           ││x│
+                   ? ┼───────────┘│x│
+   CAMERA       -GND ┼────────────┘x│
+   MODULE      DATA- ┼──────┬─x─x─x┘│
+   BOARD       DATA+ ┼──────┘       │
+               +3.6V ┼──────────────┘
+   ─ ─ ──────────────┘               
+ SOLDERING USB                       
+ TO 930100Y50-515-G (CMB)                        
+```
 
-              
+            
 <a href=“#bibliography”>[24]</a> 
 
 
