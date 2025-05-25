@@ -1,6 +1,6 @@
 # Permacomputing
 
-Lastly, I want to highlight permacomputing. An emerging technological concept inspired by counter-culture agricultural movements. Interweaving anti-industrial principles with technological awareness to manifest a meaningful and sustainable place for computational systems. <a href="#bibliography">[29]</a> Permacomputing practices seek to move across old and new media technology. Highlighting the reutilisation of aged technologies without nostalgic fetishisation. Technological criticality arises from the awareness that there has never been a good time for technology. It still needs to be established. 
+Permacomputing is an emerging technological concept inspired by counter-culture agricultural movements. Interweaving anti-industrial principles with technological awareness to manifest a meaningful and sustainable place for computational systems. <a href="#bibliography">[29]</a> Permacomputing practices seek to move across old and new media technology. Highlighting the reutilisation of aged technologies without nostalgic fetishisation. Technological criticality arises from the awareness that there has never been a good time for technology. It still needs to be established. 
 
 
 
