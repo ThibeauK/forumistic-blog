@@ -7,7 +7,7 @@ One critique I appointed against contemporary clamshell devices was their sleek 
 
 <p><a href="#image-bibliography">[XVI]<img src="images/post18-1.jpg"></a></p>
 
-In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="#bibliography">[28]</a> and *Simplifier* <a href="#bibliography">[29]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
+In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="#bibliography">[32]</a> and *Simplifier* <a href="#bibliography">[33]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
 
 
 
@@ -85,7 +85,7 @@ PROPORTIONS OF DIAGRAMS DO NOT COINCIDE WITH PHYSICAL COMPONENTS.  Items are r
 
 
 Molding damp clay makes it difficult to shape sturdy structures like walls. Controlling the material is easier in a leather dry state.
-An ideal consistency that no longer warps when held but is malleable with enough effort. <a href="#bibliography">[30]</a> A flat clay slab allows it to reach this dehydrated condition. Thickness of slab is based on manifested device. (In this instance I used a thickness of 0.7cm) 
+An ideal consistency that no longer warps when held but is malleable with enough effort. <a href="#bibliography">[34]</a> A flat clay slab allows it to reach this dehydrated condition. Thickness of slab is based on manifested device. (In this instance I used a thickness of 0.7cm) 
 
 
 
@@ -193,7 +193,7 @@ Manipulating clay creates unpredictable shapes. This inconsistency is unusable f
 2. Cut out structures. (Cut straight down so wall edges are not crooked.) 
 
 
-Modelling a three dimensional shell proposes the employment of multiple clay parts. Individual walls are still separated from the large foundational slab. Water gives clay its adhesive ability, enabling the creation of an unified object. <a href="#bibliography">[31]</a>
+Modelling a three dimensional shell proposes the employment of multiple clay parts. Individual walls are still separated from the large foundational slab. Water gives clay its adhesive ability, enabling the creation of an unified object. <a href="#bibliography">[35]</a>
 ```
    ┌─┐   ┌───┐        ┌────────────────────┐           
    │\│   │\  │        │                    │           
@@ -226,4 +226,4 @@ I want to underline my personal hypocrisy in this practical inquiry. The computa
 
 
 
-Developing an object with transparent silicone requires a mold, implying reproductive properties. A hollow sticky cast replaces the previous natural object, broken during its transformation. Silicone's production is not environmentally benign. <a href="#bibliography">[32]</a> My practical decision rests on the replicating nature of the see-through material. And its ability to capture the clay’s hands-on appearance. 
+Developing an object with transparent silicone requires a mold, implying reproductive properties. A hollow sticky cast replaces the previous natural object, broken during its transformation. Silicone's production is not environmentally benign. <a href="#bibliography">[36]</a> My practical decision rests on the replicating nature of the see-through material. And its ability to capture the clay’s hands-on appearance. 
