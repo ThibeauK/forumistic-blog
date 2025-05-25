@@ -2,7 +2,7 @@
 
 
 
-<p><a href=“#image-bibliography”>[XI] <img src=“images/post-12-1.jpg”></a></p>
+<p><a href=“#image-bibliography”>[XI] <img src=“images/post12-1.jpg”></a></p>
 Filled with passion to comprehend computational technology, I broke open my original HP notebook. [post4] Re-utilising its internal hardware to design new computational devices. Dead machines posses multiple re-usable components. Questioning computational necessity highlights internal hardware capable of emphasising technological awareness. This blog’s computational vessel should be able to display internal research and document self-existence. Requiring an external display and camera to execute specified functions. Both are effortlessly salvageable. 
 
 
@@ -13,16 +13,16 @@ Filled with passion to comprehend computational technology, I broke open my orig
 
 
 
-**External display tutorial**
+**External display tutorial:**
 
 
 
 Materials used: 
-- internal LCD panel
+internal LCD panel
 
 
 
-- B101AW03 V1 (LCD controller board)
+-    B101AW03 V1 (LCD controller board)
 
 
 
@@ -78,7 +78,10 @@ for aesthetical representation.
 
 
 
-**Camera tutorial**
+
+
+
+**Camera tutorial:**
 
 
 
@@ -86,15 +89,15 @@ Materials used:
 
 
 
--	930100Y50-515-G (Internal camera module board)
+-    930100Y50-515-G (Internal camera module board)
 
 
 
--	2 x 1N4001 Diodes
+-    2 x 1N4001 Diodes
 
 
 
--	re-appropriated USB wire 
+-    re-appropriated USB wire 
 
 
 
@@ -112,15 +115,15 @@ USB cables are internally separated into four electrical tubings: power positive
 
 
 
--	Power ground is easily locatable. Take turns connecting a large copper trace to every wire. The multimeter will **beep** when you have established the correct cable. 
+-    Power ground is easily locatable. Take turns connecting a large copper trace to every wire. The multimeter will **beep** when you have established the correct cable. 
 
 
 
--	Discovering power positive is more challenging. Connect a small transistor-like component (power regulator) to alternating wires. Another **Beep** will highlight power positive. Some contact points are also attached to power negative, I advice you to test the connectors multiple times. 
+-    Discovering power positive is more challenging. Connect a small transistor-like component (power regulator) to alternating wires. Another **Beep** will highlight power positive. Some contact points are also attached to power negative, I advice you to test the connectors multiple times. 
 
 
 
--	The data connections are most undeniably the two entwined cables. 
+-    The data connections are most undeniably the two entwined cables. 
 
 
 
@@ -158,6 +161,7 @@ The standard voltage for USB cables is 5V, most camera module boards run on 3.6V
 
 
 
-<p><a href=“#image-bibliography”>[XI] <img src=“images/post-12-2.jpg”></a></p> 
+<p><a href=“#image-bibliography”>[XI] <img src=“images/post12-2.jpg”></a></p> 
+
 **Forumistic.blog** utilises a salvaged camera module to capture digital pictures. Reappropriated hardware removes computational dependence on screen capturing software. Low quality images shape pixelated silhouettes, accompanied by descriptive language. Allowing the user to visualise theoretical inquiries detached from high data transfer. Original image links are accessible in <a href=“#image-bibliography”>#image-bibliography</a>.
  
