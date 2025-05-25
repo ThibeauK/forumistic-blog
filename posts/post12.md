@@ -1,20 +1,14 @@
-#Tutorial: salvaging external display and camera
+# Tutorial: salvaging external display and camera
 
 
 
-<p><a href=“image-bibliography”>[XI] <img src=“post-12-1”></a></p>
+<p><a href=“#image-bibliography”>[XI] <img src=“images/post-12-1”></a></p>
 Filled with passion to comprehend computational technology, I broke open my original HP notebook. [post4] Re-utilising its internal hardware to design new computational devices. Dead machines posses multiple re-usable components. Questioning computational necessity highlights internal hardware capable of emphasising technological awareness. This blog’s computational vessel should be able to display internal research and document self-existence. Requiring an external display and camera to execute specified functions. Both are effortlessly salvageable. 
 
 
 
 1. Disconnect laptop from power source and remove internal battery. (Eliminating electrical hazards.)
-
-
-
 2. Remove all screws from display frame. (There are multiple hidden underneath rubber pads, don’t forget to extract.)
-
-
-
 3. Carefully dislodge plastic framework. 
 
 
@@ -38,13 +32,7 @@ Try and outsource from local repositories or obtain them from regional web-store
 
 
 1. Locate and remove screws anchoring display panel.
-
-
-
 2. Disconnect LVDS cable (Sometimes necessary to open up entire machine to locate wire. Attached to specific internal hardware.)
-
-
-
 3. Unplug inverter component located at bottom of screen. 
 
 
@@ -86,13 +74,7 @@ The internal camera component is situated above display panel. This salvaging pr
 
 
 1. Disconnect camera component from system.
-
-
-
 2. Cut wire to approximately 6 cm.
-
-
-
 3. Discover purpose of each wire. 
 
 
@@ -128,6 +110,6 @@ The standard voltage for USB cables is 5V, most camera module boards run on 3.6V
 
 
 
-<p><a href=“image-bibliography”>[XI] <img src=“post-12-2”></a></p> 
+<p><a href=“#image-bibliography”>[XI] <img src=“images/post-12-2”></a></p> 
 **Forumistic.blog** utilises a salvaged camera module to capture digital pictures. Reappropriated hardware removes computational dependence on screen capturing software. Low quality images shape pixelated silhouettes, accompanied by descriptive language. Allowing the user to visualise theoretical inquiries detached from high data transfer. Original image links are accessible in <a href=“#image-bibliography”>#image-bibliography</a>.
  
