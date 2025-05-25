@@ -1,0 +1,21 @@
+#current conclusion? 
+
+
+
+Reassessing this academic inquiry fabricates an open conclusion. Yet, I am required to deliver a finalised PDF. Scholastic evaluation is merely feasible through the use of static media. Sustained by a desire to produce linear narratives. This technological inquiry was never written as a thesis. It is the digital materialisation of sporadic thinking. Its irregular nature shaped a distinct writing style. Blog posts are populated with small sentences and technological narratives influenced by preceding entries and physical research. Textual categorisation contradicts **forumistic.blog**’s organic development. Computational reflection is a framework enabling unsystematic codification.
+
+
+
+This website embraces multiple narratives. Digital exploration is feasible through the chronological ruleset of the blog, enforcing the user to read **bottom up**. The comments-container fabricates new post-chronologies. Replying to digital updates enables the user to gain further insight. Personal interest empowers readers to pursue corresponding texts. 
+
+
+
+I want to propose one last narration. A notion that highlights the inquiry’s influence on personal computational development. **Forumistic.blog**’s physical vessel materialises critical technological research. [post3] and [post11] stimulated the development of this single-purpose device. Fostering skeptical reflections on computational necessity established a minimalist machine. Its functionality includes: writing, publishing and digital research. The latter has transformed into a slow practice. Thoughtful key presses has replaces rapid typing. The digital publishing was executed through the device’s console. Commands enabled me to post technological research sustained upon minimalist hardware. The website’s design reflects this technical methodology. 
+
+
+
+[post5], [post7] and [post9] established the designer’s contemporary computer. Illustrating unsustainable devices incapable of critical technological awareness. These demonstrate mechanical challenges my single purpose device must overcome. Hardware hacking tactics empower critical narratives [post10]. One academic year did not give me enough technological insight to comprehend indecipherable components. [post6] and [post16] reassured this personal technological unfamiliarity. The comprehension that observing technology is still a form of hacking encouraged me to use single-board computers. [post15] exemplifies how hardware modification can adhere to computerised consumerism.    [post12], [post13] and [post14] highlights sustainable alternatives in the ethics of personal engineering. Inspiring me to develop a DIY machine without western entrepreneurial habits. 
+
+
+
+This technological research is not a technical manifesto. It is practical and digital manifestation of an attempt to understand computing technology. I do not condemn the reader of using systemised computers. Nor do I despise contemporary machines. **Forumistic.blog** and its computational vessel are a critical expression against current engineering structures. Its goal is to make the reader aware of their personal technological history [post4]. Assisting them to foster sustainable digital practices.  
