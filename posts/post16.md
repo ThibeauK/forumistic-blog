@@ -2,7 +2,7 @@
 
 <p><a href="#image-bibliography">[XIII]<img src="images/post16-1.jpg"></a> <a href="#image-bibliography">[XIV]<img src="images/post16-2.jpg"></a></p>
 
-Desktop systems have disappeared due to the standardisation of portability. Processing the term **computer** conceives a mental image of clamshell tools. This technological evolution of computerised devices killed personalisation. Electronic customisation is present in stationary devices. Contemporary PC modders have access to unlimited components. Yet, they often focus on computerised consumerism, accompanied by high frame rate and kitsch RGB embellishments. Customising laptops is difficult due to their sandwiched internal hardware. Laptops use stickers to flaunt personal style, unable to gloat with expensive external components. Their shell is merged with electronic organs. Ripping apart their encasing kills the original device. 
+Desktop systems have disappeared due to the standardisation of portability. Processing the term **computer** conceives a mental image of clamshell tools. This technological evolution of computerised devices killed personalisation. Electronic customisation is present in stationary devices. Contemporary PC modders have access to unlimited components. Yet, they often focus on computerised consumerism, accompanied by high frame rate and kitsch RGB embellishments. Customising laptops is difficult due to their sandwiched internal hardware. Laptops use stickers to flaunt personal style, unable to gloat with expensive external components. Their shell merges themselves to internal electronic organs. Ripping apart their encasing kills the original device. 
 
 <p><a href="#image-bibliography">[XV]<img src="images/post16-3.jpg"></a></p>
 
