@@ -1,18 +1,45 @@
-# Technological gambiarra 
+# Dao-engineering 
 
 
-<p><a href="#image-bibliography">[XII]<img src="images/post15-1.jpg"></a></p>
-
-Dao-engineering proves the usefulness of diverse technological reasoning. Brazil’s cultural practices visualises electronics unsustainable habits. The thesis *Gambiarra: repair culture* <a href="#bibliography">[21]</a> frames the creation of *MetaReciclagem*. Previously quoted in <a href="#post-post12">post12</a>, co-founder Felipe Fonseca illustrates the networks origins and disapproval of Western entrepreneurial habits. In 2002, the group of electronics hobbyists primarily discussed ideals. Eventually leading to the creation of the Brazilian collective. Their practice originated as the exploration of discarded computational machines. Altering their internal functioning with the assistance of open source software. Evolving into a loose network sustaining technological methodologies. Advocating for critical appropriation of technologies on behalf of socialistic change. 
-
-
-
-Their actions are rooted in Brazilian ideals such as gambiarra. *Gambiarra refers to all kinds of improvised solutions to concrete problems that appear when one doesn’t have access to the proper tools, materials, parts or specific knowledge to perform a given task. It is all about repairing or re-purposing objects that seemed to be little use but end up acquiring new value of tactic, applied creativity.* Ideals of **everyday innovation** fuel their repurposing actions. Opposite to Western practices that maintain uneven distribution and enclose technological knowledge. This imbalance visualises the distinction between electronic necessity and Western curiosity. Brimming with commercial designers advertising plastic prototypes. 
+Transcending Western technology facilitates the discovery of critical practices such as Dao-engineering. A technological principle based upon Chinese religio-philosophical traditions. One blog post fails to summarise Daoist life teachings. The following paragraphs highlight their critical relation with the machine. 
 
 
 
-Felipe Fonseca senses the dissapearance of hackers longing to be electronic carpenters. Their presence is replaced by entrepreneurial geeks praising their Google Drive spreadsheets. This behaviour supports the central role of commercial operations. Visible in the usage of proprietary operating systems found on maker space machines. *Prototypes are to an extent the opposition of the Brazilian gambiarra. These are not an object on their own, rather a rehearsal of a finalised product. Waiting to be mass produced. Implying their wasteful nature.*
+In ‘A Dao of technology?’ <a href="#bibliography">[22]</a>, Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researchers inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
 
 
 
-Gambiara engineering discovers multiple solutions. Re-purposing various electronic objects to perform tasks not previously foreseen. For them repair culture is not merely about the physical act of extending an objects life time or altering their functions. It embodies a technological protest against the modification of creativity into commodity.  
+Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline Zigong and an old man watering his vegetables;
+
+
+
+*There is a machine for this sort of thing,’ said Zigong. 'In one day it can water a hundred fields, demanding very little effort and producing excellent results. Wouldn’t you like one?*
+
+
+
+*…*
+
+
+
+*The gardener flushed with anger and then said with a laugh, 'I’ve heard my teacher say, where there are machines, there are bound to be machine worries; where there are machine worries, there are bound to be machine hearts. With a machine heart in your breast, you’ve spoiled what was pure and simple, and without the pure and simple, the life of the spirit knows no rest. Where the life of the spirit knows no rest, the Way will cease to buoy you up. It’s not that I don’t know about your machine—I would be ashamed to use it!* 
+
+
+
+*Zigong blushed with chagrin, looked down, and made no reply.* <br>
+<a href="#bibliography">[23]</a>
+
+
+
+The old man embodies questions around machine-necessity. Finding embarrassment in the usage of irrigational tools. As designers we need to distinguishing computational technology's enforcement as essential or an act of comfortability. Mechanical tactics have substituted artificial structures of known reliability. Computational devices enforce the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilities the creation of restless minds. Digital designers' reliance on computational machines confesses their detachment from the art of dao. *Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.*
+
+
+
+Obtaining water without the usage of technology is a feasible task. Yet, Zigong’s follower proclaimed that the machine's utilisation improves irrigation. The old man questions the tool's comfortability. Stating that their usage implies the presence of consumerist tactics. Equivalent to graphic design’s entrepreneurial habits upholding the exploitation of computational machines. Hardware hacking breaks pre-established comfortability. Evidently, disconnecting the user from capitalistic structures. 
+
+
+
+*Alternative to engineering held hostage to despotic ideas about efficiency and profit. Not all technology is the same. Some may be coercive and unbalanced, some more generous and sage-like.* Daoism does not condemn machines for their problematic nature. These tools are build upon the fondness of confused disordered knowledge, forging unsustainable thinking. Sage-like processing follows the nature of things. Opposing contemporary machines distorting their environment. Their knowledge achieves great effectiveness without the need for expenditure. Nature-like behaviour encourages spontaneous and harmonious efficiency. Condemning computational devices focused on effectiveness. 
+
+
+
+*Wu wei effectiveness comes into view as a principle that is not specifically Chinese; it belongs to the world history of techniques and design, having been discerned early and independently in the autochthonous traditions of world art and technology. Design works best when it does not seem to be working at all, and it does not seem to be working when it seems to work like nature, despite obvious artifice. The best designed artificers never look like nature. Everyone can plainly see that they are artefacts.* 
