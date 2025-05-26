@@ -8,7 +8,7 @@
 
 
 
-Early instances of digital graphic design indicate a child-like playfulness. Designers were compelled to experiment with their new computational toys. Works facilitated experiments attempting to comprehend these unfamiliar computing device. Their foundation was build upon a need for self reliance. Separating their dependency from technicians and machines stationed in laboratories. 
+Early instances of digital graphic design indicate a child-like playfulness. Designers were compelled to experiment with their new computational toys. Works facilitated experiments attempting to comprehend these unfamiliar computing device. Their foundation was built upon a need for self reliance. Separating their dependency from technicians and machines stationed in laboratories. 
 
 <p><a href="#image-bibliography">[VII]<img src="images/post9-1.jpg"></a> <a href="#image-bibliography">[VIII]<img src="images/post9-2.jpg"></a></p>
 
