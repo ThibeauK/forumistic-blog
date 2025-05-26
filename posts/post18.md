@@ -7,7 +7,7 @@ One critique I appointed against contemporary clamshell devices was their sleek 
 
 <p><a href="#image-bibliography">[XVI]<img src="images/post18-1.jpg"></a></p>
 
-In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="#bibliography">[32]</a> and *Simplifier* <a href="#bibliography">[33]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands on manipulation has replaced previous digital designing. 
+In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="#bibliography">[32]</a> and *Simplifier* <a href="#bibliography">[33]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands-on manipulation has replaced previous digital designing. 
 
 
 
@@ -36,11 +36,11 @@ Materials used:
 
 <p><a href="#image-bibliography">[XVII]<img src="images/post18-2.jpg"></a></p>
 
-Determining the computer's shape was difficult. I was unable to envision a hyper stylised device. I  pictured a framework detached from minimalist sleekness, ultimately shaping the device around its internal components. Producing a rectangular machine reminiscent of early computational wedges <a href="#posts-post16">[post16]</a>. 
+Determining the computer's shape was difficult. I was unable to envision a hyper stylised device. Picturing a technological framework detached from minimalist sleekness. Ultimately, shaping the device around its internal components. Producing a rectangular machine reminiscent of early computational wedges <a href="#posts-post16">[post16]</a>. 
 
 
 
-First, sketch the dimensions of your device. I used salvaged cardboard to design a speculative model. 
+Sketch the dimensions of your device. I used salvaged cardboard to design a speculative model. 
 ```
                      SWITCH                            
          ┌───┐        ┌─/─┐            ┌───┐           
@@ -76,7 +76,7 @@ INPUTS││ │                                 ││   │
     SHAPING DEVICE                                     
     TO COMPONENTS                                             
 ```
-PROPORTIONS OF DIAGRAMS DO NOT COINCIDE WITH PHYSICAL COMPONENTS.  Items are reduced or enlarged in favor for aesthetical representation.
+PROPORTIONS OF DIAGRAMS DO NOT COINCIDE WITH PHYSICAL COMPONENTS. Items are reduced or enlarged in favor for aesthetical representation.
 
 1. Shape to personal desire. 
 
@@ -89,7 +89,7 @@ An ideal consistency that no longer warps when held but is malleable with enough
 
 
 
-Roller guides refrain you from flattening the clay too much and prevents uneven manipulation. I employed commercial wooden guides but any same sized tall object works. 
+Roller guides refrain you from flattening the clay too much and prevent uneven manipulation. I employed commercial wooden guides but any same sized tall object works. 
 ```
     ┌ ─┬┐                                              
    ┌┘ ─┘┴┐        ┌───────┐                            
@@ -145,7 +145,7 @@ Roller guides refrain you from flattening the clay too much and prevents uneven 
 
 
 
-Manipulating clay creates unpredictable shapes. This inconsistency is unusable for computational designs where size is specified to internal hardware. The cardboard speculative model forms a foresecast structure, utilising its negative space as a stencil. 
+Manipulating clay creates unpredictable shapes. This inconsistency is unusable for computational designs where size is specified to internal hardware. The cardboard speculative model forms a foresecast structure. Utilising its negative space as a stencil. 
 ```
    ┌─────────────────────────────────────────────┐     
    │        ┌───┐        ┌───┐            ┌───┐  │     
@@ -226,4 +226,4 @@ I want to underline my personal hypocrisy in this practical inquiry. The computa
 
 
 
-Developing an object with transparent silicone requires a mold, implying reproductive properties. A hollow sticky cast replaces the previous natural object, broken during its transformation. Silicone's production is not environmentally benign. <a href="#bibliography">[36]</a> My practical decision rests on the replicating nature of the see-through material. And its ability to capture the clay’s hands-on appearance. 
+Developing an object with transparent silicone requires a mold, implying reproductive properties. A hollow sticky cast replaces the natural object. Broken during its transformation. Silicone's production is not environmentally benign. <a href="#bibliography">[36]</a> My practical decision rests on the replicating nature of the see-through material, and its ability to capture the clay’s hands-on appearance. 
