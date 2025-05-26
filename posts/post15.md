@@ -1,7 +1,7 @@
 # Technological gambiarra 
 
 
-<p><a href="#image-bibliography">[XII]<img src="images/post15-1.jpg"></a></p>
+<div id="images"><a href="#image-bibliography">[XII]<img src="images/post15-1.jpg"></a><em>Ordered stacks of re-usable electronic components </em></div>
 
 Brazil’s cultural practices visualises electronics unsustainable habits. The thesis *Gambiarra: repair culture* <a href="#bibliography">[25]</a> frames the creation of *MetaReciclagem*. Previously quoted in <a href="#post-post13">[post13]</a>, co-founder Felipe Fonseca illustrates the network's origins and disapproval of Western entrepreneurial habits. In 2002, the group of electronics hobbyists primarily discussed ideals. Eventually leading to the creation of the Brazilian collective. Their practice originated as the exploration of discarded computational machines. Altering their internal functioning with the assistance of open source software. Evolving into a loose network sustaining technological methodologies. Advocating for critical appropriation of technologies on behalf of socialistic change. 
 
