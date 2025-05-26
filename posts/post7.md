@@ -2,9 +2,9 @@
 
 
 
-Researching the origins of graphic design and the computer becomes an essential task to comprehend their symbiotic relationship. Like other disciplines styles have been used to pigeonhole works in genres, determining their historical origins. While investigating it became evident that the utilization of styles was unsuccessful. Books such as Graphic Design: A New History <a href="#bibliography">[6]</a> by Stephen J. Eskilson mentions the revolution computing technology brought to the industry. Elaborating with artistic forms created during the rapid development of electronic devices. Failing to perceive how the machines’ hardware impacted stylistic choices. Through categorizing works according to the computing tools that facilitated their creation, the influence of the equipment begins to emerge.
+Researching the origins of graphic design and the computer becomes an essential task to comprehend their symbiotic relationship. Like other disciplines, styles have been used to pigeonhole works in genres, determining their historical origins. While investigating it became evident that the utilisation of styles was unsuccessful. Books such as Graphic Design: A New History <a href="#bibliography">[6]</a> by Stephen J. Eskilson mention the revolution computing technology brought to the industry. Elaborating with artistic forms created during the rapid development of electronic devices. Failing to perceive how the machines’ hardware impacted stylistic choices. Through categorising works according to the computing tools that facilitated their creation, the influence of the equipment begins to emerge.
 
-*From the perspective of the history of technologies, then it is less helpful to see innovations as having linear histories, moving in a trajectory towards stabilisation, than it to observe how technologies and movements wane and revive in cycles and there relations to other technologies and practices.* 
+*From the perspective of the history of technologies, then it is less helpful to see innovations as having linear histories, moving in a trajectory towards stabilisation, than it is to observe how technologies and movements wane and revive in cycles and their relations to other technologies and practices.* 
 
 *-Ruth Oldenziel & Helmuth Trishler*  <a href="#bibliography">[7]</a>
 
