@@ -5,7 +5,7 @@ Concluding this technological research transforms its open-ended structure into 
 
 
 
-This website embraces multiple narratives. Digital exploration is feasible through the chronological ruleset of the blog, enforcing the user to read **bottom up**. The <a href=#comments-container>comments-container</a> fabricates new post-chronologies. Replying to digital updates enables the user to gain further insight. Personal interest empowers readers to pursue corresponding texts. 
+This website embraces multiple narratives. Digital exploration is feasible through the chronological ruleset of the blog, enforcing the user to read **bottom up**. The <a href=#comments-container>#comments-container</a> fabricates new post-chronologies. Replying to digital updates enables the user to gain further insight. Personal interest empowers readers to pursue corresponding texts. 
 
 
 
