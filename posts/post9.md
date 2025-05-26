@@ -8,7 +8,7 @@
 
 
 
-Early instances of digital graphic design indicate a child-like playfulness. Designers were compelled to experiment with their new computational toys. Works facilitated experiments attempting to comprehend these unfamiliar computing device. Their foundation was built upon a need for self reliance. Separating their dependency from technicians and machines stationed in laboratories. 
+Early instances of digital graphic design indicate a child-like playfulness. Designers were compelled to experiment with their new computational toys. Works facilitated experiments attempting to comprehend these unfamiliar computing devices. Their foundation was built upon a need for self-reliance. Separating their dependency from technicians and machines stationed in laboratories. 
 
 <p><a href="#image-bibliography">[VII]<img src="images/post9-1.jpg"></a> <a href="#image-bibliography">[VIII]<img src="images/post9-2.jpg"></a></p>
 
@@ -16,14 +16,14 @@ April Greiman was among the earliest artists to accept the new digital tool as a
 
 
 
-Graphic design has transformed in relation to computer hardware. Digital works reflect Western societes' addiction to technological advancements. Hackable machines have evolved into untranscribable devices. Works have turned themselves against the previous experimental art. Technology developed contemporary designers, stuck in an endless loop of cleanliness. Becoming ever more clueless off their function. 
+Graphic design has transformed in relation to computer hardware. Digital works reflect Western societes' addiction to technological advancements. Hackable machines have evolved into untranscribable devices. Works have turned themselves against previous experimental art. Technology developed contemporary designers, stuck in an endless loop of cleanliness. Becoming ever more clueless of their function. 
 
 
 <a href="#image-bibliography">[IX]<img src="images/post9-3.jpg"></a></p>
 
-Website design serves as a contemporary example of the computing machine’s influence on design. It is a practice fundamentally established in it. *From the beginning site design had to match technology. As technology became more advanced and website producers gained better control over what appeared in the users’ browser the design no longer was a reflection of or an adjustment to technology.* <a href="#bibliography">[18]</a> The digital designer was able to redefine their practice. Using digital software to expose the mediums technological limitations. Consciously destroying their pragmatic infrastructure. 
+Website design serves as a contemporary example of the computing machine’s influence on design. It is a practice fundamentally established in it. *From the beginning site design had to match technology. As technology became more advanced and website producers gained better control over what appeared in the users’ browser the design no longer was a reflection of or an adjustment to technology.* <a href="#bibliography">[18]</a> The digital designer was able to redefine their practice. Using digital software to expose the medium's technological limitations. Consciously destroying their pragmatic infrastructure. 
 
 
 
-Comprehending that the promised **unlimited potential** of technology does have boundaries is key to forging a healthy relationship. Reminiscent of the industrial revolution sustained by fossil fuels, designers believe the tools and software nourishing their work are limitless. They are not. Our digital computing tools are build upon mineral mining and an over abundant usage of power. We are inherently stuck in an unsustainable digital world. Our best bet is to rethink the computational hardware structure our artistic realm is forced to sustain from. Rather than finding solutions to sustain it. 
+Comprehending that the promised **unlimited potential** of technology does have boundaries is key to forging a healthy relationship. Reminiscent of the industrial revolution sustained by fossil fuels, designers believe the tools and software nourishing their work are limitless. They are not. Our digital computing tools are built upon mineral mining and an over abundant usage of power. We are inherently stuck in an unsustainable digital world. Our best bet is to rethink the computational hardware structure our artistic realm is forced to sustain from. Rather than finding solutions to sustain it. 
 
