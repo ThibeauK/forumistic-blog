@@ -135,7 +135,7 @@ ALL POSTIVES     │  8A BMS  │
 
 
 
-This tutorial is not an exclusive approach for producing a sustainable power source. Most components used are in support of the specific salvaged hardware. Consider this when approaching this project for personal use. Modifying lithium ion batteries has significant safety concerns. RE-USE AT OWN RISK (more info: <a href="https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/" target="_blank">https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/</a>)
+This tutorial is not an exclusive approach for producing a sustainable power source. Most components used are in support of the specific salvaged hardware. Consider this when approaching this tutorial for personal use. Modifying lithium ion batteries has significant safety concerns. RE-USE AT OWN RISK (more info: <a href="https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/" target="_blank">https://www.energy-batteries.com/lithium-ion-safety-concerns-understanding-the-risks-and-mitigation-strategies/</a>)
 
 
 
