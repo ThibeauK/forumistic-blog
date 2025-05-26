@@ -2,7 +2,7 @@
 
 
 
-<div id="images"><a href=#image-bibliography>[X] <img src="images/post12-1.jpg"></a><br><em>Zerofootprint3’s DIY computer setup</em></div>
+<div id="images"><a href=#image-bibliography>[X] <img src="images/post12-1.jpg"></a><br><em>⎇ Zerofootprint3’s DIY computer setup</em></div>
 Filled with passion to comprehend computational technology, I broke open my original HP notebook. [post4] Re-utilising its internal hardware to design new computational devices. Dead machines possess multiple re-usable components. Questioning computational necessity highlights internal hardware capable of emphasising technological awareness. This blog’s computational vessel should be able to display internal research and document self-existence. Requiring an external display and camera to execute specified functions. Both are effortlessly salvageable. 
 
 
@@ -157,7 +157,7 @@ The standard voltage for USB cables is 5V, most camera module boards run on 3.6V
 
 
 
-<div id="images"><a href=#image-bibliography>[XI] <img src="images/post12-2.jpg"></a><br><em>Alternative screenshot setup using salvaged camera component </em></div> 
+<div id="images"><a href=#image-bibliography>[XI] <img src="images/post12-2.jpg"></a><br><em>⎇ Alternative screenshot setup using salvaged camera component </em></div> 
 
 **Forumistic.blog** utilises a salvaged camera module to capture digital pictures. Reappropriated hardware removes computational dependence on screen capturing software. Low quality images shape pixelated silhouettes, accompanied by descriptive language. Allowing the user to visualise theoretical inquiries detached from high data transfer. Original image links are accessible in <a href=#image-bibliography>#image-bibliography</a>.
  

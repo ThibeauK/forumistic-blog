@@ -6,7 +6,7 @@
 
 
 <div id="images"><a href="#image-bibliography">[II]<img src="images/post6-1.jpg"></a><br>
- <em>IBM PC-AT motherboard</em></div>
+ <em>⎇ IBM PC-AT motherboard</em></div>
 
 Andrew Huang is emblematic of hardware cultural origins. 
 As an early participant he perceived the evolution of electronic devices’ construction.
@@ -45,7 +45,7 @@ Hacking is not a specific act. It could embody anything relating to the explorat
 
 
 <div id="images"><a href="#image-bibliography">[III]<img src="images/post6-2.jpg"></a>
-<br><em>Raspberry Pi 3B+ (2017)</em></div>
+<br><em>⎇ Raspberry Pi 3B+ (2017)</em></div>
 
 In the beginning of this research I envisioned myself taking apart motherboards. 
 Reusing their parts for my new machines. Instead I stumbled upon the world of single board computers. A perfect instrument for creating single purpose tools due to their high performance 
