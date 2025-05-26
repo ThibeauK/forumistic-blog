@@ -1,14 +1,14 @@
-# Blog vs Forum
+# Blog vs forum
 
 
 
-During the early development of this page multiple aliases were used: forum-wiki, thesis-forum, blog-wiki. Unclear of their respective meaning, I used them as an entry point into my research. The first step after the websites creation was to define it. The page *Blog, Wiki or Forum – Which to use?* <a href="#bibliography">[2]</a> compares the forum, blog and wiki. It’s clear that the term wiki does not fit the created framework. Classification becomes a comparison between blog and forum. 
+During the early development of this page multiple aliases were used: forum-wiki, thesis-forum, blog-wiki. Unclear of their respective meaning, I used them as an entry point into my research. The first step after the website's creation was to define it. The page *Blog, Wiki or Forum – Which to use?* <a href="#bibliography">[2]</a> compares the forum, blog and wiki. It’s clear that the term wiki does not fit the created framework. Classification becomes a comparison between blog and forum. 
 
 
 
 *Definition*
 
-*Teaching.unsw defines the blog as online journal, diary or news column with posts in reverse-chronological order (latest first) and options for readers to comment. The forum is explained as a noticeboard or message board where people start new topics or discussions and respond to existing ones.* 
+*Teaching.unsw defines the blog as an online journal, diary or news column with posts in reverse-chronological order (latest first) and options for readers to comment. The forum is explained as a noticeboard or message board where people start new topics or discussions and respond to existing ones.* 
 
 
 *Uses*
