@@ -18,12 +18,12 @@ This technological inquiry’s single-purpose computer is sustained by salvaged 
 
 Components include:
 
--   Second hand Raspberry Pi 3B+
--   Salvaged power source <a href="post-post8">[post8]</a>
--   Camera component optimised with USB protocol <a href="post-post12">[post12]</a>
--   Recycled external LCD Display 
--   Flexible keyboard circuit 
--   Silicone chassis <a href="post-post18">[post18]</a>
+-    Second hand Raspberry Pi 3B+
+-    Salvaged power source <a href="post-post8">[post8]</a>
+-    Camera component optimised with USB protocol <a href="post-post12">[post12]</a>
+-    Recycled external LCD Display 
+-    Flexible keyboard circuit 
+-    Silicone chassis <a href="post-post18">[post18]</a>
 
 ```
                         ┌────┬─────────────┐
