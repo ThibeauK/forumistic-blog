@@ -5,7 +5,7 @@ Transcending Western technology facilitates the discovery of critical practices 
 
 
 
-In ‘A Dao of technology?’ <a href="#bibliography">[26]</a>, Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researchers inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
+In *A Dao of technology?* <a href="#bibliography">[26]</a>, Barry Allen deletes pre-established anti-technological animosity intertwined with Daoistic beliefs. The text visualises contemporary researcher's inability to comprehend Daoism’s technological concerns. Chinese households have employed labor-saving devices. Finding technological instability in the ethics of our engineering, not the machine itself. 
 
 
 
@@ -13,7 +13,7 @@ Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline 
 
 
 
-*There is a machine for this sort of thing,’ said Zigong. 'In one day it can water a hundred fields, demanding very little effort and producing excellent results. Wouldn’t you like one?*
+*'There is a machine for this sort of thing,' said Zigong. 'In one day it can water a hundred fields, demanding very little effort and producing excellent results. Wouldn’t you like one?'*
 
 
 
@@ -21,7 +21,7 @@ Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline 
 
 
 
-*The gardener flushed with anger and then said with a laugh, 'I’ve heard my teacher say, where there are machines, there are bound to be machine worries; where there are machine worries, there are bound to be machine hearts. With a machine heart in your breast, you’ve spoiled what was pure and simple, and without the pure and simple, the life of the spirit knows no rest. Where the life of the spirit knows no rest, the Way will cease to buoy you up. It’s not that I don’t know about your machine—I would be ashamed to use it!* 
+*The gardener flushed with anger and then said with a laugh, 'I’ve heard my teacher say, where there are machines, there are bound to be machine worries; where there are machine worries, there are bound to be machine hearts. With a machine heart in your breast, you’ve spoiled what was pure and simple, and without the pure and simple, the life of the spirit knows no rest. Where the life of the spirit knows no rest, the Way will cease to buoy you up. It’s not that I don’t know about your machine—I would be ashamed to use it!'* 
 
 
 
@@ -30,7 +30,7 @@ Chapter 12 of the Zhuangzi illustrates an encounter between Kong’s discipline 
 
 
 
-The old man embodies questions around machine-necessity. Finding embarrassment in the usage of irrigational tools. As designers we need to distinguishing computational technology's enforcement as essential or an act of comfortability. Mechanical tactics have substituted artificial structures of known reliability. Computational devices enforce the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilities the creation of restless minds. Digital designers' reliance on computational machines confesses their detachment from the art of dao. *Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.* <a href="#bibliography">[26]</a>
+The old man embodies questions around machine-necessity. Finding embarrassment in the usage of irrigational tools. As designers we need to distinguish computational technology's enforcement as essential or an act of comfortability. Mechanical tactics have substituted artificial structures of known reliability. Computational devices enforce the production of digital safety nets. Electronic tool boxes disconnect us from pure and simple design. Their infinite options facilitate the creation of restless minds. Digital designers' reliance on computational machines confesses their detachment from the art of dao. *Constructed, mechanical, technological artefacts always come too late, when things are in a resting phase, requiring excessive force to move them. The better people are at this (fluid, flexible and easy), the less use the will have for artless mechanical contrivances.* <a href="#bibliography">[26]</a>
 
 
 
@@ -38,7 +38,7 @@ Obtaining water without the usage of technology is a feasible task. Yet, Zigong�
 
 
 
-*Alternative to engineering held hostage to despotic ideas about efficiency and profit. Not all technology is the same. Some may be coercive and unbalanced, some more generous and sage-like.* <a href="#bibliography">[26]</a> Daoism does not condemn machines for their problematic nature. These tools are build upon the fondness of confused disordered knowledge, forging unsustainable thinking. Sage-like processing follows the nature of things. Opposing contemporary machines distorting their environment. Their knowledge achieves great effectiveness without the need for expenditure. Nature-like behaviour encourages spontaneous and harmonious efficiency. Condemning computational devices focused on effectiveness. 
+*Alternative to engineering held hostage to despotic ideas about efficiency and profit. Not all technology is the same. Some may be coercive and unbalanced, some more generous and sage-like.* <a href="#bibliography">[26]</a> Daoism does not condemn machines for their problematic nature. These tools are built upon the fondness of confused disordered knowledge, forging unsustainable thinking. Sage-like processing follows the nature of things. Opposing contemporary machines distorting their environment. Their knowledge achieves great effectiveness without the need for expenditure. Nature-like behaviour encourages spontaneous and harmonious efficiency. Condemning computational devices focused on effectiveness. 
 
 
 
