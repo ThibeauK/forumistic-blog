@@ -14,7 +14,7 @@ This website embraces multiple narratives. Digital exploration is feasible throu
 
 
 
-This technological inquiry’s single-purpose computer is sustained by salvaged hardware and preconceived through natural elements. A Raspberry Pi 3B+ facilitates the device’s computing capabilities. Reminiscent of historical computational wedges the machine’s body exhibits keyboard characteristics. Its transparent enclosure reveals internal components, empowering the user to comprehend internal mechanisms. 
+This technological inquiry’s single-purpose computer is sustained by salvaged hardware and preconceived through natural elements. A Raspberry Pi 3B+ facilitates the device’s computing capabilities. Reminiscent of historical computational wedges, the machine’s body exhibits keyboard characteristics. Its transparent enclosure reveals internal components, empowering the user to comprehend internal mechanisms. 
 
 Components include:
 
