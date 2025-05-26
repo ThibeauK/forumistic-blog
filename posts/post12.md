@@ -3,7 +3,7 @@
 
 
 <p><a href=#image-bibliography>[X] <img src="images/post12-1.jpg"></a></p>
-Filled with passion to comprehend computational technology, I broke open my original HP notebook. [post4] Re-utilising its internal hardware to design new computational devices. Dead machines posses multiple re-usable components. Questioning computational necessity highlights internal hardware capable of emphasising technological awareness. This blog’s computational vessel should be able to display internal research and document self-existence. Requiring an external display and camera to execute specified functions. Both are effortlessly salvageable. 
+Filled with passion to comprehend computational technology, I broke open my original HP notebook. [post4] Re-utilising its internal hardware to design new computational devices. Dead machines possess multiple re-usable components. Questioning computational necessity highlights internal hardware capable of emphasising technological awareness. This blog’s computational vessel should be able to display internal research and document self-existence. Requiring an external display and camera to execute specified functions. Both are effortlessly salvageable. 
 
 
 
@@ -17,10 +17,9 @@ Filled with passion to comprehend computational technology, I broke open my orig
 
 
 
-Materials used: 
-internal LCD panel
+Components used: 
 
-
+-    internal LCD panel
 
 -    B101AW03 V1 (LCD controller board)
 
@@ -37,7 +36,7 @@ Try and outsource from local repositories or obtain them from regional web-store
 
 
 
-Salvaging hidden components is unattainable without systemised hardware, illustrating technologies attachment to commercial manufacturers. LCD driver boards are electronic circuits able to convert input signals. Also controlling the timing and voltage levels to ensure proper display operation. <a href=“#bilbliography”>[21]</a> Controller boards are display panel specific. Look up **LCD controller board + model number** (Found on explanatory label.) to purchase appropriate component. <a href=“#bilbliography”>[22]</a>
+Salvaging hidden components is unattainable without systemised hardware, illustrating technologies attachment to commercial manufacturers. LCD driver boards are electronic circuits able to convert input signals. They also control the timing and voltage levels to ensure proper display operation. <a href=“#bilbliography”>[21]</a> Controller boards are display panel specific. Look up **LCD controller board + model number** (Found on explanatory label) to purchase appropriate component. <a href=“#bilbliography”>[22]</a>
 
 ```
  ┌┬─────────────LVDS────┬┐           
@@ -69,8 +68,7 @@ TO B101AW03 V1 (CB)
 ```
 
 PROPORTIONS OF DIAGRAMS DO NOT COINCIDE 
-WITH PHYSICAL COMPONENTS. 
-Items are reduced or enlarged in favor 
+WITH PHYSICAL COMPONENTS. Items are reduced or enlarged in favor 
 for aesthetical representation.
 
 
@@ -85,9 +83,7 @@ for aesthetical representation.
 
 
 
-Materials used: 
-
-
+Components used:  
 
 -    930100Y50-515-G (Internal camera module board)
 
@@ -97,11 +93,11 @@ Materials used:
 
 
 
--    re-appropriated USB wire 
+-    Re-appropriated USB wire 
 
 
 
-The internal camera component is situated above display panel. This salvaging process will not utilise systemised hardware, simply re-purposing an unused USB cable.
+The internal camera component is situated above the display panel. This salvaging process will not utilise systemised hardware, simply re-purposing an unused USB cable.
 
 
 
@@ -156,7 +152,7 @@ The standard voltage for USB cables is 5V, most camera module boards run on 3.6V
 
 1. Solder module board’s ground cable to USB power negative wire. 
 2. Connect power positive to USB equivalent. Locate two 1N4001 Diodes in between both cables. (Stripe facing camera module board.)
-3. Attach both data wires to corresponding USB tubing. (Polarity of wire can only be discover after connecting camera to computational system. Unlikely to cause actual harm.)
+3. Attach both data wires to corresponding USB tubing. (Polarity of wire can only be discovered after connecting camera to computational system. Unlikely to cause actual harm.)
 4. Wrap all visible contact points in insulation tape. (Cover up all external wires to avoid shortage.)
 
 
