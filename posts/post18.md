@@ -5,7 +5,7 @@
 One critique I appointed against contemporary clamshell devices was their sleek aesthetics. These represent false promises of limitless innovation. Highlighting computational technology's inability to shape-shift into distinct functional forms. Practicing DIY computerised customisation breaks designer's connection with consumerist engineering. The re-glorification of hands-on traditions coupled with the use of salvaged hardware, materialises sustainable devices critical of their own technological nature.
 
 
-<div id="images"><a href="#image-bibliography">[XVI]<img src="images/post18-1.jpg"></a><em>Snapshot of hand-made clay circuit board</em></div>
+<div id="images"><a href="#image-bibliography">[XVI]<img src="images/post18-1.jpg"></a><br><em>Snapshot of hand-made clay circuit board</em></div>
 
 In addition to the computer's exploitation of rare minerals, electronic devices employ ingredients like plastic and metal to cloak unsustainable hardware. Practices such as *Feminist Hardware: making printed circuit boards with natural clay* <a href="#bibliography">[32]</a> and *Simplifier* <a href="#bibliography">[33]</a> employ natural materials to critique technologies' foundation. Their actions inspired me to limit usage of discardable matters. Settling on local clay to shape my single-purpose device. Hands-on manipulation has replaced previous digital designing. 
 
@@ -34,7 +34,7 @@ Materials used:
 
 
 
-<div id="images"><a href="#image-bibliography">[XVII]<img src="images/post18-2.jpg"></a><em>Commodore VIC-20 with small external display</em></div>
+<div id="images"><a href="#image-bibliography">[XVII]<img src="images/post18-2.jpg"></a><br><em>Commodore VIC-20 with small external display</em></div>
 
 Determining the computer's shape was difficult. I was unable to envision a hyper stylised device. Picturing a technological framework detached from minimalist sleekness. Ultimately, shaping the device around its internal components. Producing a rectangular machine reminiscent of early computational wedges <a href="#posts-post16">[post16]</a>. 
 
