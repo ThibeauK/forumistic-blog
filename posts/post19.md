@@ -1,7 +1,7 @@
 # Provisional conclusion 
 
 
-Concluding this technological research transforms its open-ended structure into static media, severing it from internal critical motivations. Unable to formulate stationary resolutions, I present current technological verdicts as a provisional conclusion. I encourage my future self to update **forumistic.blog**’s digital inquiry. Linear narratives are deceptive of critical technological awareness. Ceaseless experimental frameworks allow users to critique ever-changing technological structures. Rather than a thesis, this technological inquiry was written as the digital materialisation of sporadic thinking. Its irregular nature shaped a distinct writing style. Blog posts are populated with small sentences and technological narratives influenced by preceding entries and physical research. Textual categorisation contradicts **forumistic.blog**’s organic development. Computational reflection is a framework enabling unsystematic codification.
+Concluding this technological research transforms its open-ended structure into static media, severing it from internal critical motivations. Unable to formulate stationary resolutions, I present current technological verdicts as a provisional conclusion. I encourage my future self to update **forumistic.blog**’s digital inquiry. Linear narratives are deceptive of critical technological awareness. Ceaseless experimental frameworks allow users to critique ever-changing technological structures. Rather than a thesis, this technological inquiry was written as the digital materialisation of sporadic thinking. Its irregular nature shaped a distinct writing style. Blog posts are populated with small sentences and technological narratives, influenced by preceding entries and physical research. Textual categorisation contradicts **forumistic.blog**’s organic development. Computational reflection is a framework enabling unsystematic codification.
 
 
 
@@ -18,12 +18,12 @@ This technological inquiry’s single-purpose computer is sustained by salvaged 
 
 Components include:
 
-- Second hand Raspberry Pi 3B+
-- Salvaged power source <a href="post-post8">[post8]</a>
-- Camera component optimised with USB protocol <a href="post-post12">[post12]</a>
-- Recycled external LCD Display 
-- Flexible keyboard circuit 
-- Silicone chassis <a href="post-post18">[post18]</a>
+-   Second hand Raspberry Pi 3B+
+-   Salvaged power source <a href="post-post8">[post8]</a>
+-   Camera component optimised with USB protocol <a href="post-post12">[post12]</a>
+-   Recycled external LCD Display 
+-   Flexible keyboard circuit 
+-   Silicone chassis <a href="post-post18">[post18]</a>
 
 ```
                         ┌────┬─────────────┐
