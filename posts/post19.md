@@ -16,7 +16,7 @@ I want to propose one last narration. A notion that highlights the inquiry’s i
 
 <a href="#post-post5">[post5]</a>, <a href="#post-post7">[post7]</a> and <a href="#post-post9">[post9]</a> established the designer’s contemporary computer. Illustrating unsustainable devices incapable of critical technological awareness. These demonstrate mechanical challenges my single purpose device must overcome. Hardware hacking tactics empower critical narratives <a href="#post-post10">[post10]</a>. One academic year did not give me enough technological insight to comprehend indecipherable components. <a href="#post-post6">[post6]</a> and <a href="#post-post17">[post17]</a> reassured this personal technological unfamiliarity. The comprehension that observing technology is still a form of hacking encouraged me to use single-board computers. <a href="#post-post16">[post16]</a> exemplifies how hardware modification can adhere to computerised consumerism. <a href="#post-post13">[post13]</a>, <a href="#post-post14">[post14]</a> and <a href="#post-post15">[post15]</a> highlights sustainable alternatives in the ethics of personal engineering. Inspiring me to develop a DIY machine without western entrepreneurial habits. 
 
-
+<p><a href="#image-bibliography">[XVIV]<img src="images/post19-2.jpg"></a></p>
 
 This technological inquiry’s single-purpose computer is sustained by salvaged hardware and preconceived through natural elements. A Raspberry Pi 3B+ facilitates the device’s computing capabilities. Reminiscent of historical computational wedges, the machine’s body exhibits keyboard characteristics. Its transparent enclosure reveals internal components, empowering the user to comprehend internal mechanisms. 
 
