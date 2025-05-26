@@ -19,10 +19,15 @@ This technological inquiry’s single-purpose computer is sustained by salvaged 
 Components include:
 
 -    Second hand Raspberry Pi 3B+
+
 -    Salvaged power source <a href="post-post8">[post8]</a>
+
 -    Camera component optimised with USB protocol <a href="post-post12">[post12]</a>
+
 -    Recycled external LCD Display 
+
 -    Flexible keyboard circuit 
+
 -    Silicone chassis <a href="post-post18">[post18]</a>
 
 ```
@@ -50,5 +55,6 @@ Components include:
 FINAL COMPOSITION OF                         
 COMPUTATIONAL VESSEL                                             
 ```
+PROPORTIONS OF DIAGRAMS DO NOT COINCIDE WITH PHYSICAL COMPONENTS. Items are reduced or enlarged in favor for aesthetical representation.
 
 This technological research is not a technical manifesto. It is a practical and digital manifestation of an attempt to understand computing technology. I do not condemn the reader for using systemised computers. Nor do I despise contemporary machines. **Forumistic.blog** and its computational vessel are a critical expression against current engineering structures. Its goal is to make the reader aware of their personal technological history <a href="#post-post4">[post4]</a>. Assisting them to foster sustainable digital practices.  
