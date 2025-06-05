@@ -265,11 +265,73 @@ button {
 
     #post-post13{
         width: 62vw;
+        padding-bottom: 5px;
     }
+
+    #post-post12{
+        width: 61vw;
+    }
+
+    #post-post11{
+        width: 61vw;
+    }
+
+    #post-post8{
+        width: 59.7vw;
+    }
+
+    #post-post8 pre{
+        font-size: 7.9pt;
+    }
+
+    #post-post7{
+        width: 60.35vw;
+    }
+
+    #post-post7 em{
+        padding-left: 0.1mm;
+    }
+
+    #post-post6{
+        width: 62vw;
+    }
+
+    #post-post4{
+        width: 60.5vw;
+    }
+
+    #post-post3{
+        width: 60.5vw;
+    }
+
+    #post-post1{
+        padding-bottom: 100px;
+    }
+
+    #heart{
+        padding-top: 5mm;
+    }
+
+    #comment-section{
+        display: none;
+    }
+
+    #image-bibliography{
+        margin-top: 70px;
+        font-size: 8.9pt;
+    }
+
+    #bibliography{
+        font-size: 8.9pt;
+    }
+
+
 
     pre{
         font-size: 8pt;
     }
+
+
 }
 
 

@@ -82,12 +82,12 @@ A 7.2 voltage output is too large for the single board microprocessor operating 
  │ 3B+          │   │   │    <-SWITCH    
  │              │   ├─┬─┤     (optional) 
  └───────GND─5V─┘                        
-          └────────┐        ┌──────────┐ 
-┌───────────┐      │┌───── -OUT        ┬┬
-│        VOUT      ││       │  MT3608  ││
-│ S8V9F5  GND ────┐││      +OUT        ┴┴
-│ 5V      VIN     │││       └──────────┘ 
-│          EN     └│┘                    
+          └────────┐        
+┌───────────┐      │        ┌──────────┐ 
+│        VOUT      │┌───── -OUT        ┬┬
+│ S8V9F5  GND ────┐││       │  MT3608  ││
+│ 5V      VIN     │││      +OUT        ┴┴
+│          EN     └│┘       └──────────┘               
 └───────────┘    ┌─P-P+──BM─┐            
                  │          │            
 WIRE CONNECTING  │          │            
@@ -111,12 +111,12 @@ Including a switch is optional. However it is an important component to reduce t
  │ 3B+          │   │   │    <-SWITCH    
  │              │   ├─┬─┤     (optional) 
  └───────GND─5V─┘                        
-              │     │ │ │   ┌──────────┐ 
-┌───────────┐ │     │ │ │  -OUT        ┬┬
-│        VOUT ┘     │ │ │   │  MT3608  ││
-│ S8V9F5  GND       │ │ └─ +OUT        ┴┴
-│ 5V      VIN ──────┘ │     └──────────┘ 
-│          EN         │                  
+              │     │ │ │  
+┌───────────┐ │     │ │ │   ┌──────────┐ 
+│        VOUT ┘     │ │ │  -OUT        ┬┬ 
+│ S8V9F5  GND       │ │ │   │  MT3608  ││
+│ 5V      VIN ──────┘ │ └─ +OUT        ┴┴  
+│          EN         │     └──────────┘             
 └───────────┘    ┌─P-P+──BM─┐            
                  │          │            
 WIRE CONNECTING  │          │            
