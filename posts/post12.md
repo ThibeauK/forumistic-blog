@@ -2,7 +2,11 @@
 
 
 
-<div id="images"><a href=#image-bibliography>[X] <img src="images/post12-1.jpg"></a><br><em>⎇ Zerofootprint3’s DIY computer setup</em></div>
+<div id="images">
+<a href=#image-bibliography>[X] <img src="images/post12-1.jpg"></a>
+<br><em>⎇ Zerofootprint3’s DIY computer setup</em>
+</div>
+<br>
 Filled with passion to comprehend computational technology, I broke open my original HP notebook. [post4] Re-utilising its internal hardware to design new computational devices. Dead machines possess multiple re-usable components. Questioning computational necessity highlights internal hardware capable of emphasising technological awareness. This blog’s computational vessel should be able to display internal research and document self-existence. Requiring an external display and camera to execute specified functions. Both are effortlessly salvageable. 
 
 

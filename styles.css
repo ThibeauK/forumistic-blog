@@ -43,7 +43,6 @@ a:hover{
     border: 1px solid #00FF00;
     padding: 0.2em;
     line-height: 0.5em;
-    font-size: 15px;
 }
 
 #title h1{
@@ -205,6 +204,72 @@ button {
         width: 96vw;
     } 
 
+}
+
+@media print{
+    body{
+        font-size: 9pt; 
+        padding-top: 0px;
+        margin: 3mm;
+    }
+
+    @page{
+        padding: 3mm;
+        margin: 0;
+        size: 148mm 105mm;
+    }
+
+    @page :left{
+        padding: 1mm 1mm 5mm 1mm
+    }
+
+    @page :right{
+        padding: 5mm 1mm 1mm 1mm
+    }
+
+
+    #posts-container h1{
+        font-size: 12pt;
+        text-decoration: underline;
+    }
+
+    #title{
+        margin-bottom: 20px;
+    }
+
+    #comments-container{
+        padding-top: 10px;
+        width: 31vw;
+    }
+
+    #posts-container{
+        width: 60vw; 
+    }
+
+    #posts-container .post{
+        margin-bottom: 3mm;
+    
+    }
+
+    #post-post17{
+        width: 62vw;
+    }
+
+    #post-post16{
+        padding-bottom: 70px;
+    }
+
+    #post-post15{
+        padding-bottom: 10px;
+    }
+
+    #post-post13{
+        width: 62vw;
+    }
+
+    pre{
+        font-size: 8pt;
+    }
 }
 
 

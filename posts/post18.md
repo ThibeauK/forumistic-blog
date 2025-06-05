@@ -34,7 +34,7 @@ Materials used:
 
 
 
-<div id="images"><a href="#image-bibliography">[XVII]<img src="images/post18-2.jpg"></a><br><em>Commodore VIC-20 with small external display</em></div>
+<div id="images"><a href="#image-bibliography">[XVII]<img src="images/post18-2.jpg"></a><br><em>⎇ Commodore VIC-20 with small external display</em></div>
 
 Determining the computer's shape was difficult. I was unable to envision a hyper stylised device. Picturing a technological framework detached from minimalist sleekness. Ultimately, shaping the device around its internal components. Producing a rectangular machine reminiscent of early computational wedges <a href="#posts-post16">[post16]</a>. 
 
