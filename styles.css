@@ -252,11 +252,17 @@ button {
     }
 
     #post-post17{
-        width: 62vw;
+        width: 63vw;
     }
 
     #post-post16{
-        padding-bottom: 70px;
+        width: 60vw;
+        padding-top: 10px;
+        padding-bottom: 80px;
+    }
+
+    #post-post16 #images{
+
     }
 
     #post-post15{
